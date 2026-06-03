@@ -71,6 +71,9 @@
   .topic-badge:hover { background: rgba(139,92,246,.3); }
   .summary-text { color: var(--muted); font-size: 0.84rem; max-width: 380px; }
   .date-cell { color: var(--muted); font-size: 0.82rem; white-space: nowrap; }
+  .transcript-badge { display: inline-block; font-size: 0.68rem; padding: 0.1rem 0.45rem; border-radius: 999px; margin-top: 0.4rem; }
+  .transcript-badge.real { background: rgba(52,211,153,.12); color: #34d399; border: 1px solid rgba(52,211,153,.3); }
+  .transcript-badge.none { background: rgba(251,191,36,.1); color: #fbbf24; border: 1px solid rgba(251,191,36,.3); }
 
   .empty { text-align: center; padding: 3rem 1rem; color: var(--muted-2); }
 
@@ -166,12 +169,26 @@ const HOSTS = {
   "Fireship":         "Jeff Delaney",
   "Wes Roth":         "Wes Roth",
   "AI Explained":     "AI Explained",
-  "AI Coffee Break":  "Aleksa Gordić",
+  "Machine Learning Street Talk": "Tim Scarfe",
+  "3Blue1Brown":   "Grant Sanderson",
+  "Two Minute Papers": "Károly Zsolnai-Fehér",
+  "bycloud":       "bycloud",
+  "Sentdex":       "Harrison Kinsley",
   "The AI Epiphany":  "Aleksa Gordić",
   "DeepLearningAI":   "Andrew Ng",
   "Sentdex":          "Harrison Kinsley",
   "Weights & Biases": "W&B Team",
 };
+
+// For interview-format channels, extract guest name from title
+// e.g. "Why AI Has a Plato Problem — Mazviita Chirimuuta" → "Mazviita Chirimuuta"
+function extractGuest(title) {
+  // Match everything after — or | at the end of the title
+  const match = title.match(/[—–\|]\s*([A-Za-zÀ-ÿ][^—|]+)$/);
+  return match ? match[1].trim() : null;
+}
+
+const INTERVIEW_CHANNELS = ["Machine Learning Street Talk", "The AI Epiphany", "Lex Fridman", "Weights & Biases"];
 
 let allVideos = [];
 let activeFilter = 'all';
@@ -185,7 +202,12 @@ function esc(s) {
 }
 
 function speakerOf(v) {
-  return v.speaker || HOSTS[v.channel] || '—';
+  if (v.speaker) return v.speaker;
+  if (INTERVIEW_CHANNELS.includes(v.channel)) {
+    const guest = extractGuest(v.title);
+    if (guest) return guest;
+  }
+  return HOSTS[v.channel] || '—';
 }
 
 async function loadData() {
@@ -275,7 +297,12 @@ function render() {
           ${(v.topics || []).map(t => `<span class="topic-badge" onclick="setFilter('${esc(t).replace(/'/g, "\\'")}')">${esc(t)}</span>`).join('')}
         </div>
       </td>
-      <td data-label="Summary"><div class="summary-text">${esc(v.summary) || '<em style="color:var(--muted-2)">No summary.</em>'}</div></td>
+      <td data-label="Summary">
+        <div class="summary-text">${esc(v.summary) || '<em style="color:var(--muted-2)">No summary.</em>'}</div>
+        <span class="transcript-badge ${v.transcript_source === 'yt-dlp' ? 'real' : 'none'}">
+          ${v.transcript_source === 'yt-dlp' ? '✓ real transcript' : '⚠ title only'}
+        </span>
+      </td>
       <td data-label="Date"><span class="date-cell">${esc(v.published || '—')}</span></td>
     </tr>
   `).join('');

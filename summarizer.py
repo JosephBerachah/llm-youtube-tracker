@@ -38,7 +38,7 @@ def extract_topics(text):
 def ai_summarize(title, channel, transcript):
     if transcript:
         source = f"Transcript (first 2000 chars):\n{transcript[:2000]}"
-        instruction = "In exactly 2 sentences, summarize what the creator ACTUALLY says. Be specific — reference real models, techniques, or claims mentioned in the transcript."
+        instruction = "In 4-5 sentences, summarize what the creator ACTUALLY says. Cover the main points, specific models or techniques mentioned, key claims or findings, and anything surprising or notable. Be specific — avoid generic statements."
     else:
         source = "(No transcript available — base your summary only on the title)"
         instruction = "In exactly 1 sentence, describe what this video is likely about based purely on its title. Do NOT invent details or claims not implied by the title."
@@ -55,7 +55,7 @@ Channel: {channel}
         response = client.chat.completions.create(
             model=MODEL,
             messages=[{"role": "user", "content": prompt}],
-            max_tokens=150,
+            max_tokens=300,
             temperature=0.3,
         )
         return response.choices[0].message.content.strip()
@@ -84,6 +84,7 @@ def summarize_all():
             **video,
             "summary": summary,
             "topics": topics,
+            "transcript_source": video.get("transcript_source", "none"),
             "transcript": None,
         })
 

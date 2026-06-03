@@ -1,4 +1,3 @@
-scrapetube
-youtube-transcript-api
+yt-dlp
 openai
 python-dotenv

@@ -4,19 +4,20 @@ import time
 import xml.etree.ElementTree as ET
 import urllib.request
 
-from youtube_transcript_api import YouTubeTranscriptApi
-from youtube_transcript_api._errors import NoTranscriptFound, TranscriptsDisabled, VideoUnavailable
+import yt_dlp
 
 # Channel IDs are stable — handles can change, IDs never do
 CHANNELS = [
-    {"name": "Yannic Kilcher",     "id": "UCZHmQk67mSJgfCCTn7xBfew"},
-    {"name": "AI Explained",       "id": "UCNJ1Ymd5yFuUPtn21xtRbbw"},
-    {"name": "Lex Fridman",        "id": "UCSHZKyawb77ixDdsGog4iWA"},
-    {"name": "AI Coffee Break",    "id": "UCMLtBahI5DMrt0NPvDSoIRQ"},
-    {"name": "DeepLearningAI",     "id": "UCcIXc5mAVo6qeUMcmNlk4Cg"},
-    {"name": "Sentdex",            "id": "UCfzlCWGWYyg7a9ZkXZoCezg"},
-    {"name": "The AI Epiphany",    "id": "UCj8shE7aIn4Yawwbo2FceCQ"},
-    {"name": "Weights & Biases",   "id": "UCBp3w4DCEC64FZr4k9ROxig"},
+    {"name": "Yannic Kilcher",              "id": "UCZHmQk67mSJgfCCTn7xBfew"},
+    {"name": "AI Explained",               "id": "UCNJ1Ymd5yFuUPtn21xtRbbw"},
+    {"name": "Lex Fridman",                "id": "UCSHZKyawb77ixDdsGog4iWA"},
+    {"name": "Machine Learning Street Talk","id": "UCMLtBahI5DMrt0NPvDSoIRQ"},
+    {"name": "The AI Epiphany",            "id": "UCj8shE7aIn4Yawwbo2FceCQ"},
+    {"name": "Weights & Biases",           "id": "UCBp3w4DCEC64FZr4k9ROxig"},
+    {"name": "3Blue1Brown",                "id": "UCYO_jab_esuFRV4b17AJtAw"},
+    {"name": "Two Minute Papers",          "id": "UCbfYPyITQ-7l4upoX8nvctg"},
+    {"name": "bycloud",                    "id": "UCfg9ux4m8P0YDITTPptrmLg"},
+    {"name": "Sentdex",                    "id": "UCfzlCWGWYyg7a9ZkXZoCezg"},
 ]
 
 # Keywords to filter only LLM/AI-relevant videos
@@ -64,16 +65,34 @@ def parse_rss(xml_bytes, channel_name):
     return videos
 
 def get_transcript(video_id):
+    url = f"https://www.youtube.com/watch?v={video_id}"
+    ydl_opts = {
+        "skip_download": True,
+        "quiet": True,
+        "no_warnings": True,
+    }
     try:
-        api = YouTubeTranscriptApi()
-        fetched = api.fetch(video_id, languages=["en", "en-US", "en-GB"])
-        parts = [getattr(s, "text", "") for s in fetched.snippets]
-        return " ".join(parts).strip()[:TRANSCRIPT_LIMIT] or None
-    except (NoTranscriptFound, TranscriptsDisabled, VideoUnavailable):
-        return None
+        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            info = ydl.extract_info(url, download=False)
+            subs = info.get("subtitles", {}) or {}
+            auto = info.get("automatic_captions", {}) or {}
+            captions = (subs.get("en") or subs.get("en-US") or
+                       auto.get("en") or auto.get("en-US") or [])
+            for fmt in captions:
+                if fmt.get("ext") == "json3":
+                    with urllib.request.urlopen(fmt["url"]) as r:
+                        data = json.loads(r.read())
+                        parts = []
+                        for event in data.get("events", []):
+                            for seg in event.get("segs", []):
+                                t = seg.get("utf8", "").strip()
+                                if t and t != "\n":
+                                    parts.append(t)
+                        text = " ".join(parts).strip()
+                        return text[:TRANSCRIPT_LIMIT] or None
     except Exception as e:
         print(f"    transcript error {video_id}: {e}")
-        return None
+    return None
 
 def fetch_all():
     os.makedirs("data", exist_ok=True)
@@ -90,7 +109,9 @@ def fetch_all():
                     print(f"  SKIP (not LLM): {v['title'][:55]}")
                     continue
                 print(f"  - {v['title'][:65]}")
-                v["transcript"] = get_transcript(v["video_id"])
+                transcript = get_transcript(v["video_id"])
+                v["transcript"] = transcript
+                v["transcript_source"] = "yt-dlp" if transcript else "none"
                 time.sleep(0.3)
                 all_videos.append(v)
         except Exception as e:
