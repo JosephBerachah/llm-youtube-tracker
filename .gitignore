@@ -1,0 +1,8 @@
+# Local secrets — never commit your real API key
+.env
+
+# Python bytecode cache
+__pycache__/
+
+# NOTE: data/videos_enriched.json is intentionally NOT ignored.
+# It must be committed so GitHub Pages can serve it as a static file.

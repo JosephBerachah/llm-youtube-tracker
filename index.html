@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LLM YouTube Landscape Tracker</title>
+<style>
+  :root {
+    --bg: #140a2e;
+    --bg-2: #1a1033;
+    --panel: #221748;
+    --panel-2: #2d1f5e;
+    --line: #3d2a7a;
+    --accent: #8b5cf6;
+    --accent-2: #6c3fc5;
+    --text: #e7e0ff;
+    --muted: #9b90c8;
+    --muted-2: #7a6fa0;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    background: radial-gradient(1200px 600px at 80% -10%, #2a1a5e 0%, var(--bg) 55%) no-repeat, var(--bg);
+    color: var(--text);
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    min-height: 100vh;
+    line-height: 1.45;
+  }
+
+  header { padding: 2rem clamp(1rem, 4vw, 2.5rem) 1.5rem; border-bottom: 1px solid var(--line); }
+  .title-row { display: flex; align-items: baseline; gap: 0.8rem; flex-wrap: wrap; }
+  header h1 { font-size: clamp(1.4rem, 3.5vw, 2rem); color: #fff; letter-spacing: -0.02em; }
+  header h1 .accent { color: var(--accent); }
+  .updated { color: var(--muted); margin-top: 0.5rem; font-size: 0.85rem; }
+  .updated .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: #34d399; margin-right: 0.4rem; vertical-align: middle; box-shadow: 0 0 8px #34d399; }
+  .tags { display: flex; gap: 0.5rem; margin-top: 0.9rem; flex-wrap: wrap; }
+  .tag { background: var(--panel-2); color: var(--muted); padding: 0.2rem 0.7rem; border-radius: 999px; font-size: 0.72rem; border: 1px solid var(--line); }
+  .tag.llm { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+  .controls { padding: 1.2rem clamp(1rem, 4vw, 2.5rem); display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; }
+  .search-box { position: relative; flex: 1 1 260px; max-width: 360px; }
+  .search-box svg { position: absolute; left: 0.7rem; top: 50%; transform: translateY(-50%); width: 16px; height: 16px; fill: var(--muted-2); pointer-events: none; }
+  .search-box input { width: 100%; background: var(--panel); border: 1px solid var(--line); color: var(--text); padding: 0.6rem 1rem 0.6rem 2.2rem; border-radius: 10px; font-size: 0.9rem; transition: border-color .2s, box-shadow .2s; }
+  .search-box input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(139,92,246,.25); }
+  .search-box input::placeholder { color: var(--muted-2); }
+
+  .filter-btns { display: flex; gap: 0.4rem; flex-wrap: wrap; }
+  .filter-btn { background: var(--panel); border: 1px solid var(--line); color: var(--muted); padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.8rem; cursor: pointer; transition: all 0.18s; }
+  .filter-btn:hover { border-color: var(--accent); color: var(--text); }
+  .filter-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .filter-btn .count { opacity: 0.7; font-size: 0.72rem; margin-left: 0.25rem; }
+
+  .stats { padding: 0 clamp(1rem, 4vw, 2.5rem) 0.8rem; font-size: 0.82rem; color: var(--muted-2); }
+
+  .table-wrap { overflow-x: auto; padding: 0.5rem clamp(0.5rem, 4vw, 2.5rem) 2rem; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+  th { position: sticky; top: 0; background: var(--panel-2); color: #c9bdf5; padding: 0.75rem 0.9rem; text-align: left; font-weight: 600; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; border-bottom: 1px solid var(--accent-2); white-space: nowrap; }
+  td { padding: 0.85rem 0.9rem; border-bottom: 1px solid var(--panel-2); vertical-align: top; }
+  tbody tr { transition: background .15s; }
+  tbody tr:hover td { background: var(--panel); }
+
+  .channel-badge { background: var(--panel-2); color: #c9bdf5; padding: 0.2rem 0.6rem; border-radius: 6px; font-size: 0.78rem; white-space: nowrap; border: 1px solid var(--line); }
+  .speaker { color: var(--muted); font-size: 0.85rem; white-space: nowrap; }
+  .vt { display: flex; gap: 0.7rem; align-items: flex-start; min-width: 220px; }
+  .vt img { width: 88px; height: 50px; object-fit: cover; border-radius: 6px; flex-shrink: 0; border: 1px solid var(--line); }
+  .vt a { color: #b9a6ff; text-decoration: none; font-weight: 500; }
+  .vt a:hover { color: #d6c9ff; text-decoration: underline; }
+  .vt .meta { font-size: 0.72rem; color: var(--muted-2); margin-top: 0.3rem; }
+  .topic-badges { display: flex; gap: 0.3rem; flex-wrap: wrap; max-width: 180px; }
+  .topic-badge { background: rgba(139,92,246,.12); color: #c4b5fd; padding: 0.15rem 0.55rem; border-radius: 999px; font-size: 0.7rem; border: 1px solid rgba(139,92,246,.4); cursor: pointer; white-space: nowrap; }
+  .topic-badge:hover { background: rgba(139,92,246,.3); }
+  .summary-text { color: var(--muted); font-size: 0.84rem; max-width: 380px; }
+  .date-cell { color: var(--muted); font-size: 0.82rem; white-space: nowrap; }
+
+  .empty { text-align: center; padding: 3rem 1rem; color: var(--muted-2); }
+
+  .overlap-section { margin: 0 clamp(1rem, 4vw, 2.5rem) 3rem; }
+  .overlap-section h2 { color: #fff; margin-bottom: 0.3rem; font-size: 1.2rem; }
+  .overlap-section .sub { color: var(--muted-2); font-size: 0.85rem; margin-bottom: 1.2rem; }
+  .overlap-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 1rem; }
+  .overlap-card { background: linear-gradient(180deg, var(--panel-2), var(--bg-2)); border-radius: 12px; padding: 1.1rem; border: 1px solid var(--line); }
+  .overlap-card h3 { font-size: 0.92rem; color: #fff; margin-bottom: 0.6rem; display: flex; justify-content: space-between; align-items: center; gap: 0.5rem; }
+  .overlap-card h3 .topic-pill { background: var(--accent); color: #fff; padding: 0.15rem 0.6rem; border-radius: 999px; font-size: 0.74rem; }
+  .overlap-card h3 .n { font-size: 0.72rem; color: var(--muted-2); font-weight: 400; }
+  .overlap-card .chans { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+  .overlap-card .chan { font-size: 0.74rem; color: var(--muted); background: var(--bg); border: 1px solid var(--line); padding: 0.15rem 0.55rem; border-radius: 6px; }
+  .overlap-card.shared { border-color: var(--accent-2); }
+  .overlap-card .hint { font-size: 0.72rem; color: var(--accent); margin-top: 0.7rem; }
+
+  footer { text-align: center; padding: 2rem; color: var(--muted-2); font-size: 0.78rem; border-top: 1px solid var(--line); }
+
+  /* Mobile: turn the table into stacked cards */
+  @media (max-width: 760px) {
+    .table-wrap { padding: 0.5rem 0.8rem 1.5rem; overflow-x: visible; }
+    table, thead, tbody, th, td, tr { display: block; }
+    thead { display: none; }
+    tbody tr { background: var(--bg-2); border: 1px solid var(--line); border-radius: 12px; margin-bottom: 1rem; padding: 0.4rem 0.2rem; }
+    tbody tr:hover td { background: transparent; }
+    td { border: none; padding: 0.45rem 1rem; display: flex; gap: 0.8rem; }
+    td::before { content: attr(data-label); color: var(--muted-2); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.04em; flex: 0 0 78px; padding-top: 0.15rem; }
+    .topic-badges, .summary-text, .vt { max-width: none; }
+    .vt img { width: 110px; height: 62px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="title-row">
+    <h1><span class="accent">LLM</span> YouTube Landscape Tracker</h1>
+  </div>
+  <p class="updated" id="last-updated"><span class="dot"></span>Loading…</p>
+  <div class="tags">
+    <span class="tag">machine-learning</span>
+    <span class="tag llm">llm</span>
+    <span class="tag">youtube</span>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="search-box">
+    <svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27a6.5 6.5 0 1 0-.7.7l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0A4.5 4.5 0 1 1 14 9.5 4.5 4.5 0 0 1 9.5 14z"/></svg>
+    <input type="text" id="search" placeholder="Search channel, speaker, title, summary…" autocomplete="off">
+  </div>
+  <div class="filter-btns" id="filter-btns">
+    <button class="filter-btn active" data-topic="all" onclick="setFilter('all')">All</button>
+  </div>
+</div>
+
+<div class="stats" id="stats">Loading videos…</div>
+
+<div class="table-wrap">
+  <table>
+    <thead>
+      <tr>
+        <th>Channel</th>
+        <th>Speaker</th>
+        <th>Video Title</th>
+        <th>Topics</th>
+        <th>Summary</th>
+        <th>Date</th>
+      </tr>
+    </thead>
+    <tbody id="table-body">
+      <tr><td colspan="6" class="empty">Loading…</td></tr>
+    </tbody>
+  </table>
+</div>
+
+<section class="overlap-section">
+  <h2>How channels relate</h2>
+  <p class="sub">Topic overlap across channels — cards outlined in purple are themes covered by multiple channels.</p>
+  <div class="overlap-grid" id="overlap-grid"></div>
+</section>
+
+<footer>Built with vanilla HTML/CSS/JS · data from <code>./data/videos_enriched.json</code></footer>
+
+<script>
+// Fallback host names for channels that don't carry an explicit `speaker` field.
+const HOSTS = {
+  "Andrej Karpathy":  "Andrej Karpathy",
+  "Yannic Kilcher":   "Yannic Kilcher",
+  "Two Minute Papers":"Károly Zsolnai-Fehér",
+  "Lex Fridman":      "Lex Fridman",
+  "Matt Wolfe":       "Matt Wolfe",
+  "Fireship":         "Jeff Delaney",
+  "Wes Roth":         "Wes Roth",
+  "AI Explained":     "AI Explained",
+  "AI Coffee Break":  "Aleksa Gordić",
+  "The AI Epiphany":  "Aleksa Gordić",
+  "DeepLearningAI":   "Andrew Ng",
+  "Sentdex":          "Harrison Kinsley",
+  "Weights & Biases": "W&B Team",
+};
+
+let allVideos = [];
+let activeFilter = 'all';
+let searchQuery = '';
+
+const $ = id => document.getElementById(id);
+
+function esc(s) {
+  return String(s == null ? '' : s).replace(/[&<>"']/g, c =>
+    ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+
+function speakerOf(v) {
+  return v.speaker || HOSTS[v.channel] || '—';
+}
+
+async function loadData() {
+  try {
+    const res = await fetch('./data/videos_enriched.json');
+    if (!res.ok) throw new Error(res.status);
+    const data = await res.json();
+    $('last-updated').innerHTML = '<span class="dot"></span>Last updated: ' + esc(data.last_updated || 'unknown');
+    allVideos = Array.isArray(data.videos) ? data.videos : [];
+    buildFilters();
+    buildOverlap();
+    render();
+  } catch (e) {
+    $('table-body').innerHTML = '<tr><td colspan="6" class="empty">No data found at ./data/videos_enriched.json.<br>Run <code>python pipeline.py</code> to generate it.</td></tr>';
+    $('stats').textContent = 'No data loaded.';
+    $('last-updated').innerHTML = '<span class="dot" style="background:#f87171;box-shadow:0 0 8px #f87171"></span>Not yet generated';
+  }
+}
+
+function topicCounts() {
+  const counts = {};
+  allVideos.forEach(v => (v.topics || []).forEach(t => { counts[t] = (counts[t] || 0) + 1; }));
+  return counts;
+}
+
+function buildFilters() {
+  const counts = topicCounts();
+  const topics = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
+  const container = $('filter-btns');
+  // keep the "All" button, append the rest
+  container.querySelectorAll('.filter-btn:not([data-topic="all"])').forEach(b => b.remove());
+  topics.forEach(topic => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.dataset.topic = topic;
+    btn.innerHTML = esc(topic) + ' <span class="count">' + counts[topic] + '</span>';
+    btn.onclick = () => setFilter(topic);
+    container.appendChild(btn);
+  });
+}
+
+function setFilter(topic) {
+  activeFilter = topic;
+  document.querySelectorAll('.filter-btn').forEach(b =>
+    b.classList.toggle('active', b.dataset.topic === topic));
+  render();
+}
+
+$('search').addEventListener('input', e => {
+  searchQuery = e.target.value.toLowerCase().trim();
+  render();
+});
+
+function render() {
+  const filtered = allVideos.filter(v => {
+    const matchTopic = activeFilter === 'all' || (v.topics || []).includes(activeFilter);
+    const hay = [v.title, v.channel, speakerOf(v), v.summary, (v.topics || []).join(' ')]
+      .join(' ').toLowerCase();
+    const matchSearch = !searchQuery || hay.includes(searchQuery);
+    return matchTopic && matchSearch;
+  });
+
+  $('stats').textContent = `Showing ${filtered.length} of ${allVideos.length} videos` +
+    (activeFilter !== 'all' ? ` · topic: ${activeFilter}` : '');
+
+  const tbody = $('table-body');
+  if (!filtered.length) {
+    tbody.innerHTML = '<tr><td colspan="6" class="empty">No videos match your filter.</td></tr>';
+    return;
+  }
+
+  tbody.innerHTML = filtered.map(v => `
+    <tr>
+      <td data-label="Channel"><span class="channel-badge">${esc(v.channel)}</span></td>
+      <td data-label="Speaker"><span class="speaker">${esc(speakerOf(v))}</span></td>
+      <td data-label="Title">
+        <div class="vt">
+          ${v.thumbnail ? `<img src="${esc(v.thumbnail)}" alt="" loading="lazy">` : ''}
+          <div>
+            <a href="${esc(v.url)}" target="_blank" rel="noopener">${esc(v.title)}</a>
+            ${v.views ? `<div class="meta">${esc(v.views)}</div>` : ''}
+          </div>
+        </div>
+      </td>
+      <td data-label="Topics">
+        <div class="topic-badges">
+          ${(v.topics || []).map(t => `<span class="topic-badge" onclick="setFilter('${esc(t).replace(/'/g, "\\'")}')">${esc(t)}</span>`).join('')}
+        </div>
+      </td>
+      <td data-label="Summary"><div class="summary-text">${esc(v.summary) || '<em style="color:var(--muted-2)">No summary.</em>'}</div></td>
+      <td data-label="Date"><span class="date-cell">${esc(v.published || '—')}</span></td>
+    </tr>
+  `).join('');
+}
+
+function buildOverlap() {
+  // topic -> set of channels that cover it
+  const topicChannels = {};
+  allVideos.forEach(v => {
+    (v.topics || []).forEach(t => {
+      (topicChannels[t] = topicChannels[t] || new Set()).add(v.channel);
+    });
+  });
+
+  const entries = Object.entries(topicChannels)
+    .map(([topic, set]) => [topic, [...set]])
+    // most-shared topics first
+    .sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]));
+
+  $('overlap-grid').innerHTML = entries.map(([topic, channels]) => {
+    const isShared = channels.length > 1;
+    return `
+      <div class="overlap-card ${isShared ? 'shared' : ''}">
+        <h3><span class="topic-pill">${esc(topic)}</span><span class="n">${channels.length} channel${channels.length > 1 ? 's' : ''}</span></h3>
+        <div class="chans">${channels.map(c => `<span class="chan">${esc(c)}</span>`).join('')}</div>
+        ${isShared ? `<div class="hint">↔ shared across ${channels.length} channels</div>` : ''}
+      </div>`;
+  }).join('');
+}
+
+loadData();
+</script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+name: Update LLM Video Tracker
+
+# Runs the scraping + AI-summarization pipeline on a daily schedule,
+# commits the refreshed data/videos_enriched.json back to the repo, and
+# lets GitHub Pages (configured to deploy from the main branch, root /)
+# automatically rebuild the site whenever that commit lands.
+
+on:
+  schedule:
+    # Every 24 hours, at 06:00 UTC. (cron is always UTC.)
+    - cron: "0 6 * * *"
+  # Allow manual runs from the Actions tab.
+  workflow_dispatch:
+
+# Needed so the workflow can push the updated data file back to main.
+permissions:
+  contents: write
+
+# Prevent overlapping scheduled runs from racing on the same branch.
+concurrency:
+  group: update-tracker
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          # summarizer.py reads this via os.environ.get("OPENAI_API_KEY").
+          # fetcher.py scrapes YouTube and needs no API key.
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python pipeline.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/videos_enriched.json
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore: refresh enriched video data [skip ci]"
+            git push
+          fi
