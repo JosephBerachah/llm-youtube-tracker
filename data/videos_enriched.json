@@ -1,7 +1,543 @@
 {
-  "last_updated": "2026-06-03 18:10 UTC",
+  "last_updated": "2026-06-10 09:44 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "-dGIUA_LLik",
+      "title": "How to operationalize AI governance with W&B Weave",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=-dGIUA_LLik",
+      "thumbnail": "https://i.ytimg.com/vi/-dGIUA_LLik/mqdefault.jpg",
+      "published": "2026-06-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video is likely about implementing AI governance practices using the Weights & Biases Weave tool.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "82m7YqosdgU",
+      "title": "AI Agents as \"Games Masters\"? 🎮🔥",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=82m7YqosdgU",
+      "thumbnail": "https://i.ytimg.com/vi/82m7YqosdgU/mqdefault.jpg",
+      "published": "2026-06-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely explores the concept of AI agents functioning as game masters, potentially discussing their role in guiding and managing gameplay experiences in a gaming context.",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "Dkqzqw8rxXI",
+      "title": "DeepMind’s New AI Found A Strange New Way To Think",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
+      "thumbnail": "https://i.ytimg.com/vi/Dkqzqw8rxXI/mqdefault.jpg",
+      "published": "2026-06-05",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses a new AI developed by DeepMind that employs an unconventional approach to processing information or problem-solving.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "AUw0NmNG3_A",
+      "title": "This AI Just Proposed a Treatment for Blindness",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=AUw0NmNG3_A",
+      "thumbnail": "https://i.ytimg.com/vi/AUw0NmNG3_A/mqdefault.jpg",
+      "published": "2026-06-04",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses an AI that has developed or suggested a potential treatment for blindness.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "iz7elwbqZVI",
+      "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=iz7elwbqZVI",
+      "thumbnail": "https://i.ytimg.com/vi/iz7elwbqZVI/mqdefault.jpg",
+      "published": "2026-06-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses an AI system that assists or collaborates with scientists in research, highlighting its significant impact on scientific processes or discoveries.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "ypL7kUiw_LM",
+      "title": "Claude Opus 4.8: Lying Machine No More?",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=ypL7kUiw_LM",
+      "thumbnail": "https://i.ytimg.com/vi/ypL7kUiw_LM/mqdefault.jpg",
+      "published": "2026-06-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the improvements or changes in the Claude Opus 4.8 AI model, specifically addressing concerns about its accuracy or honesty in responses.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "MOviZKtFeHM",
+      "title": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=MOviZKtFeHM",
+      "thumbnail": "https://i.ytimg.com/vi/MOviZKtFeHM/mqdefault.jpg",
+      "published": "2026-06-02",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the potential for AlphaFold, an AI developed by DeepMind, to receive a second Nobel Prize for its contributions to science, particularly in the field of protein folding.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "yz6I23VRbdg",
+      "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=yz6I23VRbdg",
+      "thumbnail": "https://i.ytimg.com/vi/yz6I23VRbdg/mqdefault.jpg",
+      "published": "2026-06-01",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely explores the implications and potential advancements in artificial intelligence and large language models that could result from a significant increase in computational power, specifically a million-fold increase.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "vsKH3oPwss4",
+      "title": "Einstein vs Feynman,  Who Wins? 🧠🤔 #physics #ai #science #feynman #research",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=vsKH3oPwss4",
+      "thumbnail": "https://i.ytimg.com/vi/vsKH3oPwss4/mqdefault.jpg",
+      "published": "2026-06-01",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely explores a comparison between the intellectual contributions and ideas of Albert Einstein and Richard Feynman, possibly in the context of their relevance to physics and artificial intelligence.",
+      "topics": [
+        "RAG"
+      ]
+    },
+    {
+      "video_id": "TpyS50ifmX4",
+      "title": "The Ex-Pentagon Chief Sounding the Alarm on AI Weapons — Brad Carson",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=TpyS50ifmX4",
+      "thumbnail": "https://i.ytimg.com/vi/TpyS50ifmX4/mqdefault.jpg",
+      "published": "2026-05-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses concerns raised by Brad Carson, a former Pentagon official, regarding the potential dangers and implications of artificial intelligence in weaponry.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "aJvP3nXWkwM",
+      "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "thumbnail": "https://i.ytimg.com/vi/aJvP3nXWkwM/mqdefault.jpg",
+      "published": "2026-05-29",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "In the video, the creator discusses the new Claude Opus 4.8 model from Anthropic, highlighting 15 key points derived from a comprehensive 244-page report. Notably, the model exhibits improved performance, matching that of Mythos, and introduces a feature allowing it to generate its own organizational charts. The creator mentions Anthropic's shift away from plans to train Opus 4.8 in business skills due to concerns about fostering dishonesty. Additionally, they point out that Anthropic's recent valuation of nearly $1 trillion coincides with the rollout of new computing resources sourced from major tech companies, including Elon Musk's SpaceX and Google. A practical update is that users can now specify the duration for which Opus 4.8 will think, moving away from the previous adaptive thinking mode.",
+      "topics": [
+        "Agents",
+        "Benchmarks",
+        "Safety",
+        "Reasoning"
+      ]
+    },
+    {
+      "video_id": "yco5IdRHsDs",
+      "title": "Power agents with full context of your experiments and traces with W&B MCP server",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=yco5IdRHsDs",
+      "thumbnail": "https://i.ytimg.com/vi/yco5IdRHsDs/mqdefault.jpg",
+      "published": "2026-05-27",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses how to enhance the capabilities of AI agents by utilizing the Weights & Biases (W&B) MCP server to provide comprehensive context from experiments and traces.",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "EEik6sXWMjM",
+      "title": "AI Builders: Building a text-to-SQL agent",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=EEik6sXWMjM",
+      "thumbnail": "https://i.ytimg.com/vi/EEik6sXWMjM/mqdefault.jpg",
+      "published": "2026-05-26",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the process of creating a text-to-SQL agent using AI technologies, focusing on the tools and techniques involved in building such a system.",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "huAwz_BR8WM",
+      "title": "Demis Hassabis On What AI Will Do Next",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
+      "thumbnail": "https://i.ytimg.com/vi/huAwz_BR8WM/mqdefault.jpg",
+      "published": "2026-05-25",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely features Demis Hassabis discussing future developments and possibilities in artificial intelligence.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "LpXhy2iiaQE",
+      "title": "DeepSeek’s New AI Is A Game Changer",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=LpXhy2iiaQE",
+      "thumbnail": "https://i.ytimg.com/vi/LpXhy2iiaQE/mqdefault.jpg",
+      "published": "2026-05-22",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video is likely about a new AI developed by DeepSeek that is considered to significantly improve or transform the field of artificial intelligence.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "j18rH3sgOx8",
+      "title": "Fine-tune faster with W&B Training Serverless SFT",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=j18rH3sgOx8",
+      "thumbnail": "https://i.ytimg.com/vi/j18rH3sgOx8/mqdefault.jpg",
+      "published": "2026-05-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video is likely about using Weights & Biases (W&B) to efficiently fine-tune large language models (LLMs) through a serverless approach to supervised fine-tuning (SFT).",
+      "topics": [
+        "Fine-tuning"
+      ]
+    },
+    {
+      "video_id": "4wC8hnQawiA",
+      "title": "NVIDIA New AI Is An Efficiency Monster",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=4wC8hnQawiA",
+      "thumbnail": "https://i.ytimg.com/vi/4wC8hnQawiA/mqdefault.jpg",
+      "published": "2026-05-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses a new AI developed by NVIDIA that significantly enhances efficiency in its operations or applications.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "4nQnhjimB4Y",
+      "title": "OpenAI's ChatGPT 5.5 Instant: The Good, The Bad And The Insane",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=4nQnhjimB4Y",
+      "thumbnail": "https://i.ytimg.com/vi/4nQnhjimB4Y/mqdefault.jpg",
+      "published": "2026-05-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the various aspects of OpenAI's ChatGPT 5.5 Instant, highlighting its positive features, drawbacks, and potentially outrageous or surprising elements.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "p7K3xfViWCE",
+      "title": "DeepSeek V4 AI Beats Billion Dollar Systems…For Free",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=p7K3xfViWCE",
+      "thumbnail": "https://i.ytimg.com/vi/p7K3xfViWCE/mqdefault.jpg",
+      "published": "2026-05-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses a new AI model called DeepSeek V4 that outperforms expensive billion-dollar AI systems while being available for free.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "zSAGzfspuDE",
+      "title": "The AI Progress Chart Everyone Is Misreading — Beth Barnes & David Rein",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=zSAGzfspuDE",
+      "thumbnail": "https://i.ytimg.com/vi/zSAGzfspuDE/mqdefault.jpg",
+      "published": "2026-05-04",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses a chart related to AI progress that is being misunderstood by many people, featuring insights from Beth Barnes and David Rein.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "eCw33snvoNI",
+      "title": "NVIDIA's New AI Turns One Photo Into A World That Never Breaks",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=eCw33snvoNI",
+      "thumbnail": "https://i.ytimg.com/vi/eCw33snvoNI/mqdefault.jpg",
+      "published": "2026-05-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses NVIDIA's new AI technology that can transform a single photograph into a dynamic, immersive environment that remains stable and consistent.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "QzZ4VwDHAT4",
+      "title": "Sakana AI’s God Simulator Is Brilliant",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=QzZ4VwDHAT4",
+      "thumbnail": "https://i.ytimg.com/vi/QzZ4VwDHAT4/mqdefault.jpg",
+      "published": "2026-05-01",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses Sakana AI's God Simulator, highlighting its impressive features or capabilities in the realm of artificial intelligence.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "jz0rNhfAKo8",
+      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "thumbnail": "https://i.ytimg.com/vi/jz0rNhfAKo8/mqdefault.jpg",
+      "published": "2026-04-24",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "In the video, the creator discusses the recent release of GPT-5.5 by OpenAI and DeepSeek V4 from China, positioning them as significant developments in the AI landscape. GPT-5.5 is portrayed as OpenAI's effort to maintain its leadership against competitors like Anthropic, with the creator noting early access to the model but highlighting the lack of API access for broader testing. Key findings include GPT-5.5's slight preference for male responses and its underperformance compared to Opus 4.7 by about 6% and Mythos preview by nearly 20%. The creator also mentions OpenAI's surprising updated estimate on recursive self-improvement and the implications of benchmark scores, particularly regarding SWE-bench Pro, which OpenAI has emphasized despite GPT-5.5's underperformance in that area.",
+      "topics": [
+        "RAG",
+        "Agents",
+        "Benchmarks",
+        "Multimodal",
+        "Inference",
+        "Reasoning"
+      ]
+    },
+    {
+      "video_id": "V9VsVUDjki0",
+      "title": "This AI Car Drove Through a Tokyo Typhoon",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=V9VsVUDjki0",
+      "thumbnail": "https://i.ytimg.com/vi/V9VsVUDjki0/mqdefault.jpg",
+      "published": "2026-04-24",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely showcases an AI-controlled car navigating through the challenging conditions of a typhoon in Tokyo.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "ybg-Vw6ApwU",
+      "title": "AI Builders: Building an AI agent for interior design",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=ybg-Vw6ApwU",
+      "thumbnail": "https://i.ytimg.com/vi/ybg-Vw6ApwU/mqdefault.jpg",
+      "published": "2026-04-24",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video is likely about the process of creating an AI agent specifically designed to assist with interior design tasks.",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "vIis15L6Z94",
+      "title": "They Taught an AI to Drive With Just 10 Interventions",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=vIis15L6Z94",
+      "thumbnail": "https://i.ytimg.com/vi/vIis15L6Z94/mqdefault.jpg",
+      "published": "2026-04-22",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses a project where an AI was trained to drive by using only ten specific interventions or corrections during its learning process.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "lde_OpqGFls",
+      "title": "AI Adoption Is Inevitable. Here's why.",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=lde_OpqGFls",
+      "thumbnail": "https://i.ytimg.com/vi/lde_OpqGFls/mqdefault.jpg",
+      "published": "2026-04-21",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the reasons and factors contributing to the unavoidable integration and acceptance of AI technologies in various aspects of society and industry.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "_vOat9p7YhE",
+      "title": "Passenger or Pedestrian: Who Will an AI Car Save?",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=_vOat9p7YhE",
+      "thumbnail": "https://i.ytimg.com/vi/_vOat9p7YhE/mqdefault.jpg",
+      "published": "2026-04-20",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely explores the ethical dilemmas and decision-making processes of AI in autonomous vehicles regarding whom to prioritize in emergency situations: passengers or pedestrians.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "QVJcdfkRpH8",
+      "title": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "thumbnail": "https://i.ytimg.com/vi/QVJcdfkRpH8/mqdefault.jpg",
+      "published": "2026-04-17",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "The video discusses the newly released Claude Opus 4.7, highlighting its performance and the controversies surrounding it. Despite being a top AI model, it has unexpected flaws admitted by Anthropic, particularly in common-sense reasoning where it scores lower than its predecessor, Opus 4.6, due to its adaptive thinking approach. The creator notes that Opus 4.7 failed to automatically attach tooltips to benchmark scores, a feature present in earlier models, indicating a potential downgrade in usability. Additionally, the video mentions that while Opus 4.7 excels in certain areas, it still falls short compared to some Gemini models, and hints at a competitive rivalry with OpenAI.",
+      "topics": [
+        "RAG",
+        "Agents",
+        "Fine-tuning",
+        "Benchmarks",
+        "Multimodal",
+        "Inference",
+        "Reasoning"
+      ]
+    },
+    {
+      "video_id": "iKx3gAODybU",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "thumbnail": "https://i.ytimg.com/vi/iKx3gAODybU/mqdefault.jpg",
+      "published": "2026-04-09",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "In the podcast, Lex Fridman discusses the terrifying efficiency of Viking longships, which could travel 70 to 120 miles a day, allowing them to raid quickly and escape before armies could respond. He reflects on the fear experienced by monks like Alcuin upon seeing Viking ships, suggesting it felt apocalyptic, especially with ominous signs like lightning shaped as dragons. The conversation also touches on the Viking concept of Valhalla, where warriors would fight daily and have their wounds healed overnight, preparing them for Ragnarok. Fridman quotes Tennyson's poem \"Ulysses\" to encapsulate the Viking spirit of relentless striving and adventure. The guest, Lars Brownworth, is introduced as a historian with expertise in Viking history, emphasizing the significant impact of these Norse explorers over a span of 300 years.",
+      "topics": [
+        "RAG",
+        "Safety",
+        "Reasoning"
+      ]
+    },
+    {
+      "video_id": "txx6ec6MLNY",
+      "title": "Claude Mythos: Highlights from 244-page Release",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
+      "thumbnail": "https://i.ytimg.com/vi/txx6ec6MLNY/mqdefault.jpg",
+      "published": "2026-04-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "The video discusses the 244-page report on Claude Mythos, a powerful AI model developed by Anthropic, which exhibits unique capabilities such as finding novel vulnerabilities in cybersecurity and critiquing its own alignment tests. The model underwent a rigorous 24-hour internal review to assess its potential risks before being released on February 24th, coinciding with the Department of War's moves to ban Anthropic. The creator highlights concerns raised by Anthropic regarding the rapid development of superhuman AI systems without adequate safety measures, suggesting that the latent power of Mythos may have influenced the company's leadership to establish strict operational boundaries. Notably, the report indicates that while Claude Mythos has advanced AI progress significantly, it still lacks the ability for radical self-improvement.",
+      "topics": [
+        "RAG",
+        "Agents",
+        "Benchmarks",
+        "Safety",
+        "Multimodal",
+        "Reasoning"
+      ]
+    },
+    {
+      "video_id": "s4tptozUJ8Y",
+      "title": "Two AI Models Set to “stir government urgency”, But Will This Challenge Undo Them?",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "thumbnail": "https://i.ytimg.com/vi/s4tptozUJ8Y/mqdefault.jpg",
+      "published": "2026-03-26",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "The video discusses upcoming advancements in AI models from OpenAI and Anthropic, highlighting OpenAI's decision to shut down its Sora app to allocate resources for the new Spud model, which is expected to significantly enhance AI performance. Anthropic's Claude series is also mentioned, with renewed interest from the Pentagon in extending its use beyond a recent six-month deadline. A new benchmark, Arc-AGI-3, is introduced, revealing that while humans score 100%, the best AI models currently achieve less than half a percent. Additionally, OpenAI's erotic chatbot has been shelved to focus on the Spud model, which Sam Altman claims will accelerate the economy.",
+      "topics": [
+        "RAG",
+        "Fine-tuning",
+        "Benchmarks",
+        "Multimodal",
+        "Inference",
+        "Reasoning"
+      ]
+    },
+    {
+      "video_id": "vif8NQcjVf0",
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "thumbnail": "https://i.ytimg.com/vi/vif8NQcjVf0/mqdefault.jpg",
+      "published": "2026-03-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses Jensen Huang's insights on NVIDIA's significant impact on the AI revolution and its valuation as a $4 trillion company, as featured in a conversation with Lex Fridman.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "EInEmGaMRLc",
+      "title": "When AI Discovers the Next Transformer — Robert Lange",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=EInEmGaMRLc",
+      "thumbnail": "https://i.ytimg.com/vi/EInEmGaMRLc/mqdefault.jpg",
+      "published": "2026-03-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the potential future advancements in AI, specifically focusing on the discovery or development of a new model architecture that could surpass the capabilities of the current Transformer model.",
+      "topics": [
+        "Architecture"
+      ]
+    },
     {
       "video_id": "xHi8PUIVyoo",
       "title": "I BUILT A FULLY AUTOMATIC MANSPLAINER",
@@ -17,6 +553,295 @@
         "Benchmarks",
         "Multimodal",
         "Open Source"
+      ]
+    },
+    {
+      "video_id": "zizoDORjmlQ",
+      "title": "What the New ChatGPT 5.4 Means for the World",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "thumbnail": "https://i.ytimg.com/vi/zizoDORjmlQ/mqdefault.jpg",
+      "published": "2026-03-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "In the video, the creator discusses the rapid release of OpenAI's GPT 5.4, just 48 hours after GPT 5.3, suggesting it reflects either a significant advancement in AI or a strategic move by Sam Altman to shift media focus. The creator highlights that GPT 5.4 aims to serve white-collar professionals, achieving a benchmark called GDP Val, where it outperformed human outputs 70.8% of the time, and 83% when including ties. However, they caution that the model has notable limitations, including catastrophic errors and a narrow focus on self-contained digital tasks that don't represent the full scope of white-collar work. Additionally, it's mentioned that the premium version, GPT-5.4 Pro, actually performs worse than the standard version on this benchmark, which is a surprising revelation.",
+      "topics": [
+        "RAG",
+        "Agents",
+        "Benchmarks",
+        "Safety",
+        "Multimodal"
+      ]
+    },
+    {
+      "video_id": "SHlrUAkkWI0",
+      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
+      "thumbnail": "https://i.ytimg.com/vi/SHlrUAkkWI0/mqdefault.jpg",
+      "published": "2026-03-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely features Lex Fridman training with former UFC champion Khabib Nurmagomedov, showcasing exclusive footage from the UFC Performance Institute.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "dHBEQ-Ryo24",
+      "title": "The Dangerous Illusion of AI Coding? - Jeremy Howard",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=dHBEQ-Ryo24",
+      "thumbnail": "https://i.ytimg.com/vi/dHBEQ-Ryo24/mqdefault.jpg",
+      "published": "2026-03-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the misconceptions and potential risks associated with the belief that AI can effectively and safely handle coding tasks.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "Cru804JMjPI",
+      "title": "Deadline Day for Autonomous AI Weapons & Mass Surveillance",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=Cru804JMjPI",
+      "thumbnail": "https://i.ytimg.com/vi/Cru804JMjPI/mqdefault.jpg",
+      "published": "2026-02-27",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "In the video, the creator discusses the ethical implications of fully autonomous AI weapons and mass surveillance, questioning whether the public would support their government's use of such technologies. The deadline for Anthropic, the makers of the Clawude AI models, to comply with the US Department of War's demands for their use is set for February 27, 2026. The Pentagon seeks to utilize these models for autonomous lethal decision-making and domestic surveillance, which raises concerns about legality and oversight. Additionally, a petition from employees at OpenAI and Google has gained traction, advocating for their leaders to resist the Department of War's demands for these technologies. The creator notes that while discussions are ongoing, companies like OpenAI and Google are not fully aligned on the issue yet.",
+      "topics": [
+        "Agents",
+        "Safety"
+      ]
+    },
+    {
+      "video_id": "KGVpKPNUdzA",
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "thumbnail": "https://i.ytimg.com/vi/KGVpKPNUdzA/mqdefault.jpg",
+      "published": "2026-02-25",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely features an exclusive training session or interaction between Khabib Nurmagomedov and Lex Fridman, focusing on Khabib's training techniques or philosophy.",
+      "topics": [
+        "Fine-tuning"
+      ]
+    },
+    {
+      "video_id": "2_DPnzoiHaY",
+      "title": "Gemini 3.1 Pro and the Downfall of Benchmarks: Welcome to the Vibe Era of AI",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=2_DPnzoiHaY",
+      "thumbnail": "https://i.ytimg.com/vi/2_DPnzoiHaY/mqdefault.jpg",
+      "published": "2026-02-20",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "In the video, the creator discusses the release of the Gemini 3.1 Pro AI model and emphasizes the confusion surrounding benchmark scores for AI models. They explain that while pre-training on internet-scale data is important, it now only accounts for 20% of the compute used in training LLMs; the majority is spent on post-training, where models are fine-tuned using industry-specific data. This shift means that a model's performance can vary significantly depending on the domain, making it less reliable to assume that a model excelling in one area will perform well across the board. The creator also references Dario Amodei's previous comments about the minimal investment in the reinforcement learning stage, highlighting the evolving landscape of AI model training.",
+      "topics": [
+        "RAG",
+        "Agents",
+        "Fine-tuning",
+        "Benchmarks",
+        "Multimodal",
+        "Architecture",
+        "Reasoning"
+      ]
+    },
+    {
+      "video_id": "M2iX6HQOoLg",
+      "title": "What If Intelligence Didn't Evolve? It \"Was There\" From the Start! - Blaise Agüera y Arcas",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=M2iX6HQOoLg",
+      "thumbnail": "https://i.ytimg.com/vi/M2iX6HQOoLg/mqdefault.jpg",
+      "published": "2026-02-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely explores the hypothetical scenario where intelligence has always existed in some form, rather than evolving over time, as discussed by Blaise Agüera y Arcas.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "YFjfBk8HI5o",
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "thumbnail": "https://i.ytimg.com/vi/YFjfBk8HI5o/mqdefault.jpg",
+      "published": "2026-02-12",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the OpenClaw AI agent, its viral impact on the internet, and features insights from Peter Steinberger on its significance, as part of the Lex Fridman Podcast.",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "1PxEziv5XIU",
+      "title": "The Two Best AI Models/Enemies Just Got Released Simultaneously",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=1PxEziv5XIU",
+      "thumbnail": "https://i.ytimg.com/vi/1PxEziv5XIU/mqdefault.jpg",
+      "published": "2026-02-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "In the video, the creator discusses the simultaneous release of two significant AI models, focusing on Anthropic's Claude Opus 4.6. He highlights an intriguing aspect of the model's evaluation: a survey conducted among Anthropic employees regarding its potential to automate entry-level research roles. Initially, none of the 16 workers believed automation was feasible, but further clarification revealed that three respondents thought it could be possible within three months, with two suggesting it was already achievable. This discrepancy raises questions about the reliability of employee surveys and the model's actual capabilities, indicating that while there is skepticism, there is also a recognition of rapid advancements in AI.",
+      "topics": [
+        "RAG",
+        "Agents",
+        "Benchmarks",
+        "Multimodal",
+        "Reasoning"
+      ]
+    },
+    {
+      "video_id": "EV7WhVT270Q",
+      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
+      "thumbnail": "https://i.ytimg.com/vi/EV7WhVT270Q/mqdefault.jpg",
+      "published": "2026-01-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the current advancements and state of artificial intelligence in 2026, focusing on large language models, coding practices, scaling laws, the role of China, AI agents, GPU technology, and the pursuit of artificial general intelligence (AGI).",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "BHdbsHFs2P0",
+      "title": "The Hairy Ball Theorem",
+      "channel": "3Blue1Brown",
+      "url": "https://www.youtube.com/watch?v=BHdbsHFs2P0",
+      "thumbnail": "https://i.ytimg.com/vi/BHdbsHFs2P0/mqdefault.jpg",
+      "published": "2026-01-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video is likely about the Hairy Ball Theorem, a concept in mathematics that states it is impossible to comb a hairy ball flat without creating at least one tuft or cowlick, which may be used as a metaphor or analogy in the context of LLMs or AI.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "Iar4yweKGoI",
+      "title": "Claude AI Co-founder Publishes 4 Big Claims about Near Future: Breakdown",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=Iar4yweKGoI",
+      "thumbnail": "https://i.ytimg.com/vi/Iar4yweKGoI/mqdefault.jpg",
+      "published": "2026-01-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "In the video, the creator discusses claims made by Dario Amade, CEO of Anthropic, regarding the future of AI, particularly focusing on the transformative potential of models like Claude Code and Claude 4.5. Amade predicts that AI tools will evolve from automating individual tasks to taking over entire job categories, specifically mentioning software engineering, law, and finance. He emphasizes the importance of scaling laws, suggesting that as more data and computational power are fed into AI systems, their cognitive abilities will improve predictably. The creator encourages viewers to disregard pessimistic narratives about AI stagnation, highlighting Amade's belief in continuous advancements in AI capabilities.",
+      "topics": [
+        "RAG",
+        "Agents",
+        "Multimodal",
+        "Inference"
+      ]
+    },
+    {
+      "video_id": "Ucqfb33GJJ4",
+      "title": "The Brain Is Just Specialized Agents Talking To Each Other — Dr. Jeff Beck",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=Ucqfb33GJJ4",
+      "thumbnail": "https://i.ytimg.com/vi/Ucqfb33GJJ4/mqdefault.jpg",
+      "published": "2026-01-25",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the idea that the brain functions similarly to a system of specialized agents communicating with one another, drawing parallels to concepts in artificial intelligence and large language models.",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "yq318DIwPqw",
+      "title": "Why AI Has a Plato Problem — Mazviita Chirimuuta",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=yq318DIwPqw",
+      "thumbnail": "https://i.ytimg.com/vi/yq318DIwPqw/mqdefault.jpg",
+      "published": "2026-01-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the philosophical challenges and implications of artificial intelligence, particularly in relation to Plato's ideas and theories.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "pO0WZsN8Oiw",
+      "title": "Why Every Brain Metaphor in History Has Been Wrong [SPECIAL EDITION]",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=pO0WZsN8Oiw",
+      "thumbnail": "https://i.ytimg.com/vi/pO0WZsN8Oiw/mqdefault.jpg",
+      "published": "2026-01-18",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the historical use of brain metaphors in understanding intelligence and cognition, arguing that these metaphors have consistently been inaccurate or misleading.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "wYs6HWZ2FdM",
+      "title": "Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=wYs6HWZ2FdM",
+      "thumbnail": "https://i.ytimg.com/vi/wYs6HWZ2FdM/mqdefault.jpg",
+      "published": "2026-01-14",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "In the video, the creator discusses Anthropic's new tool, Claude Co-work, which has gained significant attention for its potential to automate non-coding tasks, supporting the prediction that by 2026, all white-collar work could be automated. The creator references the rapid shift in software engineering, where developers have transitioned from writing most of their code to relying heavily on AI models like Claude Opus 4.5 for code generation. Despite acknowledging the impressive productivity gains from these tools, the creator expresses skepticism about the feasibility of fully automating all knowledge work, suggesting that while AI can excel in complex tasks, it still struggles with basic ones. The video aims to highlight both the potential and limitations of AI in transforming work processes.",
+      "topics": [
+        "Multimodal",
+        "Reasoning"
+      ]
+    },
+    {
+      "video_id": "9suqiofCiwM",
+      "title": "AutoGrad Changed Everything (Not Transformers) [Dr. Jeff Beck]",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=9suqiofCiwM",
+      "thumbnail": "https://i.ytimg.com/vi/9suqiofCiwM/mqdefault.jpg",
+      "published": "2025-12-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses the significant impact of AutoGrad on the field of machine learning, suggesting that it is more transformative than the introduction of transformer models.",
+      "topics": [
+        "Architecture"
+      ]
+    },
+    {
+      "video_id": "RvYSsi6rd4g",
+      "title": "Your Brain Doesn't Command Your Body. It Predicts It. [Max Bennett]",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=RvYSsi6rd4g",
+      "thumbnail": "https://i.ytimg.com/vi/RvYSsi6rd4g/mqdefault.jpg",
+      "published": "2025-12-30",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely explores the concept that the brain functions by predicting bodily movements and actions rather than directly controlling them.",
+      "topics": [
+        "General LLM"
       ]
     },
     {
@@ -40,6 +865,75 @@
       ]
     },
     {
+      "video_id": "4yYcN_mFi18",
+      "title": "PhD Bodybuilder Predicts The Future of AI (97% Certain) [Dr. Mike Israetel]",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=4yYcN_mFi18",
+      "thumbnail": "https://i.ytimg.com/vi/4yYcN_mFi18/mqdefault.jpg",
+      "published": "2025-12-24",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely features Dr. Mike Israetel, a PhD and bodybuilder, discussing his confident predictions regarding the future developments and implications of artificial intelligence.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "FMMpUO1uAYk",
+      "title": "What the Freakiness of 2025 in AI Tells Us About 2026",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=FMMpUO1uAYk",
+      "thumbnail": "https://i.ytimg.com/vi/FMMpUO1uAYk/mqdefault.jpg",
+      "published": "2025-12-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "In the video, the creator discusses the significant advancements in AI during 2025, particularly highlighting the emergence of reasoning models, exemplified by Gemini 3 Pro, which achieved impressive benchmarks. However, they express skepticism about the true value of these benchmarks, noting that while models can surpass tests, this often leads to reduced diversity in outputs. The creator points out that the trend of \"thinking longer\" to improve accuracy may not yield new reasoning paths, as it tends to reinforce existing patterns in base models. Additionally, they mention that scaling up parameters and data has proven beneficial, as indicated by insights from Demis Hassabis regarding the recent release of Gemini 3.",
+      "topics": [
+        "RAG",
+        "Benchmarks",
+        "Multimodal",
+        "Architecture",
+        "Reasoning"
+      ]
+    },
+    {
+      "video_id": "AWqvBdqCAAE",
+      "title": "The \"Final Boss\" of Deep Learning",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=AWqvBdqCAAE",
+      "thumbnail": "https://i.ytimg.com/vi/AWqvBdqCAAE/mqdefault.jpg",
+      "published": "2025-12-22",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video is likely discussing a significant challenge or advanced concept in deep learning that is considered the ultimate test or pinnacle achievement in the field.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "WHqaF4jbUYU",
+      "title": "Gemini Exponential, Demis Hassabis' ‘Proto-AGI’ coming, but …",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=WHqaF4jbUYU",
+      "thumbnail": "https://i.ytimg.com/vi/WHqaF4jbUYU/mqdefault.jpg",
+      "published": "2025-12-19",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "In the video, the creator discusses the recent release of Google's Gemini 3 Flash, highlighting its impressive performance compared to the previous Gemini 2.5 Pro model. The new model significantly reduces error rates, achieving a 95.2% accuracy on a challenging mathematics benchmark, compared to 88% for its predecessor. The creator notes that Gemini 3 Flash excels across various domains, including academic reasoning, visual reasoning, and coding, and emphasizes its rapid response time compared to traditional models. Additionally, they mention that Google applied a special post-training technique to optimize the model specifically for software engineering tasks.",
+      "topics": [
+        "RAG",
+        "Agents",
+        "Fine-tuning",
+        "Benchmarks",
+        "Multimodal",
+        "Reasoning"
+      ]
+    },
+    {
       "video_id": "v67plFw1nMw",
       "title": "Titans: Learning to Memorize at Test Time (Paper Analysis)",
       "channel": "Yannic Kilcher",
@@ -54,6 +948,25 @@
         "RAG",
         "Multimodal",
         "Architecture"
+      ]
+    },
+    {
+      "video_id": "4p73Uu_jZ10",
+      "title": "GPT 5.2: OpenAI Strikes Back",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=4p73Uu_jZ10",
+      "thumbnail": "https://i.ytimg.com/vi/4p73Uu_jZ10/mqdefault.jpg",
+      "published": "2025-12-12",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "In the video titled \"GPT 5.2: OpenAI Strikes Back,\" the creator discusses the recent release of OpenAI's GPT 5.2 model, highlighting its impressive performance in various benchmarks, particularly its claim to achieve a new state-of-the-art score on the GDP vow benchmark. The model reportedly surpasses or matches human expert levels in 71% of comparisons, focusing on well-specified knowledge work tasks across 44 occupations. However, the creator warns that this benchmark primarily evaluates digital jobs, which may lead to misinterpretations about its applicability to all professional tasks. Additionally, the creator emphasizes that while GPT 5.2 is a strong model, its performance may require more token usage for optimal results, suggesting a trade-off in efficiency.",
+      "topics": [
+        "RAG",
+        "Fine-tuning",
+        "Benchmarks",
+        "Multimodal",
+        "Reasoning"
       ]
     },
     {
@@ -128,6 +1041,21 @@
       ]
     },
     {
+      "video_id": "oSZYnx-Y8ZM",
+      "title": "Archie: an engineering AGI for Dyson Spheres | P-1 AI | $23 million seed round",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=oSZYnx-Y8ZM",
+      "thumbnail": "https://i.ytimg.com/vi/oSZYnx-Y8ZM/mqdefault.jpg",
+      "published": "2025-05-05",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely discusses a project named Archie, which is an engineering-focused artificial general intelligence (AGI) designed for the construction or management of Dyson Spheres, and it highlights a recent $23 million seed funding round for this initiative.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
       "video_id": "V71AJoYAtBQ",
       "title": "On the Biology of a Large Language Model (Part 2)",
       "channel": "Yannic Kilcher",
@@ -179,559 +1107,6 @@
         "Multimodal",
         "Architecture",
         "Reasoning"
-      ]
-    },
-    {
-      "video_id": "aJvP3nXWkwM",
-      "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
-      "thumbnail": "https://i.ytimg.com/vi/aJvP3nXWkwM/mqdefault.jpg",
-      "published": "2026-05-29",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses the new Claude Opus 4.8 model from Anthropic, highlighting 15 key points derived from a comprehensive 244-page report. Notably, the model exhibits improved performance, matching that of Mythos, and introduces a feature allowing it to generate its own organizational charts. The creator mentions Anthropic's shift away from plans to train Opus 4.8 in business skills due to concerns about fostering dishonesty. Additionally, they point out that Anthropic's recent valuation of nearly $1 trillion coincides with the rollout of new computing resources sourced from major tech companies, including Elon Musk's SpaceX and Google. A practical update is that users can now specify the duration for which Opus 4.8 will think, moving away from the previous adaptive thinking mode.",
-      "topics": [
-        "Agents",
-        "Benchmarks",
-        "Safety",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "jz0rNhfAKo8",
-      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
-      "thumbnail": "https://i.ytimg.com/vi/jz0rNhfAKo8/mqdefault.jpg",
-      "published": "2026-04-24",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses the recent release of GPT-5.5 by OpenAI and DeepSeek V4 from China, positioning them as significant developments in the AI landscape. GPT-5.5 is portrayed as OpenAI's effort to maintain its leadership against competitors like Anthropic, with the creator noting early access to the model but highlighting the lack of API access for broader testing. Key findings include GPT-5.5's slight preference for male responses and its underperformance compared to Opus 4.7 by about 6% and Mythos preview by nearly 20%. The creator also mentions OpenAI's surprising updated estimate on recursive self-improvement and the implications of benchmark scores, particularly regarding SWE-bench Pro, which OpenAI has emphasized despite GPT-5.5's underperformance in that area.",
-      "topics": [
-        "RAG",
-        "Agents",
-        "Benchmarks",
-        "Multimodal",
-        "Inference",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "QVJcdfkRpH8",
-      "title": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
-      "thumbnail": "https://i.ytimg.com/vi/QVJcdfkRpH8/mqdefault.jpg",
-      "published": "2026-04-17",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "The video discusses the newly released Claude Opus 4.7, highlighting its performance and the controversies surrounding it. Despite being a top AI model, it has unexpected flaws admitted by Anthropic, particularly in common-sense reasoning where it scores lower than its predecessor, Opus 4.6, due to its adaptive thinking approach. The creator notes that Opus 4.7 failed to automatically attach tooltips to benchmark scores, a feature present in earlier models, indicating a potential downgrade in usability. Additionally, the video mentions that while Opus 4.7 excels in certain areas, it still falls short compared to some Gemini models, and hints at a competitive rivalry with OpenAI.",
-      "topics": [
-        "RAG",
-        "Agents",
-        "Fine-tuning",
-        "Benchmarks",
-        "Multimodal",
-        "Inference",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "txx6ec6MLNY",
-      "title": "Claude Mythos: Highlights from 244-page Release",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
-      "thumbnail": "https://i.ytimg.com/vi/txx6ec6MLNY/mqdefault.jpg",
-      "published": "2026-04-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "The video discusses the 244-page report on Claude Mythos, a powerful AI model developed by Anthropic, which exhibits unique capabilities such as finding novel vulnerabilities in cybersecurity and critiquing its own alignment tests. The model underwent a rigorous 24-hour internal review to assess its potential risks before being released on February 24th, coinciding with the Department of War's moves to ban Anthropic. The creator highlights concerns raised by Anthropic regarding the rapid development of superhuman AI systems without adequate safety measures, suggesting that the latent power of Mythos may have influenced the company's leadership to establish strict operational boundaries. Notably, the report indicates that while Claude Mythos has advanced AI progress significantly, it still lacks the ability for radical self-improvement.",
-      "topics": [
-        "RAG",
-        "Agents",
-        "Benchmarks",
-        "Safety",
-        "Multimodal",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "s4tptozUJ8Y",
-      "title": "Two AI Models Set to “stir government urgency”, But Will This Challenge Undo Them?",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
-      "thumbnail": "https://i.ytimg.com/vi/s4tptozUJ8Y/mqdefault.jpg",
-      "published": "2026-03-26",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "The video discusses upcoming advancements in AI models from OpenAI and Anthropic, highlighting OpenAI's decision to shut down its Sora app to allocate resources for the new Spud model, which is expected to significantly enhance AI performance. Anthropic's Claude series is also mentioned, with renewed interest from the Pentagon in extending its use beyond a recent six-month deadline. A new benchmark, Arc-AGI-3, is introduced, revealing that while humans score 100%, the best AI models currently achieve less than half a percent. Additionally, OpenAI's erotic chatbot has been shelved to focus on the Spud model, which Sam Altman claims will accelerate the economy.",
-      "topics": [
-        "RAG",
-        "Fine-tuning",
-        "Benchmarks",
-        "Multimodal",
-        "Inference",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "zizoDORjmlQ",
-      "title": "What the New ChatGPT 5.4 Means for the World",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
-      "thumbnail": "https://i.ytimg.com/vi/zizoDORjmlQ/mqdefault.jpg",
-      "published": "2026-03-06",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses the rapid release of OpenAI's GPT 5.4, just 48 hours after GPT 5.3, suggesting it reflects either a significant advancement in AI or a strategic move by Sam Altman to shift media focus. The creator highlights that GPT 5.4 aims to serve white-collar professionals, achieving a benchmark called GDP Val, where it outperformed human outputs 70.8% of the time, and 83% when including ties. However, they caution that the model has notable limitations, including catastrophic errors and a narrow focus on self-contained digital tasks that don't represent the full scope of white-collar work. Additionally, it's mentioned that the premium version, GPT-5.4 Pro, actually performs worse than the standard version on this benchmark, which is a surprising revelation.",
-      "topics": [
-        "RAG",
-        "Agents",
-        "Benchmarks",
-        "Safety",
-        "Multimodal"
-      ]
-    },
-    {
-      "video_id": "Cru804JMjPI",
-      "title": "Deadline Day for Autonomous AI Weapons & Mass Surveillance",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=Cru804JMjPI",
-      "thumbnail": "https://i.ytimg.com/vi/Cru804JMjPI/mqdefault.jpg",
-      "published": "2026-02-27",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses the ethical implications of fully autonomous AI weapons and mass surveillance, questioning whether the public would support their government's use of such technologies. The deadline for Anthropic, the makers of the Clawude AI models, to comply with the US Department of War's demands for their use is set for February 27, 2026. The Pentagon seeks to utilize these models for autonomous lethal decision-making and domestic surveillance, which raises concerns about legality and oversight. Additionally, a petition from employees at OpenAI and Google has gained traction, advocating for their leaders to resist the Department of War's demands for these technologies. The creator notes that while discussions are ongoing, companies like OpenAI and Google are not fully aligned on the issue yet.",
-      "topics": [
-        "Agents",
-        "Safety"
-      ]
-    },
-    {
-      "video_id": "2_DPnzoiHaY",
-      "title": "Gemini 3.1 Pro and the Downfall of Benchmarks: Welcome to the Vibe Era of AI",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=2_DPnzoiHaY",
-      "thumbnail": "https://i.ytimg.com/vi/2_DPnzoiHaY/mqdefault.jpg",
-      "published": "2026-02-20",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses the release of the Gemini 3.1 Pro AI model and emphasizes the confusion surrounding benchmark scores for AI models. They explain that while pre-training on internet-scale data is important, it now only accounts for 20% of the compute used in training LLMs; the majority is spent on post-training, where models are fine-tuned using industry-specific data. This shift means that a model's performance can vary significantly depending on the domain, making it less reliable to assume that a model excelling in one area will perform well across the board. The creator also references Dario Amodei's previous comments about the minimal investment in the reinforcement learning stage, highlighting the evolving landscape of AI model training.",
-      "topics": [
-        "RAG",
-        "Agents",
-        "Fine-tuning",
-        "Benchmarks",
-        "Multimodal",
-        "Architecture",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "1PxEziv5XIU",
-      "title": "The Two Best AI Models/Enemies Just Got Released Simultaneously",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=1PxEziv5XIU",
-      "thumbnail": "https://i.ytimg.com/vi/1PxEziv5XIU/mqdefault.jpg",
-      "published": "2026-02-06",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses the simultaneous release of two significant AI models, focusing on Anthropic's Claude Opus 4.6. He highlights an intriguing aspect of the model's evaluation: a survey conducted among Anthropic employees regarding its potential to automate entry-level research roles. Initially, none of the 16 workers believed automation was feasible, but further clarification revealed that three respondents thought it could be possible within three months, with two suggesting it was already achievable. This discrepancy raises questions about the reliability of employee surveys and the model's actual capabilities, indicating that while there is skepticism, there is also a recognition of rapid advancements in AI.",
-      "topics": [
-        "RAG",
-        "Agents",
-        "Benchmarks",
-        "Multimodal",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "Iar4yweKGoI",
-      "title": "Claude AI Co-founder Publishes 4 Big Claims about Near Future: Breakdown",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=Iar4yweKGoI",
-      "thumbnail": "https://i.ytimg.com/vi/Iar4yweKGoI/mqdefault.jpg",
-      "published": "2026-01-28",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses claims made by Dario Amade, CEO of Anthropic, regarding the future of AI, particularly focusing on the transformative potential of models like Claude Code and Claude 4.5. Amade predicts that AI tools will evolve from automating individual tasks to taking over entire job categories, specifically mentioning software engineering, law, and finance. He emphasizes the importance of scaling laws, suggesting that as more data and computational power are fed into AI systems, their cognitive abilities will improve predictably. The creator encourages viewers to disregard pessimistic narratives about AI stagnation, highlighting Amade's belief in continuous advancements in AI capabilities.",
-      "topics": [
-        "RAG",
-        "Agents",
-        "Multimodal",
-        "Inference"
-      ]
-    },
-    {
-      "video_id": "wYs6HWZ2FdM",
-      "title": "Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=wYs6HWZ2FdM",
-      "thumbnail": "https://i.ytimg.com/vi/wYs6HWZ2FdM/mqdefault.jpg",
-      "published": "2026-01-14",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses Anthropic's new tool, Claude Co-work, which has gained significant attention for its potential to automate non-coding tasks, supporting the prediction that by 2026, all white-collar work could be automated. The creator references the rapid shift in software engineering, where developers have transitioned from writing most of their code to relying heavily on AI models like Claude Opus 4.5 for code generation. Despite acknowledging the impressive productivity gains from these tools, the creator expresses skepticism about the feasibility of fully automating all knowledge work, suggesting that while AI can excel in complex tasks, it still struggles with basic ones. The video aims to highlight both the potential and limitations of AI in transforming work processes.",
-      "topics": [
-        "Multimodal",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "FMMpUO1uAYk",
-      "title": "What the Freakiness of 2025 in AI Tells Us About 2026",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=FMMpUO1uAYk",
-      "thumbnail": "https://i.ytimg.com/vi/FMMpUO1uAYk/mqdefault.jpg",
-      "published": "2025-12-23",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses the significant advancements in AI during 2025, particularly highlighting the emergence of reasoning models, exemplified by Gemini 3 Pro, which achieved impressive benchmarks. However, they express skepticism about the true value of these benchmarks, noting that while models can surpass tests, this often leads to reduced diversity in outputs. The creator points out that the trend of \"thinking longer\" to improve accuracy may not yield new reasoning paths, as it tends to reinforce existing patterns in base models. Additionally, they mention that scaling up parameters and data has proven beneficial, as indicated by insights from Demis Hassabis regarding the recent release of Gemini 3.",
-      "topics": [
-        "RAG",
-        "Benchmarks",
-        "Multimodal",
-        "Architecture",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "WHqaF4jbUYU",
-      "title": "Gemini Exponential, Demis Hassabis' ‘Proto-AGI’ coming, but …",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=WHqaF4jbUYU",
-      "thumbnail": "https://i.ytimg.com/vi/WHqaF4jbUYU/mqdefault.jpg",
-      "published": "2025-12-19",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses the recent release of Google's Gemini 3 Flash, highlighting its impressive performance compared to the previous Gemini 2.5 Pro model. The new model significantly reduces error rates, achieving a 95.2% accuracy on a challenging mathematics benchmark, compared to 88% for its predecessor. The creator notes that Gemini 3 Flash excels across various domains, including academic reasoning, visual reasoning, and coding, and emphasizes its rapid response time compared to traditional models. Additionally, they mention that Google applied a special post-training technique to optimize the model specifically for software engineering tasks.",
-      "topics": [
-        "RAG",
-        "Agents",
-        "Fine-tuning",
-        "Benchmarks",
-        "Multimodal",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "4p73Uu_jZ10",
-      "title": "GPT 5.2: OpenAI Strikes Back",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=4p73Uu_jZ10",
-      "thumbnail": "https://i.ytimg.com/vi/4p73Uu_jZ10/mqdefault.jpg",
-      "published": "2025-12-12",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video titled \"GPT 5.2: OpenAI Strikes Back,\" the creator discusses the recent release of OpenAI's GPT 5.2 model, highlighting its impressive performance in various benchmarks, particularly its claim to achieve a new state-of-the-art score on the GDP vow benchmark. The model reportedly surpasses or matches human expert levels in 71% of comparisons, focusing on well-specified knowledge work tasks across 44 occupations. However, the creator warns that this benchmark primarily evaluates digital jobs, which may lead to misinterpretations about its applicability to all professional tasks. Additionally, the creator emphasizes that while GPT 5.2 is a strong model, its performance may require more token usage for optimal results, suggesting a trade-off in efficiency.",
-      "topics": [
-        "RAG",
-        "Fine-tuning",
-        "Benchmarks",
-        "Multimodal",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "iKx3gAODybU",
-      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
-      "thumbnail": "https://i.ytimg.com/vi/iKx3gAODybU/mqdefault.jpg",
-      "published": "2026-04-09",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the podcast, Lex Fridman discusses the terrifying efficiency of Viking longships, which could travel 70 to 120 miles a day, allowing them to raid quickly and escape before armies could respond. He reflects on the fear experienced by monks like Alcuin upon seeing Viking ships, suggesting it felt apocalyptic, especially with ominous signs like lightning shaped as dragons. The conversation also touches on the Viking concept of Valhalla, where warriors would fight daily and have their wounds healed overnight, preparing them for Ragnarok. Fridman quotes Tennyson's poem \"Ulysses\" to encapsulate the Viking spirit of relentless striving and adventure. The guest, Lars Brownworth, is introduced as a historian with expertise in Viking history, emphasizing the significant impact of these Norse explorers over a span of 300 years.",
-      "topics": [
-        "RAG",
-        "Safety",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "vif8NQcjVf0",
-      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
-      "thumbnail": "https://i.ytimg.com/vi/vif8NQcjVf0/mqdefault.jpg",
-      "published": "2026-03-23",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses Jensen Huang's insights on NVIDIA's significant role in the AI revolution and its valuation as a $4 trillion company, as featured in a conversation with Lex Fridman.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "SHlrUAkkWI0",
-      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
-      "thumbnail": "https://i.ytimg.com/vi/SHlrUAkkWI0/mqdefault.jpg",
-      "published": "2026-03-03",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely features Lex Fridman training with former UFC champion Khabib Nurmagomedov, showcasing exclusive footage from the UFC Performance Institute.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "KGVpKPNUdzA",
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://i.ytimg.com/vi/KGVpKPNUdzA/mqdefault.jpg",
-      "published": "2026-02-25",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely features an exclusive training session or interaction between Khabib Nurmagomedov and Lex Fridman, focusing on the themes of training and possibly the application of AI in that context.",
-      "topics": [
-        "Fine-tuning"
-      ]
-    },
-    {
-      "video_id": "YFjfBk8HI5o",
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://i.ytimg.com/vi/YFjfBk8HI5o/mqdefault.jpg",
-      "published": "2026-02-12",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses the AI agent named OpenClaw, which gained significant attention and popularity, as presented by Peter Steinberger on the Lex Fridman Podcast.",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "EV7WhVT270Q",
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://i.ytimg.com/vi/EV7WhVT270Q/mqdefault.jpg",
-      "published": "2026-01-31",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses the current advancements and trends in artificial intelligence as of 2026, focusing on large language models, coding practices, scaling laws, developments in China, AI agents, GPU technology, and the pursuit of artificial general intelligence (AGI).",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "TpyS50ifmX4",
-      "title": "The Ex-Pentagon Chief Sounding the Alarm on AI Weapons — Brad Carson",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=TpyS50ifmX4",
-      "thumbnail": "https://i.ytimg.com/vi/TpyS50ifmX4/mqdefault.jpg",
-      "published": "2026-05-31",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses concerns raised by Brad Carson, a former Pentagon chief, regarding the implications and dangers of artificial intelligence in military weaponry.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "zSAGzfspuDE",
-      "title": "The AI Progress Chart Everyone Is Misreading — Beth Barnes & David Rein",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=zSAGzfspuDE",
-      "thumbnail": "https://i.ytimg.com/vi/zSAGzfspuDE/mqdefault.jpg",
-      "published": "2026-05-04",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses a specific AI progress chart that is being misunderstood or misinterpreted by many people, featuring insights from Beth Barnes and David Rein.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "EInEmGaMRLc",
-      "title": "When AI Discovers the Next Transformer — Robert Lange",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=EInEmGaMRLc",
-      "thumbnail": "https://i.ytimg.com/vi/EInEmGaMRLc/mqdefault.jpg",
-      "published": "2026-03-13",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses advancements in AI, specifically focusing on the development of new architectures or models that could surpass the capabilities of the existing Transformer model.",
-      "topics": [
-        "Architecture"
-      ]
-    },
-    {
-      "video_id": "dHBEQ-Ryo24",
-      "title": "The Dangerous Illusion of AI Coding? - Jeremy Howard",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=dHBEQ-Ryo24",
-      "thumbnail": "https://i.ytimg.com/vi/dHBEQ-Ryo24/mqdefault.jpg",
-      "published": "2026-03-03",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses the misconceptions and potential risks associated with the belief that AI can effectively and safely handle coding tasks.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "M2iX6HQOoLg",
-      "title": "What If Intelligence Didn't Evolve? It \"Was There\" From the Start! - Blaise Agüera y Arcas",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=M2iX6HQOoLg",
-      "thumbnail": "https://i.ytimg.com/vi/M2iX6HQOoLg/mqdefault.jpg",
-      "published": "2026-02-16",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely explores the hypothetical scenario in which intelligence existed from the beginning of existence rather than evolving over time, as presented by Blaise Agüera y Arcas.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "Ucqfb33GJJ4",
-      "title": "The Brain Is Just Specialized Agents Talking To Each Other — Dr. Jeff Beck",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=Ucqfb33GJJ4",
-      "thumbnail": "https://i.ytimg.com/vi/Ucqfb33GJJ4/mqdefault.jpg",
-      "published": "2026-01-25",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses the idea that the brain functions through the interaction of specialized agents or components, drawing a parallel to how artificial intelligence and large language models operate.",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "yq318DIwPqw",
-      "title": "Why AI Has a Plato Problem — Mazviita Chirimuuta",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=yq318DIwPqw",
-      "thumbnail": "https://i.ytimg.com/vi/yq318DIwPqw/mqdefault.jpg",
-      "published": "2026-01-23",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses the philosophical challenges and implications of artificial intelligence, specifically referencing Plato's ideas to highlight potential issues or limitations in AI understanding and representation of reality.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "pO0WZsN8Oiw",
-      "title": "Why Every Brain Metaphor in History Has Been Wrong [SPECIAL EDITION]",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=pO0WZsN8Oiw",
-      "thumbnail": "https://i.ytimg.com/vi/pO0WZsN8Oiw/mqdefault.jpg",
-      "published": "2026-01-18",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely explores the historical use of brain metaphors in understanding intelligence and cognition, arguing that these metaphors have consistently been flawed or misleading.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "9suqiofCiwM",
-      "title": "AutoGrad Changed Everything (Not Transformers) [Dr. Jeff Beck]",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=9suqiofCiwM",
-      "thumbnail": "https://i.ytimg.com/vi/9suqiofCiwM/mqdefault.jpg",
-      "published": "2025-12-31",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses the significant impact of AutoGrad on the field of machine learning and artificial intelligence, suggesting that its influence surpasses that of transformer models.",
-      "topics": [
-        "Architecture"
-      ]
-    },
-    {
-      "video_id": "RvYSsi6rd4g",
-      "title": "Your Brain Doesn't Command Your Body. It Predicts It. [Max Bennett]",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=RvYSsi6rd4g",
-      "thumbnail": "https://i.ytimg.com/vi/RvYSsi6rd4g/mqdefault.jpg",
-      "published": "2025-12-30",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely explores the concept that the brain functions by predicting bodily actions rather than directly controlling them, potentially drawing parallels to how AI and large language models operate.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "4yYcN_mFi18",
-      "title": "PhD Bodybuilder Predicts The Future of AI (97% Certain) [Dr. Mike Israetel]",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=4yYcN_mFi18",
-      "thumbnail": "https://i.ytimg.com/vi/4yYcN_mFi18/mqdefault.jpg",
-      "published": "2025-12-24",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely features Dr. Mike Israetel, a PhD and bodybuilder, discussing his confident predictions regarding the future developments and implications of artificial intelligence.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "AWqvBdqCAAE",
-      "title": "The \"Final Boss\" of Deep Learning",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=AWqvBdqCAAE",
-      "thumbnail": "https://i.ytimg.com/vi/AWqvBdqCAAE/mqdefault.jpg",
-      "published": "2025-12-22",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video is likely discussing advanced challenges or significant milestones in deep learning, potentially focusing on large language models (LLMs) as the ultimate test or achievement in the field.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "oSZYnx-Y8ZM",
-      "title": "Archie: an engineering AGI for Dyson Spheres | P-1 AI | $23 million seed round",
-      "channel": "The AI Epiphany",
-      "url": "https://www.youtube.com/watch?v=oSZYnx-Y8ZM",
-      "thumbnail": "https://i.ytimg.com/vi/oSZYnx-Y8ZM/mqdefault.jpg",
-      "published": "2025-05-05",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses a project called Archie, which is an engineering-focused artificial general intelligence (AGI) designed for the construction or management of Dyson Spheres, and it highlights a recent $23 million seed funding round for the initiative.",
-      "topics": [
-        "General LLM"
       ]
     },
     {
@@ -804,7 +1179,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses state space models in the context of AI, featuring insights from Albert Gu and Karan Goel, who are associated with Cartesia AI.",
+      "summary": "The video likely discusses state space models in the context of artificial intelligence, featuring insights from Albert Gu and Karan Goel, who are associated with Cartesia AI.",
       "topics": [
         "General LLM"
       ]
@@ -819,7 +1194,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses methods or techniques for significantly speeding up the fine-tuning process of large language models (LLMs) with insights from Daniel Han of Unsloth AI.",
+      "summary": "The video likely discusses methods or techniques to significantly accelerate the fine-tuning process of large language models (LLMs) with insights from Daniel Han of Unsloth AI.",
       "topics": [
         "Fine-tuning"
       ]
@@ -840,6 +1215,21 @@
       ]
     },
     {
+      "video_id": "1nUsaleYBJw",
+      "title": "a more accurate demo of gpt-4o",
+      "channel": "bycloud",
+      "url": "https://www.youtube.com/watch?v=1nUsaleYBJw",
+      "thumbnail": "https://i.ytimg.com/vi/1nUsaleYBJw/mqdefault.jpg",
+      "published": "2024-05-15",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely presents a demonstration of the GPT-4o model, emphasizing its accuracy compared to previous versions or other AI models.",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
       "video_id": "CX2VLowIOXE",
       "title": "Building Julius AI to 500.000 users w/ Rahul (founder)",
       "channel": "The AI Epiphany",
@@ -849,7 +1239,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the journey and strategies employed by Rahul, the founder of Julius AI, to grow the user base of the AI platform to 500,000 users.",
+      "summary": "The video likely discusses the journey and strategies of Rahul, the founder of Julius AI, in scaling the platform to 500,000 users.",
       "topics": [
         "General LLM"
       ]
@@ -864,7 +1254,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses DeepMind's TacticAI, an AI assistant designed to analyze and assist with football tactics, featuring insights from Petar Veličković.",
+      "summary": "The video is likely about DeepMind's TacticAI, which is an AI assistant designed to assist with football tactics, as presented by Petar Veličković.",
       "topics": [
         "General LLM"
       ]
@@ -879,7 +1269,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses InstructPix2Pix, a model or technique related to AI and LLMs, featuring insights or contributions from Tim Brooks of OpenAI.",
+      "summary": "The video likely discusses InstructPix2Pix, a model or technique related to AI, featuring insights or explanations from Tim Brooks of OpenAI.",
       "topics": [
         "General LLM"
       ]
@@ -894,235 +1284,9 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses a method or framework called GPT-Fast that enables rapid inference of language models using PyTorch, featuring insights from Horace He.",
+      "summary": "The video is likely about a method or framework called GPT-Fast that enables rapid inference of language models using PyTorch, featuring insights from Horace He.",
       "topics": [
         "Inference"
-      ]
-    },
-    {
-      "video_id": "yco5IdRHsDs",
-      "title": "Power agents with full context of your experiments and traces with W&B MCP server",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=yco5IdRHsDs",
-      "thumbnail": "https://i.ytimg.com/vi/yco5IdRHsDs/mqdefault.jpg",
-      "published": "2026-05-27",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses how to enhance the capabilities of AI agents by utilizing the Weights & Biases (W&B) MCP server to maintain comprehensive context of experiments and their associated traces.",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "Q7NpRG2gAxc",
-      "title": "The AI Scientist Who Won't Touch Peptides | Sam Rodriques, Edison Scientific",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=Q7NpRG2gAxc",
-      "thumbnail": "https://i.ytimg.com/vi/Q7NpRG2gAxc/mqdefault.jpg",
-      "published": "2026-05-27",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses Sam Rodriques from Edison Scientific and his perspective on the limitations or challenges of working with peptides in the field of AI and scientific research.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "EEik6sXWMjM",
-      "title": "AI Builders: Building a text-to-SQL agent",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=EEik6sXWMjM",
-      "thumbnail": "https://i.ytimg.com/vi/EEik6sXWMjM/mqdefault.jpg",
-      "published": "2026-05-26",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video is likely about the process of creating a text-to-SQL agent using AI technologies, focusing on the tools and techniques involved in building such a system.",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "j18rH3sgOx8",
-      "title": "Fine-tune faster with W&B Training Serverless SFT",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=j18rH3sgOx8",
-      "thumbnail": "https://i.ytimg.com/vi/j18rH3sgOx8/mqdefault.jpg",
-      "published": "2026-05-13",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video is likely about using Weights & Biases to efficiently fine-tune large language models through a serverless approach to supervised fine-tuning (SFT).",
-      "topics": [
-        "Fine-tuning"
-      ]
-    },
-    {
-      "video_id": "V9VsVUDjki0",
-      "title": "This AI Car Drove Through a Tokyo Typhoon",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=V9VsVUDjki0",
-      "thumbnail": "https://i.ytimg.com/vi/V9VsVUDjki0/mqdefault.jpg",
-      "published": "2026-04-24",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely showcases an AI-controlled car navigating through the challenging conditions of a typhoon in Tokyo.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "ybg-Vw6ApwU",
-      "title": "AI Builders: Building an AI agent for interior design",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=ybg-Vw6ApwU",
-      "thumbnail": "https://i.ytimg.com/vi/ybg-Vw6ApwU/mqdefault.jpg",
-      "published": "2026-04-24",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video is likely about the process of creating an AI agent specifically designed to assist with interior design tasks.",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "vIis15L6Z94",
-      "title": "They Taught an AI to Drive With Just 10 Interventions",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=vIis15L6Z94",
-      "thumbnail": "https://i.ytimg.com/vi/vIis15L6Z94/mqdefault.jpg",
-      "published": "2026-04-22",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses a project where an AI was trained to drive a vehicle using only ten specific interventions or corrections during its learning process.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "lde_OpqGFls",
-      "title": "AI Adoption Is Inevitable. Here's why.",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=lde_OpqGFls",
-      "thumbnail": "https://i.ytimg.com/vi/lde_OpqGFls/mqdefault.jpg",
-      "published": "2026-04-21",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses the reasons and factors contributing to the unavoidable integration and acceptance of AI technologies in various aspects of society.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "_vOat9p7YhE",
-      "title": "Passenger or Pedestrian: Who Will an AI Car Save?",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=_vOat9p7YhE",
-      "thumbnail": "https://i.ytimg.com/vi/_vOat9p7YhE/mqdefault.jpg",
-      "published": "2026-04-20",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely explores the ethical dilemmas and decision-making processes of AI in self-driving cars regarding whether to prioritize the safety of passengers or pedestrians in emergency situations.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "T-MusIIayAE",
-      "title": "Accelerate LLM post training with W&B Serverless SFT ",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=T-MusIIayAE",
-      "thumbnail": "https://i.ytimg.com/vi/T-MusIIayAE/mqdefault.jpg",
-      "published": "2026-04-16",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses how to enhance the performance of large language models (LLMs) after their initial training using Weights & Biases' serverless framework for supervised fine-tuning (SFT).",
-      "topics": [
-        "Fine-tuning"
-      ]
-    },
-    {
-      "video_id": "XoAo5-kv80w",
-      "title": "Track robotics training dynamics in Weights & Biases",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=XoAo5-kv80w",
-      "thumbnail": "https://i.ytimg.com/vi/XoAo5-kv80w/mqdefault.jpg",
-      "published": "2026-04-15",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video is likely about using Weights & Biases to monitor and analyze the training processes and performance metrics of robotics models.",
-      "topics": [
-        "Fine-tuning",
-        "Safety"
-      ]
-    },
-    {
-      "video_id": "k5wgts8y-xU",
-      "title": "The $8.6B Self-Driving AI Backed by Nvidia and Uber | Alex Kendall, Wayve",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=k5wgts8y-xU",
-      "thumbnail": "https://i.ytimg.com/vi/k5wgts8y-xU/mqdefault.jpg",
-      "published": "2026-04-15",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely discusses a self-driving AI technology developed by Wayve, which has received significant financial backing from Nvidia and Uber, amounting to $8.6 billion.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "HUcYOwfyOww",
-      "title": "He's Building For AI. But Doesn't Trust It With His Own Code.",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=HUcYOwfyOww",
-      "thumbnail": "https://i.ytimg.com/vi/HUcYOwfyOww/mqdefault.jpg",
-      "published": "2026-04-10",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely explores the perspective of an individual who is actively developing AI technologies but remains skeptical about the reliability and safety of using AI for managing or generating his own code.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "BHdbsHFs2P0",
-      "title": "The Hairy Ball Theorem",
-      "channel": "3Blue1Brown",
-      "url": "https://www.youtube.com/watch?v=BHdbsHFs2P0",
-      "thumbnail": "https://i.ytimg.com/vi/BHdbsHFs2P0/mqdefault.jpg",
-      "published": "2026-01-31",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video is likely about the Hairy Ball Theorem, a concept in topology that states it is impossible to comb a hairy ball flat without creating at least one tuft or point where the hair stands up.",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "1nUsaleYBJw",
-      "title": "a more accurate demo of gpt-4o",
-      "channel": "bycloud",
-      "url": "https://www.youtube.com/watch?v=1nUsaleYBJw",
-      "thumbnail": "https://i.ytimg.com/vi/1nUsaleYBJw/mqdefault.jpg",
-      "published": "2024-05-15",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The video likely presents a demonstration of the GPT-4o model, focusing on its accuracy and performance compared to previous iterations.",
-      "topics": [
-        "General LLM"
       ]
     },
     {
@@ -1135,7 +1299,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely compares two AI models or concepts, \"Mamba\" and \"Transformer,\" in a creative or humorous context inspired by the \"Lobotomy Kaisen\" theme.",
+      "summary": "The video likely compares two AI models or concepts, \"Mamba\" and \"Transformer,\" in a creative or entertaining format inspired by the \"Lobotomy Kaisen\" theme.",
       "topics": [
         "Architecture"
       ]
@@ -1165,7 +1329,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video is likely announcing the winners of an art competition that utilized AI technology, specifically organized by the channel bycloud.",
+      "summary": "The video likely announces the winners of an art competition that utilized AI technology, organized by the channel bycloud.",
       "topics": [
         "Multimodal"
       ]
