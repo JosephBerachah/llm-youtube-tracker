@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-06-10 09:44 UTC",
+  "last_updated": "2026-06-11 10:09 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "haK1KoQWm18",
+      "title": "Claude Fable 5 - Full 319 page Breakdown",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "thumbnail": "https://i.ytimg.com/vi/haK1KoQWm18/mqdefault.jpg",
+      "published": "2026-06-10",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The video likely provides a comprehensive analysis or summary of the content found in the 319-page document related to Claude Fable 5, focusing on its features and implications in the context of AI.",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "-dGIUA_LLik",
       "title": "How to operationalize AI governance with W&B Weave",
@@ -12,7 +27,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video is likely about implementing AI governance practices using the Weights & Biases Weave tool.",
+      "summary": "The video is likely about implementing effective AI governance practices using the Weights & Biases Weave tool.",
       "topics": [
         "General LLM"
       ]
@@ -27,7 +42,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely explores the concept of AI agents functioning as game masters, potentially discussing their role in guiding and managing gameplay experiences in a gaming context.",
+      "summary": "The video likely explores the concept of AI agents functioning as game masters, potentially discussing their role in guiding gameplay and narrative in gaming contexts.",
       "topics": [
         "Agents"
       ]
@@ -42,7 +57,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses a new AI developed by DeepMind that employs an unconventional approach to processing information or problem-solving.",
+      "summary": "The video likely discusses a novel approach or methodology developed by DeepMind in the field of artificial intelligence that represents a unique or unconventional way of processing information or reasoning.",
       "topics": [
         "General LLM"
       ]
@@ -72,7 +87,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses an AI system that assists or collaborates with scientists in research, highlighting its significant impact on scientific processes or discoveries.",
+      "summary": "The video likely discusses an AI system that acts as a collaborative scientist, significantly impacting research and scientific discovery.",
       "topics": [
         "General LLM"
       ]
@@ -87,7 +102,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the improvements or changes in the Claude Opus 4.8 AI model, specifically addressing concerns about its accuracy or honesty in responses.",
+      "summary": "The video likely discusses the advancements or changes in Claude Opus 4.8 regarding its accuracy or reliability, suggesting that it may no longer produce false information.",
       "topics": [
         "General LLM"
       ]
@@ -117,7 +132,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely explores the implications and potential advancements in artificial intelligence and large language models that could result from a significant increase in computational power, specifically a million-fold increase.",
+      "summary": "The video likely explores the implications and potential advancements in artificial intelligence and large language models that could arise from a significant increase in computational power, specifically a 1,000,000-fold increase.",
       "topics": [
         "General LLM"
       ]
@@ -132,7 +147,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely explores a comparison between the intellectual contributions and ideas of Albert Einstein and Richard Feynman, possibly in the context of their relevance to physics and artificial intelligence.",
+      "summary": "The video likely explores a comparison between the intellectual contributions and ideas of Albert Einstein and Richard Feynman, possibly in the context of physics and artificial intelligence.",
       "topics": [
         "RAG"
       ]
@@ -147,7 +162,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses concerns raised by Brad Carson, a former Pentagon official, regarding the potential dangers and implications of artificial intelligence in weaponry.",
+      "summary": "The video likely discusses concerns raised by Brad Carson, a former Pentagon chief, regarding the potential dangers and implications of artificial intelligence in weaponry.",
       "topics": [
         "General LLM"
       ]
@@ -180,7 +195,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses how to enhance the capabilities of AI agents by utilizing the Weights & Biases (W&B) MCP server to provide comprehensive context from experiments and traces.",
+      "summary": "The video is likely about using the Weights & Biases (W&B) MCP server to enhance the capabilities of AI agents by providing them with comprehensive context from experiments and traces.",
       "topics": [
         "Agents"
       ]
@@ -195,7 +210,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the process of creating a text-to-SQL agent using AI technologies, focusing on the tools and techniques involved in building such a system.",
+      "summary": "The video is likely about the process of creating a text-to-SQL agent using AI technologies, focusing on the tools and methodologies involved in building such a system.",
       "topics": [
         "Agents"
       ]
@@ -225,7 +240,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video is likely about a new AI developed by DeepSeek that is considered to significantly improve or transform the field of artificial intelligence.",
+      "summary": "The video likely discusses a new AI developed by DeepSeek that is considered to significantly improve or transform existing technologies or applications in the field of AI.",
       "topics": [
         "General LLM"
       ]
@@ -240,7 +255,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video is likely about using Weights & Biases (W&B) to efficiently fine-tune large language models (LLMs) through a serverless approach to supervised fine-tuning (SFT).",
+      "summary": "The video likely discusses how to efficiently fine-tune large language models using Weights & Biases in a serverless environment.",
       "topics": [
         "Fine-tuning"
       ]
@@ -270,7 +285,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the various aspects of OpenAI's ChatGPT 5.5 Instant, highlighting its positive features, drawbacks, and potentially outrageous or surprising elements.",
+      "summary": "The video likely discusses the various aspects of OpenAI's ChatGPT 5.5 Instant, highlighting its positive features, potential drawbacks, and some surprising or extreme elements associated with it.",
       "topics": [
         "General LLM"
       ]
@@ -285,7 +300,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses a new AI model called DeepSeek V4 that outperforms expensive billion-dollar AI systems while being available for free.",
+      "summary": "The video likely discusses a new version of the DeepSeek AI that outperforms expensive billion-dollar AI systems while being available for free.",
       "topics": [
         "General LLM"
       ]
@@ -315,7 +330,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses NVIDIA's new AI technology that can transform a single photograph into a dynamic, immersive environment that remains stable and consistent.",
+      "summary": "The video likely discusses NVIDIA's new AI technology that can transform a single photograph into an immersive, continuously stable virtual environment.",
       "topics": [
         "General LLM"
       ]
@@ -330,7 +345,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses Sakana AI's God Simulator, highlighting its impressive features or capabilities in the realm of artificial intelligence.",
+      "summary": "The video likely discusses the innovative features and capabilities of Sakana AI's God Simulator, highlighting its brilliance in the context of artificial intelligence.",
       "topics": [
         "General LLM"
       ]
@@ -395,7 +410,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses a project where an AI was trained to drive by using only ten specific interventions or corrections during its learning process.",
+      "summary": "The video likely discusses a project where an AI system was trained to drive by using only ten specific interventions or corrections during its learning process.",
       "topics": [
         "General LLM"
       ]
@@ -410,7 +425,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the reasons and factors contributing to the unavoidable integration and acceptance of AI technologies in various aspects of society and industry.",
+      "summary": "The video likely discusses the reasons and factors contributing to the inevitable adoption of artificial intelligence technologies.",
       "topics": [
         "General LLM"
       ]
@@ -425,7 +440,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely explores the ethical dilemmas and decision-making processes of AI in autonomous vehicles regarding whom to prioritize in emergency situations: passengers or pedestrians.",
+      "summary": "The video likely explores the ethical dilemmas and decision-making processes of AI in self-driving cars regarding whom to prioritize in potential accident scenarios—passengers or pedestrians.",
       "topics": [
         "General LLM"
       ]
@@ -518,7 +533,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses Jensen Huang's insights on NVIDIA's significant impact on the AI revolution and its valuation as a $4 trillion company, as featured in a conversation with Lex Fridman.",
+      "summary": "The video likely features Jensen Huang discussing NVIDIA's significant role in the AI revolution and its valuation as a $4 trillion company during an interview on the Lex Fridman Podcast.",
       "topics": [
         "General LLM"
       ]
@@ -533,7 +548,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the potential future advancements in AI, specifically focusing on the discovery or development of a new model architecture that could surpass the capabilities of the current Transformer model.",
+      "summary": "The video likely discusses advancements in AI, specifically focusing on the discovery or development of a new model or architecture that could surpass the capabilities of the current Transformer model in machine learning.",
       "topics": [
         "Architecture"
       ]
@@ -630,7 +645,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely features an exclusive training session or interaction between Khabib Nurmagomedov and Lex Fridman, focusing on Khabib's training techniques or philosophy.",
+      "summary": "The video likely features an exclusive training session or interaction between Khabib Nurmagomedov and Lex Fridman, focusing on the theme of training, possibly in the context of AI or LLMs.",
       "topics": [
         "Fine-tuning"
       ]
@@ -666,7 +681,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely explores the hypothetical scenario where intelligence has always existed in some form, rather than evolving over time, as discussed by Blaise Agüera y Arcas.",
+      "summary": "The video likely explores the concept that intelligence may not have developed gradually through evolution but instead suggests that it has always existed in some form from the beginning.",
       "topics": [
         "General LLM"
       ]
@@ -681,7 +696,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the OpenClaw AI agent, its viral impact on the internet, and features insights from Peter Steinberger on its significance, as part of the Lex Fridman Podcast.",
+      "summary": "The video likely discusses the OpenClaw AI agent, its viral impact, and its significance in the context of artificial intelligence, as presented by Peter Steinberger on the Lex Fridman Podcast.",
       "topics": [
         "Agents"
       ]
@@ -715,7 +730,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the current advancements and state of artificial intelligence in 2026, focusing on large language models, coding practices, scaling laws, the role of China, AI agents, GPU technology, and the pursuit of artificial general intelligence (AGI).",
+      "summary": "The video likely discusses the current state and advancements of artificial intelligence in 2026, focusing on large language models, coding, scaling laws, developments in China, AI agents, GPUs, and the concept of artificial general intelligence (AGI).",
       "topics": [
         "Agents"
       ]
@@ -730,7 +745,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video is likely about the Hairy Ball Theorem, a concept in mathematics that states it is impossible to comb a hairy ball flat without creating at least one tuft or cowlick, which may be used as a metaphor or analogy in the context of LLMs or AI.",
+      "summary": "The video is likely about the Hairy Ball Theorem, a concept in topology that states it is impossible to comb a hairy ball flat without creating at least one tuft or cowlick.",
       "topics": [
         "General LLM"
       ]
@@ -763,7 +778,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the idea that the brain functions similarly to a system of specialized agents communicating with one another, drawing parallels to concepts in artificial intelligence and large language models.",
+      "summary": "The video likely explores the idea that the brain functions similarly to a system of specialized agents communicating with one another, drawing parallels between this concept and the workings of large language models (LLMs) and artificial intelligence.",
       "topics": [
         "Agents"
       ]
@@ -778,7 +793,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the philosophical challenges and implications of artificial intelligence, particularly in relation to Plato's ideas and theories.",
+      "summary": "The video likely discusses the philosophical challenges and implications of artificial intelligence, specifically referencing Plato's ideas to highlight issues related to representation and understanding in AI systems.",
       "topics": [
         "General LLM"
       ]
@@ -793,7 +808,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the historical use of brain metaphors in understanding intelligence and cognition, arguing that these metaphors have consistently been inaccurate or misleading.",
+      "summary": "The video likely explores the historical use of brain metaphors in understanding intelligence and cognition, arguing that these metaphors have consistently been inaccurate.",
       "topics": [
         "General LLM"
       ]
@@ -824,7 +839,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the significant impact of AutoGrad on the field of machine learning, suggesting that it is more transformative than the introduction of transformer models.",
+      "summary": "The video likely discusses the significance of AutoGrad in the development of machine learning models, suggesting that it had a more profound impact than the introduction of Transformers.",
       "topics": [
         "Architecture"
       ]
@@ -839,7 +854,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely explores the concept that the brain functions by predicting bodily movements and actions rather than directly controlling them.",
+      "summary": "The video likely explores the concept that the brain functions by predicting bodily actions rather than directly controlling them, possibly drawing parallels to artificial intelligence and machine learning.",
       "topics": [
         "General LLM"
       ]
@@ -908,7 +923,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video is likely discussing a significant challenge or advanced concept in deep learning that is considered the ultimate test or pinnacle achievement in the field.",
+      "summary": "The video is likely discussing the most advanced or challenging aspects of deep learning, possibly focusing on large language models (LLMs) as a pinnacle achievement in the field.",
       "topics": [
         "General LLM"
       ]
@@ -948,25 +963,6 @@
         "RAG",
         "Multimodal",
         "Architecture"
-      ]
-    },
-    {
-      "video_id": "4p73Uu_jZ10",
-      "title": "GPT 5.2: OpenAI Strikes Back",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=4p73Uu_jZ10",
-      "thumbnail": "https://i.ytimg.com/vi/4p73Uu_jZ10/mqdefault.jpg",
-      "published": "2025-12-12",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video titled \"GPT 5.2: OpenAI Strikes Back,\" the creator discusses the recent release of OpenAI's GPT 5.2 model, highlighting its impressive performance in various benchmarks, particularly its claim to achieve a new state-of-the-art score on the GDP vow benchmark. The model reportedly surpasses or matches human expert levels in 71% of comparisons, focusing on well-specified knowledge work tasks across 44 occupations. However, the creator warns that this benchmark primarily evaluates digital jobs, which may lead to misinterpretations about its applicability to all professional tasks. Additionally, the creator emphasizes that while GPT 5.2 is a strong model, its performance may require more token usage for optimal results, suggesting a trade-off in efficiency.",
-      "topics": [
-        "RAG",
-        "Fine-tuning",
-        "Benchmarks",
-        "Multimodal",
-        "Reasoning"
       ]
     },
     {
@@ -1050,7 +1046,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses a project named Archie, which is an engineering-focused artificial general intelligence (AGI) designed for the construction or management of Dyson Spheres, and it highlights a recent $23 million seed funding round for this initiative.",
+      "summary": "The video likely discusses a project named Archie, which is an engineering-focused artificial general intelligence (AGI) designed for the development or management of Dyson Spheres, and it highlights a recent $23 million seed funding round for this initiative.",
       "topics": [
         "General LLM"
       ]
@@ -1119,7 +1115,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video is likely about creating AI agents using a tool or platform called Integrail, presented in a thematic context related to Halloween.",
+      "summary": "The video is likely about creating AI agents using a tool or framework called Integrail, with a thematic twist related to Halloween.",
       "topics": [
         "Agents"
       ]
@@ -1164,7 +1160,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the Qwen 2 LLM, featuring insights from its author, Junyang Lin, and evaluates its performance compared to other large language models.",
+      "summary": "The video likely discusses the Qwen 2 LLM, featuring insights from its author, Junyang Lin, and evaluates its performance as a leading language model.",
       "topics": [
         "Open Source"
       ]
@@ -1179,7 +1175,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses state space models in the context of artificial intelligence, featuring insights from Albert Gu and Karan Goel, who are associated with Cartesia AI.",
+      "summary": "The video likely discusses state space models in the context of AI, featuring insights from Albert Gu and Karan Goel of Cartesia AI.",
       "topics": [
         "General LLM"
       ]
@@ -1194,7 +1190,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses methods or techniques to significantly accelerate the fine-tuning process of large language models (LLMs) with insights from Daniel Han of Unsloth AI.",
+      "summary": "The video likely discusses methods or techniques for significantly speeding up the fine-tuning process of large language models (LLMs) by a factor of 30, featuring insights from Daniel Han of Unsloth AI.",
       "topics": [
         "Fine-tuning"
       ]
@@ -1224,7 +1220,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely presents a demonstration of the GPT-4o model, emphasizing its accuracy compared to previous versions or other AI models.",
+      "summary": "The video is likely a demonstration showcasing the capabilities and performance of the GPT-4o model, emphasizing its accuracy.",
       "topics": [
         "General LLM"
       ]
@@ -1239,7 +1235,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses the journey and strategies of Rahul, the founder of Julius AI, in scaling the platform to 500,000 users.",
+      "summary": "The video likely discusses the journey and strategies employed by Rahul, the founder of Julius AI, to grow the user base of the AI platform to 500,000 users.",
       "topics": [
         "General LLM"
       ]
@@ -1254,7 +1250,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video is likely about DeepMind's TacticAI, which is an AI assistant designed to assist with football tactics, as presented by Petar Veličković.",
+      "summary": "The video likely discusses DeepMind's TacticAI, an AI assistant designed to analyze and assist with football tactics, featuring insights from Petar Veličković.",
       "topics": [
         "General LLM"
       ]
@@ -1269,7 +1265,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely discusses InstructPix2Pix, a model or technique related to AI, featuring insights or explanations from Tim Brooks of OpenAI.",
+      "summary": "The video likely discusses InstructPix2Pix, a tool or model related to AI and LLMs, featuring insights or commentary from Tim Brooks of OpenAI.",
       "topics": [
         "General LLM"
       ]
@@ -1284,7 +1280,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video is likely about a method or framework called GPT-Fast that enables rapid inference of language models using PyTorch, featuring insights from Horace He.",
+      "summary": "The video likely discusses a method or framework called GPT-Fast that enables rapid inference of language models using PyTorch, featuring insights from Horace He.",
       "topics": [
         "Inference"
       ]
@@ -1299,7 +1295,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely compares two AI models or concepts, \"Mamba\" and \"Transformer,\" in a creative or entertaining format inspired by the \"Lobotomy Kaisen\" theme.",
+      "summary": "The video likely compares two AI models or concepts, \"Mamba\" and \"Transformer,\" in a creative or humorous context inspired by the \"Lobotomy Kaisen\" theme.",
       "topics": [
         "Architecture"
       ]
@@ -1329,7 +1325,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The video likely announces the winners of an art competition that utilized AI technology, organized by the channel bycloud.",
+      "summary": "The video is likely announcing the winners of an art competition that utilized AI technology, organized by the channel bycloud.",
       "topics": [
         "Multimodal"
       ]
