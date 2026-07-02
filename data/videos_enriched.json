@@ -1,10 +1,25 @@
 {
-  "last_updated": "2026-07-01 09:33 UTC",
+  "last_updated": "2026-07-02 08:45 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
+      "video_id": "Vg6FBKTlfOw",
+      "title": "ARC-AGI-3 Explained by the Team That's Winning It",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=Vg6FBKTlfOw",
+      "thumbnail": "https://i.ytimg.com/vi/Vg6FBKTlfOw/mqdefault.jpg",
+      "published": "2026-07-01",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "ARC-AGI-3 Explained by the Team That's Winning It",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
       "video_id": "qks6dGQFd_c",
-      "title": "This New AI Model Changes Everything",
+      "title": "AI Just Entered A New Era",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
       "thumbnail": "https://i.ytimg.com/vi/qks6dGQFd_c/mqdefault.jpg",
@@ -12,7 +27,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "This New AI Model Changes Everything",
+      "summary": "AI Just Entered A New Era",
       "topics": [
         "General LLM"
       ]
@@ -395,21 +410,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Power agents with full context of your experiments and traces with W&B MCP server",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "EEik6sXWMjM",
-      "title": "AI Builders: Building a text-to-SQL agent",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=EEik6sXWMjM",
-      "thumbnail": "https://i.ytimg.com/vi/EEik6sXWMjM/mqdefault.jpg",
-      "published": "2026-05-26",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Builders: Building a text-to-SQL agent",
       "topics": [
         "Agents"
       ]
@@ -911,21 +911,6 @@
         "Architecture",
         "Inference",
         "Reasoning"
-      ]
-    },
-    {
-      "video_id": "4yYcN_mFi18",
-      "title": "PhD Bodybuilder Predicts The Future of AI (97% Certain) [Dr. Mike Israetel]",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=4yYcN_mFi18",
-      "thumbnail": "https://i.ytimg.com/vi/4yYcN_mFi18/mqdefault.jpg",
-      "published": "2025-12-24",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "PhD Bodybuilder Predicts The Future of AI (97% Certain) [Dr. Mike Israetel]",
-      "topics": [
-        "General LLM"
       ]
     },
     {
