@@ -1,18 +1,33 @@
 {
-  "last_updated": "2026-07-02 08:45 UTC",
+  "last_updated": "2026-07-03 08:52 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
-      "video_id": "Vg6FBKTlfOw",
-      "title": "ARC-AGI-3 Explained by the Team That's Winning It",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=Vg6FBKTlfOw",
-      "thumbnail": "https://i.ytimg.com/vi/Vg6FBKTlfOw/mqdefault.jpg",
-      "published": "2026-07-01",
+      "video_id": "y24lF1q4SFY",
+      "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "thumbnail": "https://i.ytimg.com/vi/y24lF1q4SFY/mqdefault.jpg",
+      "published": "2026-07-02",
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "ARC-AGI-3 Explained by the Team That's Winning It",
+      "summary": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "eLSf0Zq2kR4",
+      "title": "📅 ThursdAI - LIVE from AI Engineer Worlds Fair - OpenAI, DeepMind, EXO, Sakana & more friends",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=eLSf0Zq2kR4",
+      "thumbnail": "https://i.ytimg.com/vi/eLSf0Zq2kR4/mqdefault.jpg",
+      "published": "2026-07-02",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "📅 ThursdAI - LIVE from AI Engineer Worlds Fair - OpenAI, DeepMind, EXO, Sakana & more friends",
       "topics": [
         "General LLM"
       ]
@@ -910,25 +925,6 @@
         "Multimodal",
         "Architecture",
         "Inference",
-        "Reasoning"
-      ]
-    },
-    {
-      "video_id": "FMMpUO1uAYk",
-      "title": "What the Freakiness of 2025 in AI Tells Us About 2026",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=FMMpUO1uAYk",
-      "thumbnail": "https://i.ytimg.com/vi/FMMpUO1uAYk/mqdefault.jpg",
-      "published": "2025-12-23",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses the significant advancements in AI during 2025, particularly highlighting the emergence of reasoning models, exemplified by Gemini 3 Pro, which achieved impressive benchmarks. However, they express skepticism about the true value of these benchmarks, noting that while models can surpass tests, this often leads to reduced diversity in outputs. The creator points out that the trend of \"thinking longer\" to improve accuracy may not yield new reasoning paths, as it tends to reinforce existing patterns in base models. Additionally, they mention that scaling up parameters and data has proven beneficial, as indicated by insights from Demis Hassabis regarding the recent release of Gemini 3.",
-      "topics": [
-        "RAG",
-        "Benchmarks",
-        "Multimodal",
-        "Architecture",
         "Reasoning"
       ]
     },
