@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-03 08:52 UTC",
+  "last_updated": "2026-07-04 08:27 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "uO5cvkzh3P0",
+      "title": "They Said This Will Never Run In Real Time",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
+      "thumbnail": "https://i.ytimg.com/vi/uO5cvkzh3P0/mqdefault.jpg",
+      "published": "2026-07-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "They Said This Will Never Run In Real Time",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "y24lF1q4SFY",
       "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
@@ -440,21 +455,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Demis Hassabis On What AI Will Do Next",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "LpXhy2iiaQE",
-      "title": "DeepSeek’s New AI Is A Game Changer",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LpXhy2iiaQE",
-      "thumbnail": "https://i.ytimg.com/vi/LpXhy2iiaQE/mqdefault.jpg",
-      "published": "2026-05-22",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "DeepSeek’s New AI Is A Game Changer",
       "topics": [
         "General LLM"
       ]
