@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-06 09:59 UTC",
+  "last_updated": "2026-07-07 09:27 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "lbo7O4bVKnM",
+      "title": "W&B Weave: Observability and continuous improvement for production agents",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=lbo7O4bVKnM",
+      "thumbnail": "https://i.ytimg.com/vi/lbo7O4bVKnM/mqdefault.jpg",
+      "published": "2026-07-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "W&B Weave: Observability and continuous improvement for production agents",
+      "topics": [
+        "Agents"
+      ]
+    },
     {
       "video_id": "uO5cvkzh3P0",
       "title": "They Said This Will Never Run In Real Time",
@@ -427,21 +442,6 @@
         "Benchmarks",
         "Safety",
         "Reasoning"
-      ]
-    },
-    {
-      "video_id": "yco5IdRHsDs",
-      "title": "Power agents with full context of your experiments and traces with W&B MCP server",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=yco5IdRHsDs",
-      "thumbnail": "https://i.ytimg.com/vi/yco5IdRHsDs/mqdefault.jpg",
-      "published": "2026-05-27",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Power agents with full context of your experiments and traces with W&B MCP server",
-      "topics": [
-        "Agents"
       ]
     },
     {
