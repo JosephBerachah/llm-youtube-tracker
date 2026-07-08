@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-07 09:27 UTC",
+  "last_updated": "2026-07-08 08:11 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "1yBU41auQhw",
+      "title": "DeepSeek's New AI Speed Hack Is Amazing",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
+      "thumbnail": "https://i.ytimg.com/vi/1yBU41auQhw/mqdefault.jpg",
+      "published": "2026-07-07",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "DeepSeek's New AI Speed Hack Is Amazing",
+      "topics": [
+        "Inference"
+      ]
+    },
     {
       "video_id": "lbo7O4bVKnM",
       "title": "W&B Weave: Observability and continuous improvement for production agents",
@@ -442,21 +457,6 @@
         "Benchmarks",
         "Safety",
         "Reasoning"
-      ]
-    },
-    {
-      "video_id": "huAwz_BR8WM",
-      "title": "Demis Hassabis On What AI Will Do Next",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=huAwz_BR8WM",
-      "thumbnail": "https://i.ytimg.com/vi/huAwz_BR8WM/mqdefault.jpg",
-      "published": "2026-05-25",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Demis Hassabis On What AI Will Do Next",
-      "topics": [
-        "General LLM"
       ]
     },
     {
