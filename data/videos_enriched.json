@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-10 09:22 UTC",
+  "last_updated": "2026-07-11 07:44 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "mWlCituW7wo",
+      "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
+      "thumbnail": "https://i.ytimg.com/vi/mWlCituW7wo/mqdefault.jpg",
+      "published": "2026-07-10",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "1yBU41auQhw",
       "title": "DeepSeek's Absolutely Insane AI Speed Hack",
@@ -860,22 +875,6 @@
       "summary": "Why Every Brain Metaphor in History Has Been Wrong [SPECIAL EDITION]",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "wYs6HWZ2FdM",
-      "title": "Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=wYs6HWZ2FdM",
-      "thumbnail": "https://i.ytimg.com/vi/wYs6HWZ2FdM/mqdefault.jpg",
-      "published": "2026-01-14",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses Anthropic's new tool, Claude Co-work, which has gained significant attention for its potential to automate non-coding tasks, supporting the prediction that by 2026, all white-collar work could be automated. The creator references the rapid shift in software engineering, where developers have transitioned from writing most of their code to relying heavily on AI models like Claude Opus 4.5 for code generation. Despite acknowledging the impressive productivity gains from these tools, the creator expresses skepticism about the feasibility of fully automating all knowledge work, suggesting that while AI can excel in complex tasks, it still struggles with basic ones. The video aims to highlight both the potential and limitations of AI in transforming work processes.",
-      "topics": [
-        "Multimodal",
-        "Reasoning"
       ]
     },
     {
