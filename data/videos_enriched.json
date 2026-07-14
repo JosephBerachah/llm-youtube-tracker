@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-13 08:52 UTC",
+  "last_updated": "2026-07-14 07:50 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "JTHmrELSfvk",
+      "title": "Why a Nation Can't Outsource Its Frontier AI - Alistair Pullen (Cosine AI)",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=JTHmrELSfvk",
+      "thumbnail": "https://i.ytimg.com/vi/JTHmrELSfvk/mqdefault.jpg",
+      "published": "2026-07-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Why a Nation Can't Outsource Its Frontier AI - Alistair Pullen (Cosine AI)",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "mWlCituW7wo",
       "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
