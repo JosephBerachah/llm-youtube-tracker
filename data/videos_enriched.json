@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-14 07:50 UTC",
+  "last_updated": "2026-07-15 07:54 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
       "video_id": "JTHmrELSfvk",
-      "title": "Why a Nation Can't Outsource Its Frontier AI - Alistair Pullen (Cosine AI)",
+      "title": "Britain Is Losing The AI Race To America - Alistair Pullen (Cosine AI)",
       "channel": "Machine Learning Street Talk",
       "url": "https://www.youtube.com/watch?v=JTHmrELSfvk",
       "thumbnail": "https://i.ytimg.com/vi/JTHmrELSfvk/mqdefault.jpg",
@@ -12,7 +12,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Why a Nation Can't Outsource Its Frontier AI - Alistair Pullen (Cosine AI)",
+      "summary": "Britain Is Losing The AI Race To America - Alistair Pullen (Cosine AI)",
       "topics": [
         "General LLM"
       ]
