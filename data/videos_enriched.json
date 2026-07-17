@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-16 07:59 UTC",
+  "last_updated": "2026-07-17 07:56 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "axOcn--n_lM",
+      "title": "Claude Just Revealed AI's Biggest Problem",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/mqdefault.jpg",
+      "published": "2026-07-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude Just Revealed AI's Biggest Problem",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "0CqLVnx-2UM",
       "title": "Anthropic Found Something That Shouldn't Exist",
@@ -437,21 +452,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "yz6I23VRbdg",
-      "title": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=yz6I23VRbdg",
-      "thumbnail": "https://i.ytimg.com/vi/yz6I23VRbdg/mqdefault.jpg",
-      "published": "2026-06-01",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "What Happens After A 1,000,000x AI Compute Leap? | Jeff Dean",
       "topics": [
         "General LLM"
       ]
