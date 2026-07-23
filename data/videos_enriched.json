@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-22 08:11 UTC",
+  "last_updated": "2026-07-23 08:15 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "wzY2fV4Mp3U",
+      "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "thumbnail": "https://i.ytimg.com/vi/wzY2fV4Mp3U/mqdefault.jpg",
+      "published": "2026-07-22",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "axOcn--n_lM",
       "title": "Claude Just Revealed AI's Biggest Problem",
@@ -812,24 +827,6 @@
       "summary": "Why you can't comb a hairy ball, and why we care",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "Iar4yweKGoI",
-      "title": "Claude AI Co-founder Publishes 4 Big Claims about Near Future: Breakdown",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=Iar4yweKGoI",
-      "thumbnail": "https://i.ytimg.com/vi/Iar4yweKGoI/mqdefault.jpg",
-      "published": "2026-01-28",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the video, the creator discusses claims made by Dario Amade, CEO of Anthropic, regarding the future of AI, particularly focusing on the transformative potential of models like Claude Code and Claude 4.5. Amade predicts that AI tools will evolve from automating individual tasks to taking over entire job categories, specifically mentioning software engineering, law, and finance. He emphasizes the importance of scaling laws, suggesting that as more data and computational power are fed into AI systems, their cognitive abilities will improve predictably. The creator encourages viewers to disregard pessimistic narratives about AI stagnation, highlighting Amade's belief in continuous advancements in AI capabilities.",
-      "topics": [
-        "RAG",
-        "Agents",
-        "Multimodal",
-        "Inference"
       ]
     },
     {
