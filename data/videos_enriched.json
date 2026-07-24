@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-23 08:15 UTC",
+  "last_updated": "2026-07-24 08:11 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "2PNguDuDYKA",
+      "title": "📅 ThursdAI - Jul 23 | Weekly AI News",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=2PNguDuDYKA",
+      "thumbnail": "https://i.ytimg.com/vi/2PNguDuDYKA/mqdefault.jpg",
+      "published": "2026-07-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "📅 ThursdAI - Jul 23 | Weekly AI News",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "wzY2fV4Mp3U",
       "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
