@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 08:11 UTC",
+  "last_updated": "2026-07-25 07:54 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -827,21 +827,6 @@
       "summary": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
       "topics": [
         "Agents"
-      ]
-    },
-    {
-      "video_id": "BHdbsHFs2P0",
-      "title": "Why you can't comb a hairy ball, and why we care",
-      "channel": "3Blue1Brown",
-      "url": "https://www.youtube.com/watch?v=BHdbsHFs2P0",
-      "thumbnail": "https://i.ytimg.com/vi/BHdbsHFs2P0/mqdefault.jpg",
-      "published": "2026-01-31",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Why you can't comb a hairy ball, and why we care",
-      "topics": [
-        "General LLM"
       ]
     },
     {
