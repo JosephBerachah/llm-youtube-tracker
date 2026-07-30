@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-29 08:24 UTC",
+  "last_updated": "2026-07-30 08:11 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "Xj-QdEUxJkE",
+      "title": "Kimi K3 Just Broke The Economics Of AI",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
+      "thumbnail": "https://i.ytimg.com/vi/Xj-QdEUxJkE/mqdefault.jpg",
+      "published": "2026-07-29",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Kimi K3 Just Broke The Economics Of AI",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "2PNguDuDYKA",
       "title": "📅 ThursdAI - Jul 23 | Weekly AI News",
@@ -452,21 +467,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Claude Opus 4.8: Lying Machine No More?",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "MOviZKtFeHM",
-      "title": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=MOviZKtFeHM",
-      "thumbnail": "https://i.ytimg.com/vi/MOviZKtFeHM/mqdefault.jpg",
-      "published": "2026-06-02",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "A Second Nobel Prize for AlphaFold? 🧬🏆 #alphafold #deepmind #nobelprize #science #ai",
       "topics": [
         "General LLM"
       ]
