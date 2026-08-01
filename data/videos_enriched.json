@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-07-31 08:38 UTC",
+  "last_updated": "2026-08-01 08:07 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "n1Qk8xbqF-M",
+      "title": "How Researchers Test AI for Hidden Goals — Apollo Research",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=n1Qk8xbqF-M",
+      "thumbnail": "https://i.ytimg.com/vi/n1Qk8xbqF-M/mqdefault.jpg",
+      "published": "2026-07-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How Researchers Test AI for Hidden Goals — Apollo Research",
+      "topics": [
+        "RAG"
+      ]
+    },
     {
       "video_id": "Xj-QdEUxJkE",
       "title": "Kimi K3 Just Broke The Economics Of AI",
@@ -892,21 +907,6 @@
       "summary": "AutoGrad Changed Everything (Not Transformers) [Dr. Jeff Beck]",
       "topics": [
         "Architecture"
-      ]
-    },
-    {
-      "video_id": "RvYSsi6rd4g",
-      "title": "Your Brain Doesn't Command Your Body. It Predicts It. [Max Bennett]",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=RvYSsi6rd4g",
-      "thumbnail": "https://i.ytimg.com/vi/RvYSsi6rd4g/mqdefault.jpg",
-      "published": "2025-12-30",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Your Brain Doesn't Command Your Body. It Predicts It. [Max Bennett]",
-      "topics": [
-        "General LLM"
       ]
     },
     {
