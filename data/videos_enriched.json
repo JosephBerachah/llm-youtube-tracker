@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-08-02 08:09 UTC",
+  "last_updated": "2026-08-03 09:25 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "8B05cy3UuSE",
+      "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/mqdefault.jpg",
+      "published": "2026-08-02",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "n1Qk8xbqF-M",
       "title": "How Researchers Test AI for Hidden Goals — Apollo Research",
@@ -472,21 +487,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "ypL7kUiw_LM",
-      "title": "Claude Opus 4.8: Lying Machine No More?",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ypL7kUiw_LM",
-      "thumbnail": "https://i.ytimg.com/vi/ypL7kUiw_LM/mqdefault.jpg",
-      "published": "2026-06-03",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Claude Opus 4.8: Lying Machine No More?",
       "topics": [
         "General LLM"
       ]
