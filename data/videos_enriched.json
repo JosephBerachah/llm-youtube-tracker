@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03 09:25 UTC",
+  "last_updated": "2026-08-04 08:24 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -472,21 +472,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "DeepMind’s New AI Found A Strange New Way To Think",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "iz7elwbqZVI",
-      "title": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=iz7elwbqZVI",
-      "thumbnail": "https://i.ytimg.com/vi/iz7elwbqZVI/mqdefault.jpg",
-      "published": "2026-06-03",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Meet the AI \"Co-Scientist\" Changing Everything 🤖🧪 #ai",
       "topics": [
         "General LLM"
       ]
