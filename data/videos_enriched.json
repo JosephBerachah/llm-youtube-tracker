@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-08-04 08:24 UTC",
+  "last_updated": "2026-08-05 08:21 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "Tf7DEYfZc0g",
+      "title": "40 Trillion Tokens a Day (Yes, More Than OpenAI) | Lin Qiao, CEO of Fireworks",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=Tf7DEYfZc0g",
+      "thumbnail": "https://i.ytimg.com/vi/Tf7DEYfZc0g/mqdefault.jpg",
+      "published": "2026-08-04",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "40 Trillion Tokens a Day (Yes, More Than OpenAI) | Lin Qiao, CEO of Fireworks",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "8B05cy3UuSE",
       "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
