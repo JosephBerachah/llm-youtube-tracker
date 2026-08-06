@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-08-05 08:21 UTC",
+  "last_updated": "2026-08-06 08:19 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "ppQh4Tc9BmM",
+      "title": "The Billion Dollar AI Race Just Broke",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
+      "thumbnail": "https://i.ytimg.com/vi/ppQh4Tc9BmM/mqdefault.jpg",
+      "published": "2026-08-05",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Billion Dollar AI Race Just Broke",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "Tf7DEYfZc0g",
       "title": "40 Trillion Tokens a Day (Yes, More Than OpenAI) | Lin Qiao, CEO of Fireworks",
@@ -474,21 +489,6 @@
       "summary": "AI Agents as \"Games Masters\"? 🎮🔥",
       "topics": [
         "Agents"
-      ]
-    },
-    {
-      "video_id": "Dkqzqw8rxXI",
-      "title": "DeepMind’s New AI Found A Strange New Way To Think",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Dkqzqw8rxXI",
-      "thumbnail": "https://i.ytimg.com/vi/Dkqzqw8rxXI/mqdefault.jpg",
-      "published": "2026-06-05",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "DeepMind’s New AI Found A Strange New Way To Think",
-      "topics": [
-        "General LLM"
       ]
     },
     {
