@@ -1,5 +1,186 @@
 {
-  "last_updated": "2026-08-08 06:34 UTC",
+  "last_updated": "2026-08-09 06:38 UTC",
   "model": "gpt-4o-mini",
-  "videos": []
+  "videos": [
+    {
+      "video_id": "n1Qk8xbqF-M",
+      "title": "How Researchers Test AI for Hidden Goals — Apollo Research",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=n1Qk8xbqF-M",
+      "thumbnail": "https://i.ytimg.com/vi/n1Qk8xbqF-M/mqdefault.jpg",
+      "published": "2026-07-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How Researchers Test AI for Hidden Goals — Apollo Research",
+      "topics": [
+        "RAG"
+      ]
+    },
+    {
+      "video_id": "JTHmrELSfvk",
+      "title": "Watching America Run Away With AI - Alistair Pullen (Cosine AI)",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=JTHmrELSfvk",
+      "thumbnail": "https://i.ytimg.com/vi/JTHmrELSfvk/mqdefault.jpg",
+      "published": "2026-07-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Watching America Run Away With AI - Alistair Pullen (Cosine AI)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "5pieVHmlbyk",
+      "title": "The Thermodynamic AI Chip · Thomas Ahle",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=5pieVHmlbyk",
+      "thumbnail": "https://i.ytimg.com/vi/5pieVHmlbyk/mqdefault.jpg",
+      "published": "2026-06-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Thermodynamic AI Chip · Thomas Ahle",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "TpyS50ifmX4",
+      "title": "The Ex-Pentagon Chief Sounding the Alarm on AI Weapons — Brad Carson",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=TpyS50ifmX4",
+      "thumbnail": "https://i.ytimg.com/vi/TpyS50ifmX4/mqdefault.jpg",
+      "published": "2026-05-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Ex-Pentagon Chief Sounding the Alarm on AI Weapons — Brad Carson",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "zSAGzfspuDE",
+      "title": "The AI Progress Chart Everyone Is Misreading — Beth Barnes & David Rein",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=zSAGzfspuDE",
+      "thumbnail": "https://i.ytimg.com/vi/zSAGzfspuDE/mqdefault.jpg",
+      "published": "2026-05-04",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The AI Progress Chart Everyone Is Misreading — Beth Barnes & David Rein",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "EInEmGaMRLc",
+      "title": "When AI Discovers the Next Transformer — Robert Lange",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=EInEmGaMRLc",
+      "thumbnail": "https://i.ytimg.com/vi/EInEmGaMRLc/mqdefault.jpg",
+      "published": "2026-03-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "When AI Discovers the Next Transformer — Robert Lange",
+      "topics": [
+        "Architecture"
+      ]
+    },
+    {
+      "video_id": "dHBEQ-Ryo24",
+      "title": "The Dangerous Illusion of AI Coding? - Jeremy Howard",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=dHBEQ-Ryo24",
+      "thumbnail": "https://i.ytimg.com/vi/dHBEQ-Ryo24/mqdefault.jpg",
+      "published": "2026-03-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Dangerous Illusion of AI Coding? - Jeremy Howard",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "M2iX6HQOoLg",
+      "title": "What If Intelligence Didn't Evolve? It \"Was There\" From the Start! - Blaise Agüera y Arcas",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=M2iX6HQOoLg",
+      "thumbnail": "https://i.ytimg.com/vi/M2iX6HQOoLg/mqdefault.jpg",
+      "published": "2026-02-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "What If Intelligence Didn't Evolve? It \"Was There\" From the Start! - Blaise Agüera y Arcas",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "Ucqfb33GJJ4",
+      "title": "The Brain Is Just Specialized Agents Talking To Each Other — Dr. Jeff Beck",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=Ucqfb33GJJ4",
+      "thumbnail": "https://i.ytimg.com/vi/Ucqfb33GJJ4/mqdefault.jpg",
+      "published": "2026-01-25",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Brain Is Just Specialized Agents Talking To Each Other — Dr. Jeff Beck",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "yq318DIwPqw",
+      "title": "Why AI Has a Plato Problem — Mazviita Chirimuuta",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=yq318DIwPqw",
+      "thumbnail": "https://i.ytimg.com/vi/yq318DIwPqw/mqdefault.jpg",
+      "published": "2026-01-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Why AI Has a Plato Problem — Mazviita Chirimuuta",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "pO0WZsN8Oiw",
+      "title": "Why Every Brain Metaphor in History Has Been Wrong [SPECIAL EDITION]",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=pO0WZsN8Oiw",
+      "thumbnail": "https://i.ytimg.com/vi/pO0WZsN8Oiw/mqdefault.jpg",
+      "published": "2026-01-18",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Why Every Brain Metaphor in History Has Been Wrong [SPECIAL EDITION]",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "9suqiofCiwM",
+      "title": "AutoGrad Changed Everything (Not Transformers) [Dr. Jeff Beck]",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=9suqiofCiwM",
+      "thumbnail": "https://i.ytimg.com/vi/9suqiofCiwM/mqdefault.jpg",
+      "published": "2025-12-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AutoGrad Changed Everything (Not Transformers) [Dr. Jeff Beck]",
+      "topics": [
+        "Architecture"
+      ]
+    }
+  ]
 }
