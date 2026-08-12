@@ -1,5 +1,1222 @@
 {
-  "last_updated": "2026-08-11 06:48 UTC",
+  "last_updated": "2026-08-12 07:12 UTC",
   "model": "gpt-4o-mini",
-  "videos": []
+  "videos": [
+    {
+      "video_id": "JQ97GiDwPxc",
+      "title": "OpenAI’s AI Agents Just Crossed A Line",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+      "thumbnail": "https://i.ytimg.com/vi/JQ97GiDwPxc/mqdefault.jpg",
+      "published": "2026-08-11",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "OpenAI’s AI Agents Just Crossed A Line",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "revreN8LZ_M",
+      "title": "AI Is Learning at the Wrong Level of Abstraction — Matthieu Wyart",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=revreN8LZ_M",
+      "thumbnail": "https://i.ytimg.com/vi/revreN8LZ_M/mqdefault.jpg",
+      "published": "2026-08-10",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Is Learning at the Wrong Level of Abstraction — Matthieu Wyart",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "OC-qeHeEetc",
+      "title": "Your AI agent is gaslighting you. Here are the receipts.",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=OC-qeHeEetc",
+      "thumbnail": "https://i.ytimg.com/vi/OC-qeHeEetc/mqdefault.jpg",
+      "published": "2026-08-10",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Your AI agent is gaslighting you. Here are the receipts.",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "vO6SWG-jxvE",
+      "title": "DeepMind Just Changed How AI Sees The World",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+      "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/mqdefault.jpg",
+      "published": "2026-08-07",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "DeepMind Just Changed How AI Sees The World",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "xGzseSSStnw",
+      "title": "AI is getting a little out of control",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=xGzseSSStnw",
+      "thumbnail": "https://i.ytimg.com/vi/xGzseSSStnw/mqdefault.jpg",
+      "published": "2026-08-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI is getting a little out of control",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "ppQh4Tc9BmM",
+      "title": "The Billion Dollar AI Race Just Broke",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
+      "thumbnail": "https://i.ytimg.com/vi/ppQh4Tc9BmM/mqdefault.jpg",
+      "published": "2026-08-05",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Billion Dollar AI Race Just Broke",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "Tf7DEYfZc0g",
+      "title": "Most AI Startups Are Scaling Into Bankruptcy | Lin Qiao, CEO of Fireworks",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=Tf7DEYfZc0g",
+      "thumbnail": "https://i.ytimg.com/vi/Tf7DEYfZc0g/mqdefault.jpg",
+      "published": "2026-08-04",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Most AI Startups Are Scaling Into Bankruptcy | Lin Qiao, CEO of Fireworks",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "8B05cy3UuSE",
+      "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/mqdefault.jpg",
+      "published": "2026-08-02",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "n1Qk8xbqF-M",
+      "title": "How Researchers Test AI for Hidden Goals — Apollo Research",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=n1Qk8xbqF-M",
+      "thumbnail": "https://i.ytimg.com/vi/n1Qk8xbqF-M/mqdefault.jpg",
+      "published": "2026-07-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How Researchers Test AI for Hidden Goals — Apollo Research",
+      "topics": [
+        "RAG"
+      ]
+    },
+    {
+      "video_id": "Xj-QdEUxJkE",
+      "title": "Kimi K3 Just Broke The Economics Of AI",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
+      "thumbnail": "https://i.ytimg.com/vi/Xj-QdEUxJkE/mqdefault.jpg",
+      "published": "2026-07-29",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Kimi K3 Just Broke The Economics Of AI",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "2PNguDuDYKA",
+      "title": "📅 ThursdAI - Jul 23 | Weekly AI News",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=2PNguDuDYKA",
+      "thumbnail": "https://i.ytimg.com/vi/2PNguDuDYKA/mqdefault.jpg",
+      "published": "2026-07-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "📅 ThursdAI - Jul 23 | Weekly AI News",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "wzY2fV4Mp3U",
+      "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "thumbnail": "https://i.ytimg.com/vi/wzY2fV4Mp3U/mqdefault.jpg",
+      "published": "2026-07-22",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "axOcn--n_lM",
+      "title": "Claude Just Revealed AI's Biggest Problem",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/mqdefault.jpg",
+      "published": "2026-07-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude Just Revealed AI's Biggest Problem",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "0CqLVnx-2UM",
+      "title": "Anthropic Found Something That Shouldn't Exist",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+      "thumbnail": "https://i.ytimg.com/vi/0CqLVnx-2UM/mqdefault.jpg",
+      "published": "2026-07-15",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Anthropic Found Something That Shouldn't Exist",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "JTHmrELSfvk",
+      "title": "Watching America Run Away With AI - Alistair Pullen (Cosine AI)",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=JTHmrELSfvk",
+      "thumbnail": "https://i.ytimg.com/vi/JTHmrELSfvk/mqdefault.jpg",
+      "published": "2026-07-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Watching America Run Away With AI - Alistair Pullen (Cosine AI)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "mWlCituW7wo",
+      "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
+      "thumbnail": "https://i.ytimg.com/vi/mWlCituW7wo/mqdefault.jpg",
+      "published": "2026-07-10",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "1yBU41auQhw",
+      "title": "DeepSeek's Absolutely Insane AI Speed Hack",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
+      "thumbnail": "https://i.ytimg.com/vi/1yBU41auQhw/mqdefault.jpg",
+      "published": "2026-07-07",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "DeepSeek's Absolutely Insane AI Speed Hack",
+      "topics": [
+        "Inference"
+      ]
+    },
+    {
+      "video_id": "lbo7O4bVKnM",
+      "title": "W&B Weave: Observability and continuous improvement for production agents",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=lbo7O4bVKnM",
+      "thumbnail": "https://i.ytimg.com/vi/lbo7O4bVKnM/mqdefault.jpg",
+      "published": "2026-07-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "W&B Weave: Observability and continuous improvement for production agents",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "uO5cvkzh3P0",
+      "title": "They Said This Will Never Run In Real Time",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
+      "thumbnail": "https://i.ytimg.com/vi/uO5cvkzh3P0/mqdefault.jpg",
+      "published": "2026-07-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "They Said This Will Never Run In Real Time",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "y24lF1q4SFY",
+      "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "thumbnail": "https://i.ytimg.com/vi/y24lF1q4SFY/mqdefault.jpg",
+      "published": "2026-07-02",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Fable 5 vs GPT 5.6 Sol: The Early Results",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "eLSf0Zq2kR4",
+      "title": "📅 ThursdAI - LIVE from AI Engineer Worlds Fair - OpenAI, DeepMind, EXO, Sakana & more friends",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=eLSf0Zq2kR4",
+      "thumbnail": "https://i.ytimg.com/vi/eLSf0Zq2kR4/mqdefault.jpg",
+      "published": "2026-07-02",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "📅 ThursdAI - LIVE from AI Engineer Worlds Fair - OpenAI, DeepMind, EXO, Sakana & more friends",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "qks6dGQFd_c",
+      "title": "AI Just Entered A New Era",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
+      "thumbnail": "https://i.ytimg.com/vi/qks6dGQFd_c/mqdefault.jpg",
+      "published": "2026-07-01",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Just Entered A New Era",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "9QFfEmgd5V0",
+      "title": "CoreWeave AIRA: The autoresearch loop for continuous improvement",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=9QFfEmgd5V0",
+      "thumbnail": "https://i.ytimg.com/vi/9QFfEmgd5V0/mqdefault.jpg",
+      "published": "2026-06-30",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave AIRA: The autoresearch loop for continuous improvement",
+      "topics": [
+        "RAG"
+      ]
+    },
+    {
+      "video_id": "X9GdzWlKRXw",
+      "title": "Introducing CoreWeave ARIA: AI Research and Iteration Agent",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=X9GdzWlKRXw",
+      "thumbnail": "https://i.ytimg.com/vi/X9GdzWlKRXw/mqdefault.jpg",
+      "published": "2026-06-30",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Introducing CoreWeave ARIA: AI Research and Iteration Agent",
+      "topics": [
+        "RAG",
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "5pieVHmlbyk",
+      "title": "The Thermodynamic AI Chip · Thomas Ahle",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=5pieVHmlbyk",
+      "thumbnail": "https://i.ytimg.com/vi/5pieVHmlbyk/mqdefault.jpg",
+      "published": "2026-06-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Thermodynamic AI Chip · Thomas Ahle",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "NzOgS3PBc84",
+      "title": "Why You Can't Tell When ChatGPT Is Wrong",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=NzOgS3PBc84",
+      "thumbnail": "https://i.ytimg.com/vi/NzOgS3PBc84/mqdefault.jpg",
+      "published": "2026-06-26",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Why You Can't Tell When ChatGPT Is Wrong",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "5V68N0wOlCQ",
+      "title": "AI Gets Rewarded For Lying To You",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=5V68N0wOlCQ",
+      "thumbnail": "https://i.ytimg.com/vi/5V68N0wOlCQ/mqdefault.jpg",
+      "published": "2026-06-24",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Gets Rewarded For Lying To You",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "mG4SmhWyeFA",
+      "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
+      "thumbnail": "https://i.ytimg.com/vi/mG4SmhWyeFA/mqdefault.jpg",
+      "published": "2026-06-22",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "DeepSeek Just Solved AI's Billion Dollar Problem",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "jm8b8WWtAMA",
+      "title": "Every AI output is a hallucination",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=jm8b8WWtAMA",
+      "thumbnail": "https://i.ytimg.com/vi/jm8b8WWtAMA/mqdefault.jpg",
+      "published": "2026-06-19",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Every AI output is a hallucination",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "dUmT0OIGoqE",
+      "title": "Scientists Found A Better Language For AI Agents",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
+      "thumbnail": "https://i.ytimg.com/vi/dUmT0OIGoqE/mqdefault.jpg",
+      "published": "2026-06-19",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Scientists Found A Better Language For AI Agents",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "l72ufA-4SzE",
+      "title": "They Looked Inside Claude’s AI's Mind. It Got Weird",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=l72ufA-4SzE",
+      "thumbnail": "https://i.ytimg.com/vi/l72ufA-4SzE/mqdefault.jpg",
+      "published": "2026-06-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "They Looked Inside Claude’s AI's Mind. It Got Weird",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "Qj71N0tBzRo",
+      "title": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "thumbnail": "https://i.ytimg.com/vi/Qj71N0tBzRo/mqdefault.jpg",
+      "published": "2026-06-14",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "haK1KoQWm18",
+      "title": "Claude Fable 5 - Full 319 page Breakdown",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "thumbnail": "https://i.ytimg.com/vi/haK1KoQWm18/mqdefault.jpg",
+      "published": "2026-06-10",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude Fable 5 - Full 319 page Breakdown",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "TpyS50ifmX4",
+      "title": "The Ex-Pentagon Chief Sounding the Alarm on AI Weapons — Brad Carson",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=TpyS50ifmX4",
+      "thumbnail": "https://i.ytimg.com/vi/TpyS50ifmX4/mqdefault.jpg",
+      "published": "2026-05-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Ex-Pentagon Chief Sounding the Alarm on AI Weapons — Brad Carson",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "aJvP3nXWkwM",
+      "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "thumbnail": "https://i.ytimg.com/vi/aJvP3nXWkwM/mqdefault.jpg",
+      "published": "2026-05-29",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "New Claude Opus 4.8: 15 Things You May’ve Missed",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "zSAGzfspuDE",
+      "title": "The AI Progress Chart Everyone Is Misreading — Beth Barnes & David Rein",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=zSAGzfspuDE",
+      "thumbnail": "https://i.ytimg.com/vi/zSAGzfspuDE/mqdefault.jpg",
+      "published": "2026-05-04",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The AI Progress Chart Everyone Is Misreading — Beth Barnes & David Rein",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "jz0rNhfAKo8",
+      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "thumbnail": "https://i.ytimg.com/vi/jz0rNhfAKo8/mqdefault.jpg",
+      "published": "2026-04-24",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "QVJcdfkRpH8",
+      "title": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "thumbnail": "https://i.ytimg.com/vi/QVJcdfkRpH8/mqdefault.jpg",
+      "published": "2026-04-17",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "iKx3gAODybU",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "thumbnail": "https://i.ytimg.com/vi/iKx3gAODybU/mqdefault.jpg",
+      "published": "2026-04-09",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "topics": [
+        "RAG"
+      ]
+    },
+    {
+      "video_id": "txx6ec6MLNY",
+      "title": "Claude Mythos: Highlights from 244-page Release",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
+      "thumbnail": "https://i.ytimg.com/vi/txx6ec6MLNY/mqdefault.jpg",
+      "published": "2026-04-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude Mythos: Highlights from 244-page Release",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "s4tptozUJ8Y",
+      "title": "Two AI Models Set to “stir government urgency”, But Will This Challenge Undo Them?",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "thumbnail": "https://i.ytimg.com/vi/s4tptozUJ8Y/mqdefault.jpg",
+      "published": "2026-03-26",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Two AI Models Set to “stir government urgency”, But Will This Challenge Undo Them?",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "vif8NQcjVf0",
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "thumbnail": "https://i.ytimg.com/vi/vif8NQcjVf0/mqdefault.jpg",
+      "published": "2026-03-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "EInEmGaMRLc",
+      "title": "When AI Discovers the Next Transformer — Robert Lange",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=EInEmGaMRLc",
+      "thumbnail": "https://i.ytimg.com/vi/EInEmGaMRLc/mqdefault.jpg",
+      "published": "2026-03-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "When AI Discovers the Next Transformer — Robert Lange",
+      "topics": [
+        "Architecture"
+      ]
+    },
+    {
+      "video_id": "xHi8PUIVyoo",
+      "title": "I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "channel": "Yannic Kilcher",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "thumbnail": "https://i.ytimg.com/vi/xHi8PUIVyoo/mqdefault.jpg",
+      "published": "2026-03-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "zizoDORjmlQ",
+      "title": "What the New ChatGPT 5.4 Means for the World",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "thumbnail": "https://i.ytimg.com/vi/zizoDORjmlQ/mqdefault.jpg",
+      "published": "2026-03-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "What the New ChatGPT 5.4 Means for the World",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "SHlrUAkkWI0",
+      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
+      "thumbnail": "https://i.ytimg.com/vi/SHlrUAkkWI0/mqdefault.jpg",
+      "published": "2026-03-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "dHBEQ-Ryo24",
+      "title": "The Dangerous Illusion of AI Coding? - Jeremy Howard",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=dHBEQ-Ryo24",
+      "thumbnail": "https://i.ytimg.com/vi/dHBEQ-Ryo24/mqdefault.jpg",
+      "published": "2026-03-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Dangerous Illusion of AI Coding? - Jeremy Howard",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "Cru804JMjPI",
+      "title": "Deadline Day for Autonomous AI Weapons & Mass Surveillance",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=Cru804JMjPI",
+      "thumbnail": "https://i.ytimg.com/vi/Cru804JMjPI/mqdefault.jpg",
+      "published": "2026-02-27",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Deadline Day for Autonomous AI Weapons & Mass Surveillance",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "KGVpKPNUdzA",
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "thumbnail": "https://i.ytimg.com/vi/KGVpKPNUdzA/mqdefault.jpg",
+      "published": "2026-02-25",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "topics": [
+        "Fine-tuning"
+      ]
+    },
+    {
+      "video_id": "2_DPnzoiHaY",
+      "title": "Gemini 3.1 Pro and the Downfall of Benchmarks: Welcome to the Vibe Era of AI",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=2_DPnzoiHaY",
+      "thumbnail": "https://i.ytimg.com/vi/2_DPnzoiHaY/mqdefault.jpg",
+      "published": "2026-02-20",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Gemini 3.1 Pro and the Downfall of Benchmarks: Welcome to the Vibe Era of AI",
+      "topics": [
+        "Benchmarks"
+      ]
+    },
+    {
+      "video_id": "M2iX6HQOoLg",
+      "title": "What If Intelligence Didn't Evolve? It \"Was There\" From the Start! - Blaise Agüera y Arcas",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=M2iX6HQOoLg",
+      "thumbnail": "https://i.ytimg.com/vi/M2iX6HQOoLg/mqdefault.jpg",
+      "published": "2026-02-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "What If Intelligence Didn't Evolve? It \"Was There\" From the Start! - Blaise Agüera y Arcas",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "YFjfBk8HI5o",
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "thumbnail": "https://i.ytimg.com/vi/YFjfBk8HI5o/mqdefault.jpg",
+      "published": "2026-02-12",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "EV7WhVT270Q",
+      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
+      "thumbnail": "https://i.ytimg.com/vi/EV7WhVT270Q/mqdefault.jpg",
+      "published": "2026-01-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "Ucqfb33GJJ4",
+      "title": "The Brain Is Just Specialized Agents Talking To Each Other — Dr. Jeff Beck",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=Ucqfb33GJJ4",
+      "thumbnail": "https://i.ytimg.com/vi/Ucqfb33GJJ4/mqdefault.jpg",
+      "published": "2026-01-25",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Brain Is Just Specialized Agents Talking To Each Other — Dr. Jeff Beck",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "yq318DIwPqw",
+      "title": "Why AI Has a Plato Problem — Mazviita Chirimuuta",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=yq318DIwPqw",
+      "thumbnail": "https://i.ytimg.com/vi/yq318DIwPqw/mqdefault.jpg",
+      "published": "2026-01-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Why AI Has a Plato Problem — Mazviita Chirimuuta",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "pO0WZsN8Oiw",
+      "title": "Why Every Brain Metaphor in History Has Been Wrong [SPECIAL EDITION]",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=pO0WZsN8Oiw",
+      "thumbnail": "https://i.ytimg.com/vi/pO0WZsN8Oiw/mqdefault.jpg",
+      "published": "2026-01-18",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Why Every Brain Metaphor in History Has Been Wrong [SPECIAL EDITION]",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "taCVT5vDAk0",
+      "title": "TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)",
+      "channel": "Yannic Kilcher",
+      "url": "https://www.youtube.com/watch?v=taCVT5vDAk0",
+      "thumbnail": "https://i.ytimg.com/vi/taCVT5vDAk0/mqdefault.jpg",
+      "published": "2025-12-27",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "v67plFw1nMw",
+      "title": "Titans: Learning to Memorize at Test Time (Paper Analysis)",
+      "channel": "Yannic Kilcher",
+      "url": "https://www.youtube.com/watch?v=v67plFw1nMw",
+      "thumbnail": "https://i.ytimg.com/vi/v67plFw1nMw/mqdefault.jpg",
+      "published": "2025-12-14",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Titans: Learning to Memorize at Test Time (Paper Analysis)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "Nao16-6l6dQ",
+      "title": "[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)",
+      "channel": "Yannic Kilcher",
+      "url": "https://www.youtube.com/watch?v=Nao16-6l6dQ",
+      "thumbnail": "https://i.ytimg.com/vi/Nao16-6l6dQ/mqdefault.jpg",
+      "published": "2025-11-01",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)",
+      "topics": [
+        "Architecture"
+      ]
+    },
+    {
+      "video_id": "zKohTkN0Fyk",
+      "title": "[Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)",
+      "channel": "Yannic Kilcher",
+      "url": "https://www.youtube.com/watch?v=zKohTkN0Fyk",
+      "thumbnail": "https://i.ytimg.com/vi/zKohTkN0Fyk/mqdefault.jpg",
+      "published": "2025-10-11",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "[Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)",
+      "topics": [
+        "RAG"
+      ]
+    },
+    {
+      "video_id": "hpC4qjWu_aY",
+      "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance (Paper Analysis)",
+      "channel": "Yannic Kilcher",
+      "url": "https://www.youtube.com/watch?v=hpC4qjWu_aY",
+      "thumbnail": "https://i.ytimg.com/vi/hpC4qjWu_aY/mqdefault.jpg",
+      "published": "2025-07-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Context Rot: How Increasing Input Tokens Impacts LLM Performance (Paper Analysis)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "RAEy3JZmIaA",
+      "title": "Energy-Based Transformers are Scalable Learners and Thinkers (Paper Review)",
+      "channel": "Yannic Kilcher",
+      "url": "https://www.youtube.com/watch?v=RAEy3JZmIaA",
+      "thumbnail": "https://i.ytimg.com/vi/RAEy3JZmIaA/mqdefault.jpg",
+      "published": "2025-07-19",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Energy-Based Transformers are Scalable Learners and Thinkers (Paper Review)",
+      "topics": [
+        "Architecture"
+      ]
+    },
+    {
+      "video_id": "oSZYnx-Y8ZM",
+      "title": "Archie: an engineering AGI for Dyson Spheres | P-1 AI | $23 million seed round",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=oSZYnx-Y8ZM",
+      "thumbnail": "https://i.ytimg.com/vi/oSZYnx-Y8ZM/mqdefault.jpg",
+      "published": "2025-05-05",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Archie: an engineering AGI for Dyson Spheres | P-1 AI | $23 million seed round",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "V71AJoYAtBQ",
+      "title": "On the Biology of a Large Language Model (Part 2)",
+      "channel": "Yannic Kilcher",
+      "url": "https://www.youtube.com/watch?v=V71AJoYAtBQ",
+      "thumbnail": "https://i.ytimg.com/vi/V71AJoYAtBQ/mqdefault.jpg",
+      "published": "2025-05-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "On the Biology of a Large Language Model (Part 2)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "mU3g2YPKlsA",
+      "title": "On the Biology of a Large Language Model (Part 1)",
+      "channel": "Yannic Kilcher",
+      "url": "https://www.youtube.com/watch?v=mU3g2YPKlsA",
+      "thumbnail": "https://i.ytimg.com/vi/mU3g2YPKlsA/mqdefault.jpg",
+      "published": "2025-04-05",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "On the Biology of a Large Language Model (Part 1)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "bAWV_yrqx4w",
+      "title": "[GRPO Explained] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+      "channel": "Yannic Kilcher",
+      "url": "https://www.youtube.com/watch?v=bAWV_yrqx4w",
+      "thumbnail": "https://i.ytimg.com/vi/bAWV_yrqx4w/mqdefault.jpg",
+      "published": "2025-01-26",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "[GRPO Explained] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+      "topics": [
+        "Reasoning"
+      ]
+    },
+    {
+      "video_id": "fsNylf0Z4wk",
+      "title": "Build AI Agents using Integrail (Halloween special)",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=fsNylf0Z4wk",
+      "thumbnail": "https://i.ytimg.com/vi/fsNylf0Z4wk/mqdefault.jpg",
+      "published": "2024-11-07",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Build AI Agents using Integrail (Halloween special)",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "wTE8Dk6I80A",
+      "title": "Imbue - training a 70B model from scratch! (w/ Bowei - head of infra)",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=wTE8Dk6I80A",
+      "thumbnail": "https://i.ytimg.com/vi/wTE8Dk6I80A/mqdefault.jpg",
+      "published": "2024-09-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Imbue - training a 70B model from scratch! (w/ Bowei - head of infra)",
+      "topics": [
+        "Fine-tuning"
+      ]
+    },
+    {
+      "video_id": "J9gfTLthGVI",
+      "title": "LLaMA 3 Deep Dive! (Thomas Scialom - Meta)",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=J9gfTLthGVI",
+      "thumbnail": "https://i.ytimg.com/vi/J9gfTLthGVI/mqdefault.jpg",
+      "published": "2024-07-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "LLaMA 3 Deep Dive! (Thomas Scialom - Meta)",
+      "topics": [
+        "Open Source"
+      ]
+    },
+    {
+      "video_id": "Mp9C32JKm1I",
+      "title": "Best LLM? Qwen 2 LLM w/ author Junyang Lin",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=Mp9C32JKm1I",
+      "thumbnail": "https://i.ytimg.com/vi/Mp9C32JKm1I/mqdefault.jpg",
+      "published": "2024-07-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Best LLM? Qwen 2 LLM w/ author Junyang Lin",
+      "topics": [
+        "Open Source"
+      ]
+    },
+    {
+      "video_id": "iUfUFKQLGBQ",
+      "title": "State Space Models w/ Albert Gu & Karan Goel (Cartesia AI)",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=iUfUFKQLGBQ",
+      "thumbnail": "https://i.ytimg.com/vi/iUfUFKQLGBQ/mqdefault.jpg",
+      "published": "2024-06-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "State Space Models w/ Albert Gu & Karan Goel (Cartesia AI)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "cwuYWFC7_QE",
+      "title": "Fine-tune LLMs 30x faster! With Daniel Han (Unsloth AI)",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=cwuYWFC7_QE",
+      "thumbnail": "https://i.ytimg.com/vi/cwuYWFC7_QE/mqdefault.jpg",
+      "published": "2024-06-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Fine-tune LLMs 30x faster! With Daniel Han (Unsloth AI)",
+      "topics": [
+        "Fine-tuning"
+      ]
+    },
+    {
+      "video_id": "MFSd-_pMExI",
+      "title": "Hamel Husain - Building LLM Apps in Production",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=MFSd-_pMExI",
+      "thumbnail": "https://i.ytimg.com/vi/MFSd-_pMExI/mqdefault.jpg",
+      "published": "2024-05-26",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Hamel Husain - Building LLM Apps in Production",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "1nUsaleYBJw",
+      "title": "a more accurate demo of gpt-4o",
+      "channel": "bycloud",
+      "url": "https://www.youtube.com/watch?v=1nUsaleYBJw",
+      "thumbnail": "https://i.ytimg.com/vi/1nUsaleYBJw/mqdefault.jpg",
+      "published": "2024-05-15",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "a more accurate demo of gpt-4o",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "CX2VLowIOXE",
+      "title": "Building Julius AI to 500.000 users w/ Rahul (founder)",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=CX2VLowIOXE",
+      "thumbnail": "https://i.ytimg.com/vi/CX2VLowIOXE/mqdefault.jpg",
+      "published": "2024-05-11",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Building Julius AI to 500.000 users w/ Rahul (founder)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "BRbUikWdXhI",
+      "title": "DeepMind's TacticAI: an AI assistant for football tactics | Petar Veličković",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=BRbUikWdXhI",
+      "thumbnail": "https://i.ytimg.com/vi/BRbUikWdXhI/mqdefault.jpg",
+      "published": "2024-05-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "DeepMind's TacticAI: an AI assistant for football tactics | Petar Veličković",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "RPXGQRes0co",
+      "title": "InstructPix2Pix (w/ OpenAI's Tim Brooks)",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=RPXGQRes0co",
+      "thumbnail": "https://i.ytimg.com/vi/RPXGQRes0co/mqdefault.jpg",
+      "published": "2024-03-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "InstructPix2Pix (w/ OpenAI's Tim Brooks)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "18YupYsH5vY",
+      "title": "GPT-Fast - blazingly fast inference with PyTorch (w/ Horace He)",
+      "channel": "The AI Epiphany",
+      "url": "https://www.youtube.com/watch?v=18YupYsH5vY",
+      "thumbnail": "https://i.ytimg.com/vi/18YupYsH5vY/mqdefault.jpg",
+      "published": "2024-03-07",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "GPT-Fast - blazingly fast inference with PyTorch (w/ Horace He)",
+      "topics": [
+        "Inference"
+      ]
+    },
+    {
+      "video_id": "nOzUu2wsRfI",
+      "title": "Mamba vs Transformer [Lobotomy Kaisen Edit]",
+      "channel": "bycloud",
+      "url": "https://www.youtube.com/watch?v=nOzUu2wsRfI",
+      "thumbnail": "https://i.ytimg.com/vi/nOzUu2wsRfI/mqdefault.jpg",
+      "published": "2024-02-24",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Mamba vs Transformer [Lobotomy Kaisen Edit]",
+      "topics": [
+        "Architecture"
+      ]
+    },
+    {
+      "video_id": "NEF5bGyTqmk",
+      "title": "NVIDIA's Neuralangelo Windows Installation Tutorial [WSL]",
+      "channel": "bycloud",
+      "url": "https://www.youtube.com/watch?v=NEF5bGyTqmk",
+      "thumbnail": "https://i.ytimg.com/vi/NEF5bGyTqmk/mqdefault.jpg",
+      "published": "2023-09-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "NVIDIA's Neuralangelo Windows Installation Tutorial [WSL]",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "E6n69tldg2s",
+      "title": "bycloud AI Art Competition Winners Announcement Video",
+      "channel": "bycloud",
+      "url": "https://www.youtube.com/watch?v=E6n69tldg2s",
+      "thumbnail": "https://i.ytimg.com/vi/E6n69tldg2s/mqdefault.jpg",
+      "published": "2022-08-15",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "bycloud AI Art Competition Winners Announcement Video",
+      "topics": [
+        "Multimodal"
+      ]
+    }
+  ]
 }
