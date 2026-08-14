@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-08-13 07:16 UTC",
+  "last_updated": "2026-08-14 07:13 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "-482T83WiNs",
+      "title": "Why did fine-tuning never really take off with OpenAI's API?",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=-482T83WiNs",
+      "thumbnail": "https://i.ytimg.com/vi/-482T83WiNs/mqdefault.jpg",
+      "published": "2026-08-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Why did fine-tuning never really take off with OpenAI's API?",
+      "topics": [
+        "Fine-tuning"
+      ]
+    },
     {
       "video_id": "JQ97GiDwPxc",
       "title": "OpenAI’s AI Agents Just Crossed A Line",
@@ -419,21 +434,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "DeepSeek Just Solved AI's Billion Dollar Problem",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "jm8b8WWtAMA",
-      "title": "Every AI output is a hallucination",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=jm8b8WWtAMA",
-      "thumbnail": "https://i.ytimg.com/vi/jm8b8WWtAMA/mqdefault.jpg",
-      "published": "2026-06-19",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Every AI output is a hallucination",
       "topics": [
         "General LLM"
       ]
