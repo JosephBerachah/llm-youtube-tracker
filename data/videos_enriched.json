@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-08-23 06:27 UTC",
+  "last_updated": "2026-08-24 06:40 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
       "video_id": "gasgivVCl2U",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs — Ilia Shumailov & Alexander Panfilov",
+      "title": "Why Frontier AI Labs Fight to Hide Chain of Thought — Ilia Shumailov & Alexander Panfilov",
       "channel": "Machine Learning Street Talk",
       "url": "https://www.youtube.com/watch?v=gasgivVCl2U",
       "thumbnail": "https://i.ytimg.com/vi/gasgivVCl2U/mqdefault.jpg",
@@ -12,24 +12,9 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Stealing Reasoning Traces from Proprietary LLM APIs — Ilia Shumailov & Alexander Panfilov",
+      "summary": "Why Frontier AI Labs Fight to Hide Chain of Thought — Ilia Shumailov & Alexander Panfilov",
       "topics": [
         "Reasoning"
-      ]
-    },
-    {
-      "video_id": "yBwCB3Q2mfs",
-      "title": "Making Transformers 100x Smaller",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=yBwCB3Q2mfs",
-      "thumbnail": "https://i.ytimg.com/vi/yBwCB3Q2mfs/mqdefault.jpg",
-      "published": "2026-08-21",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Making Transformers 100x Smaller",
-      "topics": [
-        "Architecture"
       ]
     },
     {
@@ -48,21 +33,6 @@
       ]
     },
     {
-      "video_id": "e_eEcPysMlQ",
-      "title": "Elon's Former Battery Chief on Making Transformers 100x Smaller | Drew Baglino, Heron Power",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=e_eEcPysMlQ",
-      "thumbnail": "https://i.ytimg.com/vi/e_eEcPysMlQ/mqdefault.jpg",
-      "published": "2026-08-18",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Elon's Former Battery Chief on Making Transformers 100x Smaller | Drew Baglino, Heron Power",
-      "topics": [
-        "Architecture"
-      ]
-    },
-    {
       "video_id": "QnGNF8k_uoc",
       "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
       "channel": "Two Minute Papers",
@@ -75,21 +45,6 @@
       "summary": "Claude AI Failed 650 Times…Then Beat The Human Record",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "-482T83WiNs",
-      "title": "Why did fine-tuning never really take off with OpenAI's API?",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=-482T83WiNs",
-      "thumbnail": "https://i.ytimg.com/vi/-482T83WiNs/mqdefault.jpg",
-      "published": "2026-08-13",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Why did fine-tuning never really take off with OpenAI's API?",
-      "topics": [
-        "Fine-tuning"
       ]
     },
     {
@@ -120,21 +75,6 @@
       "summary": "AI Is Learning at the Wrong Level of Abstraction — Matthieu Wyart",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "OC-qeHeEetc",
-      "title": "Your AI agent is gaslighting you. Here are the receipts.",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=OC-qeHeEetc",
-      "thumbnail": "https://i.ytimg.com/vi/OC-qeHeEetc/mqdefault.jpg",
-      "published": "2026-08-10",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Your AI agent is gaslighting you. Here are the receipts.",
-      "topics": [
-        "Agents"
       ]
     },
     {
@@ -183,21 +123,6 @@
       ]
     },
     {
-      "video_id": "Tf7DEYfZc0g",
-      "title": "Most AI Startups Are Scaling Into Bankruptcy | Lin Qiao, CEO of Fireworks",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=Tf7DEYfZc0g",
-      "thumbnail": "https://i.ytimg.com/vi/Tf7DEYfZc0g/mqdefault.jpg",
-      "published": "2026-08-04",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Most AI Startups Are Scaling Into Bankruptcy | Lin Qiao, CEO of Fireworks",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "8B05cy3UuSE",
       "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
       "channel": "Two Minute Papers",
@@ -238,21 +163,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Kimi K3 Just Broke The Economics Of AI",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "2PNguDuDYKA",
-      "title": "📅 ThursdAI - Jul 23 | Weekly AI News",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=2PNguDuDYKA",
-      "thumbnail": "https://i.ytimg.com/vi/2PNguDuDYKA/mqdefault.jpg",
-      "published": "2026-07-23",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "📅 ThursdAI - Jul 23 | Weekly AI News",
       "topics": [
         "General LLM"
       ]
@@ -348,21 +258,6 @@
       ]
     },
     {
-      "video_id": "lbo7O4bVKnM",
-      "title": "W&B Weave: Observability and continuous improvement for production agents",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=lbo7O4bVKnM",
-      "thumbnail": "https://i.ytimg.com/vi/lbo7O4bVKnM/mqdefault.jpg",
-      "published": "2026-07-06",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "W&B Weave: Observability and continuous improvement for production agents",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
       "video_id": "uO5cvkzh3P0",
       "title": "They Said This Will Never Run In Real Time",
       "channel": "Two Minute Papers",
@@ -393,21 +288,6 @@
       ]
     },
     {
-      "video_id": "eLSf0Zq2kR4",
-      "title": "📅 ThursdAI - LIVE from AI Engineer Worlds Fair - OpenAI, DeepMind, EXO, Sakana & more friends",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=eLSf0Zq2kR4",
-      "thumbnail": "https://i.ytimg.com/vi/eLSf0Zq2kR4/mqdefault.jpg",
-      "published": "2026-07-02",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "📅 ThursdAI - LIVE from AI Engineer Worlds Fair - OpenAI, DeepMind, EXO, Sakana & more friends",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "qks6dGQFd_c",
       "title": "AI Just Entered A New Era",
       "channel": "Two Minute Papers",
@@ -423,37 +303,6 @@
       ]
     },
     {
-      "video_id": "9QFfEmgd5V0",
-      "title": "CoreWeave AIRA: The autoresearch loop for continuous improvement",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=9QFfEmgd5V0",
-      "thumbnail": "https://i.ytimg.com/vi/9QFfEmgd5V0/mqdefault.jpg",
-      "published": "2026-06-30",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "CoreWeave AIRA: The autoresearch loop for continuous improvement",
-      "topics": [
-        "RAG"
-      ]
-    },
-    {
-      "video_id": "X9GdzWlKRXw",
-      "title": "Introducing CoreWeave ARIA: AI Research and Iteration Agent",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=X9GdzWlKRXw",
-      "thumbnail": "https://i.ytimg.com/vi/X9GdzWlKRXw/mqdefault.jpg",
-      "published": "2026-06-30",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Introducing CoreWeave ARIA: AI Research and Iteration Agent",
-      "topics": [
-        "RAG",
-        "Agents"
-      ]
-    },
-    {
       "video_id": "5pieVHmlbyk",
       "title": "The Thermodynamic AI Chip · Thomas Ahle",
       "channel": "Machine Learning Street Talk",
@@ -464,21 +313,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "The Thermodynamic AI Chip · Thomas Ahle",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "NzOgS3PBc84",
-      "title": "Why You Can't Tell When ChatGPT Is Wrong",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=NzOgS3PBc84",
-      "thumbnail": "https://i.ytimg.com/vi/NzOgS3PBc84/mqdefault.jpg",
-      "published": "2026-06-26",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Why You Can't Tell When ChatGPT Is Wrong",
       "topics": [
         "General LLM"
       ]
