@@ -1,5 +1,291 @@
 {
-  "last_updated": "2026-08-25 06:29 UTC",
+  "last_updated": "2026-08-26 06:31 UTC",
   "model": "gpt-4o-mini",
-  "videos": []
+  "videos": [
+    {
+      "video_id": "wMl6c_r0ubw",
+      "title": "This Small AI Will Change Everything",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
+      "thumbnail": "https://i.ytimg.com/vi/wMl6c_r0ubw/mqdefault.jpg",
+      "published": "2026-08-24",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "This Small AI Will Change Everything",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "kyYepbhe1g8",
+      "title": "DeepSeek Just Made Closed AI Look Ridiculous",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
+      "thumbnail": "https://i.ytimg.com/vi/kyYepbhe1g8/mqdefault.jpg",
+      "published": "2026-08-19",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "DeepSeek Just Made Closed AI Look Ridiculous",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "QnGNF8k_uoc",
+      "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
+      "thumbnail": "https://i.ytimg.com/vi/QnGNF8k_uoc/mqdefault.jpg",
+      "published": "2026-08-14",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude AI Failed 650 Times…Then Beat The Human Record",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "JQ97GiDwPxc",
+      "title": "OpenAI’s AI Agents Just Crossed A Line",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
+      "thumbnail": "https://i.ytimg.com/vi/JQ97GiDwPxc/mqdefault.jpg",
+      "published": "2026-08-11",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "OpenAI’s AI Agents Just Crossed A Line",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "vO6SWG-jxvE",
+      "title": "DeepMind Just Changed How AI Sees The World",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+      "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/mqdefault.jpg",
+      "published": "2026-08-07",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "DeepMind Just Changed How AI Sees The World",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "ppQh4Tc9BmM",
+      "title": "The Billion Dollar AI Race Just Broke",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
+      "thumbnail": "https://i.ytimg.com/vi/ppQh4Tc9BmM/mqdefault.jpg",
+      "published": "2026-08-05",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Billion Dollar AI Race Just Broke",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "8B05cy3UuSE",
+      "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/mqdefault.jpg",
+      "published": "2026-08-02",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "Xj-QdEUxJkE",
+      "title": "Kimi K3 Just Broke The Economics Of AI",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
+      "thumbnail": "https://i.ytimg.com/vi/Xj-QdEUxJkE/mqdefault.jpg",
+      "published": "2026-07-29",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Kimi K3 Just Broke The Economics Of AI",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "axOcn--n_lM",
+      "title": "Claude Just Revealed AI's Biggest Problem",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/mqdefault.jpg",
+      "published": "2026-07-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude Just Revealed AI's Biggest Problem",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "0CqLVnx-2UM",
+      "title": "Anthropic Found Something That Shouldn't Exist",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
+      "thumbnail": "https://i.ytimg.com/vi/0CqLVnx-2UM/mqdefault.jpg",
+      "published": "2026-07-15",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Anthropic Found Something That Shouldn't Exist",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "1yBU41auQhw",
+      "title": "DeepSeek's Absolutely Insane AI Speed Hack (DSpark)",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
+      "thumbnail": "https://i.ytimg.com/vi/1yBU41auQhw/mqdefault.jpg",
+      "published": "2026-07-07",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "DeepSeek's Absolutely Insane AI Speed Hack (DSpark)",
+      "topics": [
+        "Inference"
+      ]
+    },
+    {
+      "video_id": "uO5cvkzh3P0",
+      "title": "They Said This Will Never Run In Real Time",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
+      "thumbnail": "https://i.ytimg.com/vi/uO5cvkzh3P0/mqdefault.jpg",
+      "published": "2026-07-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "They Said This Will Never Run In Real Time",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "qks6dGQFd_c",
+      "title": "AI Just Entered A New Era",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=qks6dGQFd_c",
+      "thumbnail": "https://i.ytimg.com/vi/qks6dGQFd_c/mqdefault.jpg",
+      "published": "2026-07-01",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Just Entered A New Era",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "iKx3gAODybU",
+      "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=iKx3gAODybU",
+      "thumbnail": "https://i.ytimg.com/vi/iKx3gAODybU/mqdefault.jpg",
+      "published": "2026-04-09",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
+      "topics": [
+        "RAG"
+      ]
+    },
+    {
+      "video_id": "vif8NQcjVf0",
+      "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=vif8NQcjVf0",
+      "thumbnail": "https://i.ytimg.com/vi/vif8NQcjVf0/mqdefault.jpg",
+      "published": "2026-03-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "SHlrUAkkWI0",
+      "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=SHlrUAkkWI0",
+      "thumbnail": "https://i.ytimg.com/vi/SHlrUAkkWI0/mqdefault.jpg",
+      "published": "2026-03-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "KGVpKPNUdzA",
+      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
+      "thumbnail": "https://i.ytimg.com/vi/KGVpKPNUdzA/mqdefault.jpg",
+      "published": "2026-02-25",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
+      "topics": [
+        "Fine-tuning"
+      ]
+    },
+    {
+      "video_id": "YFjfBk8HI5o",
+      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
+      "thumbnail": "https://i.ytimg.com/vi/YFjfBk8HI5o/mqdefault.jpg",
+      "published": "2026-02-12",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "EV7WhVT270Q",
+      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
+      "thumbnail": "https://i.ytimg.com/vi/EV7WhVT270Q/mqdefault.jpg",
+      "published": "2026-01-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
+      "topics": [
+        "Agents"
+      ]
+    }
+  ]
 }
