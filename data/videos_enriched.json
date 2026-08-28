@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-27 17:10 UTC",
+  "last_updated": "2026-08-28 17:57 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "LBiNcdGNgrg",
+      "title": "This Free AI Just Caught The Billion Dollar Giants",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
+      "thumbnail": "https://i.ytimg.com/vi/LBiNcdGNgrg/mqdefault.jpg",
+      "published": "2026-08-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "This Free AI Just Caught The Billion Dollar Giants",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "KL9_1GbmCic",
+      "title": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=KL9_1GbmCic",
+      "thumbnail": "https://i.ytimg.com/vi/KL9_1GbmCic/mqdefault.jpg",
+      "published": "2026-08-27",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "7lwlYyUsF98",
       "title": "Cracking the code on AI conversation tracing",
@@ -469,21 +499,6 @@
       ]
     },
     {
-      "video_id": "uO5cvkzh3P0",
-      "title": "They Said This Will Never Run In Real Time",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
-      "thumbnail": "https://i.ytimg.com/vi/uO5cvkzh3P0/mqdefault.jpg",
-      "published": "2026-07-03",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "They Said This Will Never Run In Real Time",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "y24lF1q4SFY",
       "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
       "channel": "AI Explained",
@@ -781,21 +796,6 @@
       "summary": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
       "topics": [
         "Fine-tuning"
-      ]
-    },
-    {
-      "video_id": "2_DPnzoiHaY",
-      "title": "Gemini 3.1 Pro and the Downfall of Benchmarks: Welcome to the Vibe Era of AI",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=2_DPnzoiHaY",
-      "thumbnail": "https://i.ytimg.com/vi/2_DPnzoiHaY/mqdefault.jpg",
-      "published": "2026-02-20",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Gemini 3.1 Pro and the Downfall of Benchmarks: Welcome to the Vibe Era of AI",
-      "topics": [
-        "Benchmarks"
       ]
     },
     {
