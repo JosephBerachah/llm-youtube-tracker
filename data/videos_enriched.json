@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-31 12:14 UTC",
+  "last_updated": "2026-09-01 10:51 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "w9RDunJACkc",
+      "title": "Powerful AI Is Becoming Almost Free",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
+      "thumbnail": "https://i.ytimg.com/vi/w9RDunJACkc/mqdefault.jpg",
+      "published": "2026-09-01",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Powerful AI Is Becoming Almost Free",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "wfeCrovfb10",
+      "title": "Stuck in an AI Loop?",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=wfeCrovfb10",
+      "thumbnail": "https://i.ytimg.com/vi/wfeCrovfb10/mqdefault.jpg",
+      "published": "2026-08-31",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Stuck in an AI Loop?",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "LBiNcdGNgrg",
       "title": "The Billion Dollar AI Gap Is Collapsing",
@@ -466,36 +496,6 @@
       "summary": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "1yBU41auQhw",
-      "title": "DeepSeek's Absolutely Insane AI Speed Hack (DSpark)",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
-      "thumbnail": "https://i.ytimg.com/vi/1yBU41auQhw/mqdefault.jpg",
-      "published": "2026-07-07",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "DeepSeek's Absolutely Insane AI Speed Hack (DSpark)",
-      "topics": [
-        "Inference"
-      ]
-    },
-    {
-      "video_id": "lbo7O4bVKnM",
-      "title": "W&B Weave: Observability and continuous improvement for production agents",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=lbo7O4bVKnM",
-      "thumbnail": "https://i.ytimg.com/vi/lbo7O4bVKnM/mqdefault.jpg",
-      "published": "2026-07-06",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "W&B Weave: Observability and continuous improvement for production agents",
-      "topics": [
-        "Agents"
       ]
     },
     {
