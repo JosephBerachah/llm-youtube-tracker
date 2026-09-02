@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-09-01 10:51 UTC",
+  "last_updated": "2026-09-02 10:15 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
       "video_id": "w9RDunJACkc",
-      "title": "Powerful AI Is Becoming Almost Free",
+      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
       "thumbnail": "https://i.ytimg.com/vi/w9RDunJACkc/mqdefault.jpg",
@@ -12,7 +12,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Powerful AI Is Becoming Almost Free",
+      "summary": "GLM 5.3: Powerful AI Is Becoming Almost Free",
       "topics": [
         "General LLM"
       ]
