@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-02 10:15 UTC",
+  "last_updated": "2026-09-03 10:27 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "B3LXEW4Pc-w",
+      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
+      "thumbnail": "https://i.ytimg.com/vi/B3LXEW4Pc-w/mqdefault.jpg",
+      "published": "2026-09-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "_egu7OFem-k",
+      "title": "Strange Geometric Shapes Found Inside AIs — Tom McGrath",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=_egu7OFem-k",
+      "thumbnail": "https://i.ytimg.com/vi/_egu7OFem-k/mqdefault.jpg",
+      "published": "2026-09-02",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Strange Geometric Shapes Found Inside AIs — Tom McGrath",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "w9RDunJACkc",
       "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
@@ -839,21 +869,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "Ucqfb33GJJ4",
-      "title": "The Brain Is Just Specialized Agents Talking To Each Other — Dr. Jeff Beck",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=Ucqfb33GJJ4",
-      "thumbnail": "https://i.ytimg.com/vi/Ucqfb33GJJ4/mqdefault.jpg",
-      "published": "2026-01-25",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The Brain Is Just Specialized Agents Talking To Each Other — Dr. Jeff Beck",
       "topics": [
         "Agents"
       ]
