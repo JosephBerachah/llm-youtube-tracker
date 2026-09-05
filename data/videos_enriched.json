@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-04 10:14 UTC",
+  "last_updated": "2026-09-05 09:43 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "Spuza-KwTJ4",
+      "title": "GPT 6 Astra, so good even OpenAI are worried",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
+      "thumbnail": "https://i.ytimg.com/vi/Spuza-KwTJ4/mqdefault.jpg",
+      "published": "2026-09-04",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "GPT 6 Astra, so good even OpenAI are worried",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "B3LXEW4Pc-w",
       "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
@@ -796,21 +811,6 @@
       "summary": "The Dangerous Illusion of AI Coding? - Jeremy Howard",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "Cru804JMjPI",
-      "title": "Deadline Day for Autonomous AI Weapons & Mass Surveillance",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=Cru804JMjPI",
-      "thumbnail": "https://i.ytimg.com/vi/Cru804JMjPI/mqdefault.jpg",
-      "published": "2026-02-27",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Deadline Day for Autonomous AI Weapons & Mass Surveillance",
-      "topics": [
-        "Agents"
       ]
     },
     {
