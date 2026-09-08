@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-07 11:06 UTC",
+  "last_updated": "2026-09-08 10:21 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "eVBJIUxv8N8",
+      "title": "GPT-6 Astra Changes Everything",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+      "thumbnail": "https://i.ytimg.com/vi/eVBJIUxv8N8/mqdefault.jpg",
+      "published": "2026-09-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "GPT-6 Astra Changes Everything",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "Spuza-KwTJ4",
       "title": "GPT 6 Astra, so good even OpenAI are worried",
@@ -494,21 +509,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Claude Just Revealed AI's Biggest Problem",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "0CqLVnx-2UM",
-      "title": "Anthropic Found Something That Shouldn't Exist",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-      "thumbnail": "https://i.ytimg.com/vi/0CqLVnx-2UM/mqdefault.jpg",
-      "published": "2026-07-15",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Anthropic Found Something That Shouldn't Exist",
       "topics": [
         "General LLM"
       ]
