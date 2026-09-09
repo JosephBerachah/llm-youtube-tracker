@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-08 10:21 UTC",
+  "last_updated": "2026-09-09 10:28 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "z5Xix4h5UlU",
+      "title": "How Many Narrow AIs Could Behave Like One Superintelligence - Daniel Kokotajlo and Thomas Larsen",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=z5Xix4h5UlU",
+      "thumbnail": "https://i.ytimg.com/vi/z5Xix4h5UlU/mqdefault.jpg",
+      "published": "2026-09-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How Many Narrow AIs Could Behave Like One Superintelligence - Daniel Kokotajlo and Thomas Larsen",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "eVBJIUxv8N8",
       "title": "GPT-6 Astra Changes Everything",
@@ -826,21 +841,6 @@
       "summary": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
       "topics": [
         "Fine-tuning"
-      ]
-    },
-    {
-      "video_id": "M2iX6HQOoLg",
-      "title": "What If Intelligence Didn't Evolve? It \"Was There\" From the Start! - Blaise Agüera y Arcas",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=M2iX6HQOoLg",
-      "thumbnail": "https://i.ytimg.com/vi/M2iX6HQOoLg/mqdefault.jpg",
-      "published": "2026-02-16",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "What If Intelligence Didn't Evolve? It \"Was There\" From the Start! - Blaise Agüera y Arcas",
-      "topics": [
-        "General LLM"
       ]
     },
     {
