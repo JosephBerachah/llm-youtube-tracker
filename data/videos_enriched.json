@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-09-09 10:28 UTC",
+  "last_updated": "2026-09-10 10:20 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "kKotymNf2_s",
+      "title": "AI Can Look Safe and Still Be Dangerous | Daniel Kokotajlo",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=kKotymNf2_s",
+      "thumbnail": "https://i.ytimg.com/vi/kKotymNf2_s/mqdefault.jpg",
+      "published": "2026-09-10",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Can Look Safe and Still Be Dangerous | Daniel Kokotajlo",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "Gsmsc9NWE4c",
+      "title": "300x more water-efficient: inside CoreWeave's liquid-cooled AI data centers",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=Gsmsc9NWE4c",
+      "thumbnail": "https://i.ytimg.com/vi/Gsmsc9NWE4c/mqdefault.jpg",
+      "published": "2026-09-09",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "300x more water-efficient: inside CoreWeave's liquid-cooled AI data centers",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "o1ZrnikUPE0",
+      "title": "CoreWeave brings NVIDIA Vera Rubin NVL72 online: 10x inference, 1/10 the cost",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=o1ZrnikUPE0",
+      "thumbnail": "https://i.ytimg.com/vi/o1ZrnikUPE0/mqdefault.jpg",
+      "published": "2026-09-09",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave brings NVIDIA Vera Rubin NVL72 online: 10x inference, 1/10 the cost",
+      "topics": [
+        "Inference"
+      ]
+    },
+    {
+      "video_id": "6nD2f1qAW8Q",
+      "title": "Accelerate the self-improving AI loop with CoreWeave ARIA",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=6nD2f1qAW8Q",
+      "thumbnail": "https://i.ytimg.com/vi/6nD2f1qAW8Q/mqdefault.jpg",
+      "published": "2026-09-09",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Accelerate the self-improving AI loop with CoreWeave ARIA",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "z5Xix4h5UlU",
       "title": "How Many Narrow AIs Could Behave Like One Superintelligence - Daniel Kokotajlo and Thomas Larsen",
@@ -424,21 +484,6 @@
       ]
     },
     {
-      "video_id": "Tf7DEYfZc0g",
-      "title": "Most AI Startups Are Scaling Into Bankruptcy | Lin Qiao, CEO of Fireworks",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=Tf7DEYfZc0g",
-      "thumbnail": "https://i.ytimg.com/vi/Tf7DEYfZc0g/mqdefault.jpg",
-      "published": "2026-08-04",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Most AI Startups Are Scaling Into Bankruptcy | Lin Qiao, CEO of Fireworks",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "8B05cy3UuSE",
       "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
       "channel": "Two Minute Papers",
@@ -484,21 +529,6 @@
       ]
     },
     {
-      "video_id": "2PNguDuDYKA",
-      "title": "📅 ThursdAI - Jul 23 | Weekly AI News",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=2PNguDuDYKA",
-      "thumbnail": "https://i.ytimg.com/vi/2PNguDuDYKA/mqdefault.jpg",
-      "published": "2026-07-23",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "📅 ThursdAI - Jul 23 | Weekly AI News",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "wzY2fV4Mp3U",
       "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
       "channel": "AI Explained",
@@ -509,21 +539,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "axOcn--n_lM",
-      "title": "Claude Just Revealed AI's Biggest Problem",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
-      "thumbnail": "https://i.ytimg.com/vi/axOcn--n_lM/mqdefault.jpg",
-      "published": "2026-07-16",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Claude Just Revealed AI's Biggest Problem",
       "topics": [
         "General LLM"
       ]
@@ -809,21 +824,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "dHBEQ-Ryo24",
-      "title": "The Dangerous Illusion of AI Coding? - Jeremy Howard",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=dHBEQ-Ryo24",
-      "thumbnail": "https://i.ytimg.com/vi/dHBEQ-Ryo24/mqdefault.jpg",
-      "published": "2026-03-03",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The Dangerous Illusion of AI Coding? - Jeremy Howard",
       "topics": [
         "General LLM"
       ]
