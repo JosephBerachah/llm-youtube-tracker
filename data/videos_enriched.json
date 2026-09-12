@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-11 10:18 UTC",
+  "last_updated": "2026-09-12 09:52 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "P4bYjTJvD28",
+      "title": "What Building an AI Scientist Actually Requires Beyond Intelligence — Edward Hughes",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=P4bYjTJvD28",
+      "thumbnail": "https://i.ytimg.com/vi/P4bYjTJvD28/mqdefault.jpg",
+      "published": "2026-09-11",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "What Building an AI Scientist Actually Requires Beyond Intelligence — Edward Hughes",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "X7gS0-Xjz2M",
+      "title": "Llama Loves Pirates — Tom McGrath",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=X7gS0-Xjz2M",
+      "thumbnail": "https://i.ytimg.com/vi/X7gS0-Xjz2M/mqdefault.jpg",
+      "published": "2026-09-11",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Llama Loves Pirates — Tom McGrath",
+      "topics": [
+        "Open Source"
+      ]
+    },
     {
       "video_id": "kKotymNf2_s",
       "title": "AI Can Look Safe and Still Be Dangerous | Daniel Kokotajlo",
@@ -664,21 +694,6 @@
       ]
     },
     {
-      "video_id": "zSAGzfspuDE",
-      "title": "The AI Progress Chart Everyone Is Misreading — Beth Barnes & David Rein",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=zSAGzfspuDE",
-      "thumbnail": "https://i.ytimg.com/vi/zSAGzfspuDE/mqdefault.jpg",
-      "published": "2026-05-04",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The AI Progress Chart Everyone Is Misreading — Beth Barnes & David Rein",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "jz0rNhfAKo8",
       "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
       "channel": "AI Explained",
@@ -766,21 +781,6 @@
       "summary": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "EInEmGaMRLc",
-      "title": "When AI Discovers the Next Transformer — Robert Lange",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=EInEmGaMRLc",
-      "thumbnail": "https://i.ytimg.com/vi/EInEmGaMRLc/mqdefault.jpg",
-      "published": "2026-03-13",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "When AI Discovers the Next Transformer — Robert Lange",
-      "topics": [
-        "Architecture"
       ]
     },
     {
