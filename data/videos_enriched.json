@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-13 10:52 UTC",
+  "last_updated": "2026-09-14 11:19 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "T90edCiGWqI",
+      "title": "You Can Photocopy an AI's Weights. That's the Problem.",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=T90edCiGWqI",
+      "thumbnail": "https://i.ytimg.com/vi/T90edCiGWqI/mqdefault.jpg",
+      "published": "2026-09-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "You Can Photocopy an AI's Weights. That's the Problem.",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "P4bYjTJvD28",
       "title": "What Building an AI Scientist Actually Requires Beyond Intelligence — Edward Hughes",
@@ -659,21 +674,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Claude Fable 5 - Full 319 page Breakdown",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "TpyS50ifmX4",
-      "title": "The Ex-Pentagon Chief Sounding the Alarm on AI Weapons — Brad Carson",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=TpyS50ifmX4",
-      "thumbnail": "https://i.ytimg.com/vi/TpyS50ifmX4/mqdefault.jpg",
-      "published": "2026-05-31",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The Ex-Pentagon Chief Sounding the Alarm on AI Weapons — Brad Carson",
       "topics": [
         "General LLM"
       ]
