@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-14 11:19 UTC",
+  "last_updated": "2026-09-15 10:45 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "d1uja_aukM8",
+      "title": "Why Voice AI Still Needs a Screen | Pavan Muddireddy",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=d1uja_aukM8",
+      "thumbnail": "https://i.ytimg.com/vi/d1uja_aukM8/mqdefault.jpg",
+      "published": "2026-09-15",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Why Voice AI Still Needs a Screen | Pavan Muddireddy",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "YoEWjZSwoys",
+      "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
+      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/mqdefault.jpg",
+      "published": "2026-09-15",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "T90edCiGWqI",
       "title": "You Can Photocopy an AI's Weights. That's the Problem.",
@@ -559,21 +589,6 @@
       ]
     },
     {
-      "video_id": "Xj-QdEUxJkE",
-      "title": "Kimi K3 Just Broke The Economics Of AI",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
-      "thumbnail": "https://i.ytimg.com/vi/Xj-QdEUxJkE/mqdefault.jpg",
-      "published": "2026-07-29",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Kimi K3 Just Broke The Economics Of AI",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "wzY2fV4Mp3U",
       "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
       "channel": "AI Explained",
@@ -629,21 +644,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Fable 5 vs GPT 5.6 Sol: The Early Results",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "5pieVHmlbyk",
-      "title": "The Thermodynamic AI Chip · Thomas Ahle",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=5pieVHmlbyk",
-      "thumbnail": "https://i.ytimg.com/vi/5pieVHmlbyk/mqdefault.jpg",
-      "published": "2026-06-28",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The Thermodynamic AI Chip · Thomas Ahle",
       "topics": [
         "General LLM"
       ]
