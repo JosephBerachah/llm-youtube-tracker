@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-15 10:45 UTC",
+  "last_updated": "2026-09-16 10:33 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "L6tLBApQN-g",
+      "title": "How Physical AI Learns Across Language, Video and Action — Ming-Yu Liu",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=L6tLBApQN-g",
+      "thumbnail": "https://i.ytimg.com/vi/L6tLBApQN-g/mqdefault.jpg",
+      "published": "2026-09-15",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How Physical AI Learns Across Language, Video and Action — Ming-Yu Liu",
+      "topics": [
+        "Multimodal"
+      ]
+    },
     {
       "video_id": "d1uja_aukM8",
       "title": "Why Voice AI Still Needs a Screen | Pavan Muddireddy",
@@ -599,21 +614,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "JTHmrELSfvk",
-      "title": "Watching America Run Away With AI - Alistair Pullen (Cosine AI)",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=JTHmrELSfvk",
-      "thumbnail": "https://i.ytimg.com/vi/JTHmrELSfvk/mqdefault.jpg",
-      "published": "2026-07-13",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Watching America Run Away With AI - Alistair Pullen (Cosine AI)",
       "topics": [
         "General LLM"
       ]
