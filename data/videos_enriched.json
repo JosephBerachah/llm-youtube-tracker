@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-16 10:33 UTC",
+  "last_updated": "2026-09-17 10:43 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "J3ljHm57yU0",
+      "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=J3ljHm57yU0",
+      "thumbnail": "https://i.ytimg.com/vi/J3ljHm57yU0/mqdefault.jpg",
+      "published": "2026-09-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
+      "topics": [
+        "RAG"
+      ]
+    },
     {
       "video_id": "L6tLBApQN-g",
       "title": "How Physical AI Learns Across Language, Video and Action — Ming-Yu Liu",
@@ -244,7 +259,7 @@
     },
     {
       "video_id": "wfeCrovfb10",
-      "title": "Stuck in an AI Loop?",
+      "title": "Stuck in an AI loop?",
       "channel": "Weights & Biases",
       "url": "https://www.youtube.com/watch?v=wfeCrovfb10",
       "thumbnail": "https://i.ytimg.com/vi/wfeCrovfb10/mqdefault.jpg",
@@ -252,7 +267,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Stuck in an AI Loop?",
+      "summary": "Stuck in an AI loop?",
       "topics": [
         "General LLM"
       ]
@@ -511,21 +526,6 @@
       "summary": "AI Is Learning at the Wrong Level of Abstraction — Matthieu Wyart",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "OC-qeHeEetc",
-      "title": "Your AI Agent is gaslighting you. Here are the receipts",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=OC-qeHeEetc",
-      "thumbnail": "https://i.ytimg.com/vi/OC-qeHeEetc/mqdefault.jpg",
-      "published": "2026-08-10",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Your AI Agent is gaslighting you. Here are the receipts",
-      "topics": [
-        "Agents"
       ]
     },
     {
@@ -794,21 +794,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "I BUILT A FULLY AUTOMATIC MANSPLAINER",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "zizoDORjmlQ",
-      "title": "What the New ChatGPT 5.4 Means for the World",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
-      "thumbnail": "https://i.ytimg.com/vi/zizoDORjmlQ/mqdefault.jpg",
-      "published": "2026-03-06",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "What the New ChatGPT 5.4 Means for the World",
       "topics": [
         "General LLM"
       ]
