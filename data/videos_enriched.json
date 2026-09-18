@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17 10:43 UTC",
+  "last_updated": "2026-09-18 10:19 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -120,36 +120,6 @@
       "summary": "AI Can Look Safe and Still Be Dangerous | Daniel Kokotajlo",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "Gsmsc9NWE4c",
-      "title": "300x more water-efficient: inside CoreWeave's liquid-cooled AI data centers",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=Gsmsc9NWE4c",
-      "thumbnail": "https://i.ytimg.com/vi/Gsmsc9NWE4c/mqdefault.jpg",
-      "published": "2026-09-09",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "300x more water-efficient: inside CoreWeave's liquid-cooled AI data centers",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "o1ZrnikUPE0",
-      "title": "CoreWeave brings NVIDIA Vera Rubin NVL72 online: 10x inference, 1/10 the cost",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=o1ZrnikUPE0",
-      "thumbnail": "https://i.ytimg.com/vi/o1ZrnikUPE0/mqdefault.jpg",
-      "published": "2026-09-09",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "CoreWeave brings NVIDIA Vera Rubin NVL72 online: 10x inference, 1/10 the cost",
-      "topics": [
-        "Inference"
       ]
     },
     {
@@ -529,6 +499,21 @@
       ]
     },
     {
+      "video_id": "OC-qeHeEetc",
+      "title": "Your AI Agent is gaslighting you. Here are the receipts",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=OC-qeHeEetc",
+      "thumbnail": "https://i.ytimg.com/vi/OC-qeHeEetc/mqdefault.jpg",
+      "published": "2026-08-10",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Your AI Agent is gaslighting you. Here are the receipts",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
       "video_id": "vO6SWG-jxvE",
       "title": "DeepMind Just Changed How AI Sees The World",
       "channel": "Two Minute Papers",
@@ -574,16 +559,16 @@
       ]
     },
     {
-      "video_id": "8B05cy3UuSE",
-      "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
-      "thumbnail": "https://i.ytimg.com/vi/8B05cy3UuSE/mqdefault.jpg",
-      "published": "2026-08-02",
+      "video_id": "Tf7DEYfZc0g",
+      "title": "Most AI Startups Are Scaling Into Bankruptcy | Lin Qiao, CEO of Fireworks",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=Tf7DEYfZc0g",
+      "thumbnail": "https://i.ytimg.com/vi/Tf7DEYfZc0g/mqdefault.jpg",
+      "published": "2026-08-04",
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "summary": "Most AI Startups Are Scaling Into Bankruptcy | Lin Qiao, CEO of Fireworks",
       "topics": [
         "General LLM"
       ]
