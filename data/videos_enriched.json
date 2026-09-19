@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-18 10:19 UTC",
+  "last_updated": "2026-09-19 10:01 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "bRQEWPA832A",
+      "title": "The last IMO problem AI could not solve",
+      "channel": "3Blue1Brown",
+      "url": "https://www.youtube.com/watch?v=bRQEWPA832A",
+      "thumbnail": "https://i.ytimg.com/vi/bRQEWPA832A/mqdefault.jpg",
+      "published": "2026-09-18",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The last IMO problem AI could not solve",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "Nbwv5wHQoj0",
+      "title": "The last IMO problem AI could not solve",
+      "channel": "3Blue1Brown",
+      "url": "https://www.youtube.com/watch?v=Nbwv5wHQoj0",
+      "thumbnail": "https://i.ytimg.com/vi/Nbwv5wHQoj0/mqdefault.jpg",
+      "published": "2026-09-18",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The last IMO problem AI could not solve",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "J3ljHm57yU0",
       "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
