@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-21 11:31 UTC",
+  "last_updated": "2026-09-22 10:39 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "qBBRRsH0rQc",
+      "title": "Jev Just Made AI 200x Faster…But There’s A Catch",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/mqdefault.jpg",
+      "published": "2026-09-22",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Jev Just Made AI 200x Faster…But There’s A Catch",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "bRQEWPA832A",
       "title": "The last IMO problem AI could not solve",
@@ -150,6 +165,36 @@
       "summary": "AI Can Look Safe and Still Be Dangerous | Daniel Kokotajlo",
       "topics": [
         "General LLM"
+      ]
+    },
+    {
+      "video_id": "Gsmsc9NWE4c",
+      "title": "300x more water-efficient: inside CoreWeave's liquid-cooled AI data centers",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=Gsmsc9NWE4c",
+      "thumbnail": "https://i.ytimg.com/vi/Gsmsc9NWE4c/mqdefault.jpg",
+      "published": "2026-09-09",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "300x more water-efficient: inside CoreWeave's liquid-cooled AI data centers",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "o1ZrnikUPE0",
+      "title": "CoreWeave brings NVIDIA Vera Rubin NVL72 online: 10x inference, 1/10 the cost",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=o1ZrnikUPE0",
+      "thumbnail": "https://i.ytimg.com/vi/o1ZrnikUPE0/mqdefault.jpg",
+      "published": "2026-09-09",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave brings NVIDIA Vera Rubin NVL72 online: 10x inference, 1/10 the cost",
+      "topics": [
+        "Inference"
       ]
     },
     {
@@ -484,21 +529,6 @@
       ]
     },
     {
-      "video_id": "-482T83WiNs",
-      "title": "Why did fine-tuning never really take off with OpenAI's API?",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=-482T83WiNs",
-      "thumbnail": "https://i.ytimg.com/vi/-482T83WiNs/mqdefault.jpg",
-      "published": "2026-08-13",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Why did fine-tuning never really take off with OpenAI's API?",
-      "topics": [
-        "Fine-tuning"
-      ]
-    },
-    {
       "video_id": "JQ97GiDwPxc",
       "title": "OpenAI’s AI Agents Just Crossed A Line",
       "channel": "Two Minute Papers",
@@ -509,36 +539,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "OpenAI’s AI Agents Just Crossed A Line",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "revreN8LZ_M",
-      "title": "AI Is Learning at the Wrong Level of Abstraction — Matthieu Wyart",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=revreN8LZ_M",
-      "thumbnail": "https://i.ytimg.com/vi/revreN8LZ_M/mqdefault.jpg",
-      "published": "2026-08-10",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Is Learning at the Wrong Level of Abstraction — Matthieu Wyart",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "OC-qeHeEetc",
-      "title": "Your AI Agent is gaslighting you. Here are the receipts",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=OC-qeHeEetc",
-      "thumbnail": "https://i.ytimg.com/vi/OC-qeHeEetc/mqdefault.jpg",
-      "published": "2026-08-10",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Your AI Agent is gaslighting you. Here are the receipts",
       "topics": [
         "Agents"
       ]
@@ -586,36 +586,6 @@
       "summary": "The Billion Dollar AI Race Just Broke",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "Tf7DEYfZc0g",
-      "title": "Most AI Startups Are Scaling Into Bankruptcy | Lin Qiao, CEO of Fireworks",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=Tf7DEYfZc0g",
-      "thumbnail": "https://i.ytimg.com/vi/Tf7DEYfZc0g/mqdefault.jpg",
-      "published": "2026-08-04",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Most AI Startups Are Scaling Into Bankruptcy | Lin Qiao, CEO of Fireworks",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "n1Qk8xbqF-M",
-      "title": "How Researchers Test AI for Hidden Goals — Apollo Research",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=n1Qk8xbqF-M",
-      "thumbnail": "https://i.ytimg.com/vi/n1Qk8xbqF-M/mqdefault.jpg",
-      "published": "2026-07-31",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "How Researchers Test AI for Hidden Goals — Apollo Research",
-      "topics": [
-        "RAG"
       ]
     },
     {
