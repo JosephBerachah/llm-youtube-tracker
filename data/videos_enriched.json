@@ -1,22 +1,7 @@
 {
-  "last_updated": "2026-09-22 10:39 UTC",
+  "last_updated": "2026-09-23 10:32 UTC",
   "model": "gpt-4o-mini",
   "videos": [
-    {
-      "video_id": "qBBRRsH0rQc",
-      "title": "Jev Just Made AI 200x Faster…But There’s A Catch",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
-      "thumbnail": "https://i.ytimg.com/vi/qBBRRsH0rQc/mqdefault.jpg",
-      "published": "2026-09-22",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Jev Just Made AI 200x Faster…But There’s A Catch",
-      "topics": [
-        "General LLM"
-      ]
-    },
     {
       "video_id": "bRQEWPA832A",
       "title": "The last IMO problem AI could not solve",
