@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-23 10:32 UTC",
+  "last_updated": "2026-09-24 10:49 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "SA9kdAX2Zj0",
+      "title": "Claude Opus 5.5 AI: A Massive Leap Forward",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/mqdefault.jpg",
+      "published": "2026-09-24",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude Opus 5.5 AI: A Massive Leap Forward",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "72Im-Mm5JKs",
+      "title": "The AI That Replaces Hours of Model Tuning - Frank Hutter",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=72Im-Mm5JKs",
+      "thumbnail": "https://i.ytimg.com/vi/72Im-Mm5JKs/mqdefault.jpg",
+      "published": "2026-09-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The AI That Replaces Hours of Model Tuning - Frank Hutter",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "bRQEWPA832A",
       "title": "The last IMO problem AI could not solve",
@@ -439,21 +469,6 @@
       ]
     },
     {
-      "video_id": "gasgivVCl2U",
-      "title": "Why Frontier AI Labs Fight to Hide Chain of Thought — Ilia Shumailov & Alexander Panfilov",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=gasgivVCl2U",
-      "thumbnail": "https://i.ytimg.com/vi/gasgivVCl2U/mqdefault.jpg",
-      "published": "2026-08-22",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Why Frontier AI Labs Fight to Hide Chain of Thought — Ilia Shumailov & Alexander Panfilov",
-      "topics": [
-        "Reasoning"
-      ]
-    },
-    {
       "video_id": "yBwCB3Q2mfs",
       "title": "Making Transformers 100x Smaller",
       "channel": "Weights & Biases",
@@ -515,7 +530,7 @@
     },
     {
       "video_id": "JQ97GiDwPxc",
-      "title": "OpenAI’s AI Agents Just Crossed A Line",
+      "title": "How OpenAI Hacked HuggingFace",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
       "thumbnail": "https://i.ytimg.com/vi/JQ97GiDwPxc/mqdefault.jpg",
@@ -523,9 +538,9 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "OpenAI’s AI Agents Just Crossed A Line",
+      "summary": "How OpenAI Hacked HuggingFace",
       "topics": [
-        "Agents"
+        "General LLM"
       ]
     },
     {
@@ -554,21 +569,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "AI is getting a little out of control",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "ppQh4Tc9BmM",
-      "title": "The Billion Dollar AI Race Just Broke",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
-      "thumbnail": "https://i.ytimg.com/vi/ppQh4Tc9BmM/mqdefault.jpg",
-      "published": "2026-08-05",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The Billion Dollar AI Race Just Broke",
       "topics": [
         "General LLM"
       ]
