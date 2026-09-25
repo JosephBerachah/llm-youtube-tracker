@@ -1,10 +1,25 @@
 {
-  "last_updated": "2026-09-24 10:49 UTC",
+  "last_updated": "2026-09-25 10:53 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
+      "video_id": "R9momwXV9w4",
+      "title": "Opus 5.5: How Close Are We to Automated AI Research?",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
+      "thumbnail": "https://i.ytimg.com/vi/R9momwXV9w4/mqdefault.jpg",
+      "published": "2026-09-24",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Opus 5.5: How Close Are We to Automated AI Research?",
+      "topics": [
+        "RAG"
+      ]
+    },
+    {
       "video_id": "SA9kdAX2Zj0",
-      "title": "Claude Opus 5.5 AI: A Massive Leap Forward",
+      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
       "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/mqdefault.jpg",
@@ -12,7 +27,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Claude Opus 5.5 AI: A Massive Leap Forward",
+      "summary": "Claude Opus 5.5 AI: An Incredible Leap Forward",
       "topics": [
         "General LLM"
       ]
@@ -719,21 +734,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Claude Mythos: Highlights from 244-page Release",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "s4tptozUJ8Y",
-      "title": "Two AI Models Set to “stir government urgency”, But Will This Challenge Undo Them?",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
-      "thumbnail": "https://i.ytimg.com/vi/s4tptozUJ8Y/mqdefault.jpg",
-      "published": "2026-03-26",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Two AI Models Set to “stir government urgency”, But Will This Challenge Undo Them?",
       "topics": [
         "General LLM"
       ]
