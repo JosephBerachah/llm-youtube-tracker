@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25 10:53 UTC",
+  "last_updated": "2026-09-26 10:34 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -409,7 +409,7 @@
     },
     {
       "video_id": "3rTtaDP_Tm8",
-      "title": "CoreWeave ARIA: AI Research and Iteration Agent",
+      "title": "CoreWeave ARIA: AI research and iteration agent",
       "channel": "Weights & Biases",
       "url": "https://www.youtube.com/watch?v=3rTtaDP_Tm8",
       "thumbnail": "https://i.ytimg.com/vi/3rTtaDP_Tm8/mqdefault.jpg",
@@ -417,7 +417,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "CoreWeave ARIA: AI Research and Iteration Agent",
+      "summary": "CoreWeave ARIA: AI research and iteration agent",
       "topics": [
         "RAG",
         "Agents"
