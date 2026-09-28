@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-27 11:06 UTC",
+  "last_updated": "2026-09-28 12:26 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "SDvIdNumJkc",
+      "title": "Prompt engineering and serverless inference: closing the open model gap",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=SDvIdNumJkc",
+      "thumbnail": "https://i.ytimg.com/vi/SDvIdNumJkc/mqdefault.jpg",
+      "published": "2026-09-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Prompt engineering and serverless inference: closing the open model gap",
+      "topics": [
+        "Inference"
+      ]
+    },
     {
       "video_id": "yB6_iFGTq9k",
       "title": "Can Rewriting an AI Agent Bend the Intelligence Curve? - Zhengyao Jiang",
@@ -469,21 +484,6 @@
       ]
     },
     {
-      "video_id": "yBwCB3Q2mfs",
-      "title": "Making Transformers 100x Smaller",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=yBwCB3Q2mfs",
-      "thumbnail": "https://i.ytimg.com/vi/yBwCB3Q2mfs/mqdefault.jpg",
-      "published": "2026-08-21",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Making Transformers 100x Smaller",
-      "topics": [
-        "Architecture"
-      ]
-    },
-    {
       "video_id": "kyYepbhe1g8",
       "title": "DeepSeek Just Made Closed AI Look Ridiculous",
       "channel": "Two Minute Papers",
@@ -496,21 +496,6 @@
       "summary": "DeepSeek Just Made Closed AI Look Ridiculous",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "e_eEcPysMlQ",
-      "title": "Elon's Former Battery Chief on Making Transformers 100x Smaller | Drew Baglino, Heron Power",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=e_eEcPysMlQ",
-      "thumbnail": "https://i.ytimg.com/vi/e_eEcPysMlQ/mqdefault.jpg",
-      "published": "2026-08-18",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Elon's Former Battery Chief on Making Transformers 100x Smaller | Drew Baglino, Heron Power",
-      "topics": [
-        "Architecture"
       ]
     },
     {
