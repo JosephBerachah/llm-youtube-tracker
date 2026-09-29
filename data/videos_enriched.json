@@ -1,10 +1,162 @@
 {
-  "last_updated": "2026-09-28 12:26 UTC",
+  "last_updated": "2026-09-29 11:52 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
+      "video_id": "tQ3nMI-anxU",
+      "title": "Why Deep Learning Failed on Tables for a Decade - Frank Hutter",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=tQ3nMI-anxU",
+      "thumbnail": "https://i.ytimg.com/vi/tQ3nMI-anxU/mqdefault.jpg",
+      "published": "2026-09-29",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Why Deep Learning Failed on Tables for a Decade - Frank Hutter",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "0WxBQgJ2hL8",
+      "title": "How to get started with managed inference in CoreWeave ARENA",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=0WxBQgJ2hL8",
+      "thumbnail": "https://i.ytimg.com/vi/0WxBQgJ2hL8/mqdefault.jpg",
+      "published": "2026-09-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How to get started with managed inference in CoreWeave ARENA",
+      "topics": [
+        "Inference"
+      ]
+    },
+    {
+      "video_id": "6KNkQ1JhaAg",
+      "title": "Introduction to Mission Control agent",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=6KNkQ1JhaAg",
+      "thumbnail": "https://i.ytimg.com/vi/6KNkQ1JhaAg/mqdefault.jpg",
+      "published": "2026-09-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Introduction to Mission Control agent",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "v3LOzZHPcFc",
+      "title": "Dedicated Inference",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=v3LOzZHPcFc",
+      "thumbnail": "https://i.ytimg.com/vi/v3LOzZHPcFc/mqdefault.jpg",
+      "published": "2026-09-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Dedicated Inference",
+      "topics": [
+        "Inference"
+      ]
+    },
+    {
+      "video_id": "_SS42M8Raz0",
+      "title": "Accelerating AI innovation",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=_SS42M8Raz0",
+      "thumbnail": "https://i.ytimg.com/vi/_SS42M8Raz0/mqdefault.jpg",
+      "published": "2026-09-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Accelerating AI innovation",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "16stFW1DAR8",
+      "title": "CoreWeave AI data centers: Closed-loop cooling at scale",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=16stFW1DAR8",
+      "thumbnail": "https://i.ytimg.com/vi/16stFW1DAR8/mqdefault.jpg",
+      "published": "2026-09-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave AI data centers: Closed-loop cooling at scale",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "M8MK4mxHGuI",
+      "title": "CoreWeave Sandboxes demo: RL, agent tool use, and model evaluation",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=M8MK4mxHGuI",
+      "thumbnail": "https://i.ytimg.com/vi/M8MK4mxHGuI/mqdefault.jpg",
+      "published": "2026-09-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave Sandboxes demo: RL, agent tool use, and model evaluation",
+      "topics": [
+        "Agents",
+        "Benchmarks"
+      ]
+    },
+    {
+      "video_id": "WE4JND6hC6M",
+      "title": "SUNK: production-ready AI training at massive scale",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=WE4JND6hC6M",
+      "thumbnail": "https://i.ytimg.com/vi/WE4JND6hC6M/mqdefault.jpg",
+      "published": "2026-09-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "SUNK: production-ready AI training at massive scale",
+      "topics": [
+        "Fine-tuning"
+      ]
+    },
+    {
+      "video_id": "47x06r_PElg",
+      "title": "CoreWeave Arena: ARIA – AI research and iteration agent",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=47x06r_PElg",
+      "thumbnail": "https://i.ytimg.com/vi/47x06r_PElg/mqdefault.jpg",
+      "published": "2026-09-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave Arena: ARIA – AI research and iteration agent",
+      "topics": [
+        "RAG",
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "o4fG8HblUFQ",
+      "title": "SUNK Anywhere: Unified AI training across Kubernetes (GKE, EKS, multi-cloud)",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=o4fG8HblUFQ",
+      "thumbnail": "https://i.ytimg.com/vi/o4fG8HblUFQ/mqdefault.jpg",
+      "published": "2026-09-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "SUNK Anywhere: Unified AI training across Kubernetes (GKE, EKS, multi-cloud)",
+      "topics": [
+        "Fine-tuning"
+      ]
+    },
+    {
       "video_id": "SDvIdNumJkc",
-      "title": "Prompt engineering and serverless inference: closing the open model gap",
+      "title": "CoreWeave Arena: Serverless inference + serverless RL",
       "channel": "Weights & Biases",
       "url": "https://www.youtube.com/watch?v=SDvIdNumJkc",
       "thumbnail": "https://i.ytimg.com/vi/SDvIdNumJkc/mqdefault.jpg",
@@ -12,7 +164,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Prompt engineering and serverless inference: closing the open model gap",
+      "summary": "CoreWeave Arena: Serverless inference + serverless RL",
       "topics": [
         "Inference"
       ]
@@ -213,66 +365,6 @@
       ]
     },
     {
-      "video_id": "kKotymNf2_s",
-      "title": "AI Can Look Safe and Still Be Dangerous | Daniel Kokotajlo",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=kKotymNf2_s",
-      "thumbnail": "https://i.ytimg.com/vi/kKotymNf2_s/mqdefault.jpg",
-      "published": "2026-09-10",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Can Look Safe and Still Be Dangerous | Daniel Kokotajlo",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "Gsmsc9NWE4c",
-      "title": "300x more water-efficient: inside CoreWeave's liquid-cooled AI data centers",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=Gsmsc9NWE4c",
-      "thumbnail": "https://i.ytimg.com/vi/Gsmsc9NWE4c/mqdefault.jpg",
-      "published": "2026-09-09",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "300x more water-efficient: inside CoreWeave's liquid-cooled AI data centers",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "o1ZrnikUPE0",
-      "title": "CoreWeave brings NVIDIA Vera Rubin NVL72 online: 10x inference, 1/10 the cost",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=o1ZrnikUPE0",
-      "thumbnail": "https://i.ytimg.com/vi/o1ZrnikUPE0/mqdefault.jpg",
-      "published": "2026-09-09",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "CoreWeave brings NVIDIA Vera Rubin NVL72 online: 10x inference, 1/10 the cost",
-      "topics": [
-        "Inference"
-      ]
-    },
-    {
-      "video_id": "6nD2f1qAW8Q",
-      "title": "Accelerate the self-improving AI loop with CoreWeave ARIA",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=6nD2f1qAW8Q",
-      "thumbnail": "https://i.ytimg.com/vi/6nD2f1qAW8Q/mqdefault.jpg",
-      "published": "2026-09-09",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Accelerate the self-improving AI loop with CoreWeave ARIA",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "eVBJIUxv8N8",
       "title": "GPT-6 Astra Changes Everything",
       "channel": "Two Minute Papers",
@@ -333,21 +425,6 @@
       ]
     },
     {
-      "video_id": "wfeCrovfb10",
-      "title": "Stuck in an AI loop?",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=wfeCrovfb10",
-      "thumbnail": "https://i.ytimg.com/vi/wfeCrovfb10/mqdefault.jpg",
-      "published": "2026-08-31",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Stuck in an AI loop?",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "LBiNcdGNgrg",
       "title": "The Billion Dollar AI Gap Is Collapsing",
       "channel": "Two Minute Papers",
@@ -378,21 +455,6 @@
       ]
     },
     {
-      "video_id": "7lwlYyUsF98",
-      "title": "Cracking the code on AI conversation tracing",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=7lwlYyUsF98",
-      "thumbnail": "https://i.ytimg.com/vi/7lwlYyUsF98/mqdefault.jpg",
-      "published": "2026-08-27",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Cracking the code on AI conversation tracing",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "NYFGCESmikA",
       "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
       "channel": "Lex Fridman",
@@ -404,22 +466,6 @@
       "transcript_source": "none",
       "summary": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
       "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "3rTtaDP_Tm8",
-      "title": "CoreWeave ARIA: AI research and iteration agent",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=3rTtaDP_Tm8",
-      "thumbnail": "https://i.ytimg.com/vi/3rTtaDP_Tm8/mqdefault.jpg",
-      "published": "2026-08-26",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "CoreWeave ARIA: AI research and iteration agent",
-      "topics": [
-        "RAG",
         "Agents"
       ]
     },
@@ -436,36 +482,6 @@
       "summary": "DeepSeek’s New AI System Shouldn’t Be Possible",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "_OEnlyiWdTU",
-      "title": "Let Claude Code add observability to your agent",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=_OEnlyiWdTU",
-      "thumbnail": "https://i.ytimg.com/vi/_OEnlyiWdTU/mqdefault.jpg",
-      "published": "2026-08-25",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Let Claude Code add observability to your agent",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "Mpa_oF6eh5w",
-      "title": "How to trace your vibe-coded agent with W&B Weave",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=Mpa_oF6eh5w",
-      "thumbnail": "https://i.ytimg.com/vi/Mpa_oF6eh5w/mqdefault.jpg",
-      "published": "2026-08-24",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "How to trace your vibe-coded agent with W&B Weave",
-      "topics": [
-        "Agents"
       ]
     },
     {
