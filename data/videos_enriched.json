@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-09-29 11:52 UTC",
+  "last_updated": "2026-09-30 11:39 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "ZpQFebTK75A",
+      "title": "AI Can Write the Proof. Who Checks It? — Leonardo de Moura",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=ZpQFebTK75A",
+      "thumbnail": "https://i.ytimg.com/vi/ZpQFebTK75A/mqdefault.jpg",
+      "published": "2026-09-29",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Can Write the Proof. Who Checks It? — Leonardo de Moura",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "tQ3nMI-anxU",
       "title": "Why Deep Learning Failed on Tables for a Decade - Frank Hutter",
@@ -15,6 +30,21 @@
       "summary": "Why Deep Learning Failed on Tables for a Decade - Frank Hutter",
       "topics": [
         "General LLM"
+      ]
+    },
+    {
+      "video_id": "34w2NQsh974",
+      "title": "CoreWeave ARENA: Serverless inference and serverless RL",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=34w2NQsh974",
+      "thumbnail": "https://i.ytimg.com/vi/34w2NQsh974/mqdefault.jpg",
+      "published": "2026-09-29",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave ARENA: Serverless inference and serverless RL",
+      "topics": [
+        "Inference"
       ]
     },
     {
@@ -125,7 +155,7 @@
     },
     {
       "video_id": "47x06r_PElg",
-      "title": "CoreWeave Arena: ARIA – AI research and iteration agent",
+      "title": "CoreWeave ARENA: ARIA – AI research and iteration agent",
       "channel": "Weights & Biases",
       "url": "https://www.youtube.com/watch?v=47x06r_PElg",
       "thumbnail": "https://i.ytimg.com/vi/47x06r_PElg/mqdefault.jpg",
@@ -133,7 +163,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "CoreWeave Arena: ARIA – AI research and iteration agent",
+      "summary": "CoreWeave ARENA: ARIA – AI research and iteration agent",
       "topics": [
         "RAG",
         "Agents"
@@ -152,21 +182,6 @@
       "summary": "SUNK Anywhere: Unified AI training across Kubernetes (GKE, EKS, multi-cloud)",
       "topics": [
         "Fine-tuning"
-      ]
-    },
-    {
-      "video_id": "SDvIdNumJkc",
-      "title": "CoreWeave Arena: Serverless inference + serverless RL",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=SDvIdNumJkc",
-      "thumbnail": "https://i.ytimg.com/vi/SDvIdNumJkc/mqdefault.jpg",
-      "published": "2026-09-28",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "CoreWeave Arena: Serverless inference + serverless RL",
-      "topics": [
-        "Inference"
       ]
     },
     {
@@ -347,21 +362,6 @@
       "summary": "What Building an AI Scientist Actually Requires Beyond Intelligence — Edward Hughes",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "X7gS0-Xjz2M",
-      "title": "Llama Loves Pirates — Tom McGrath",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=X7gS0-Xjz2M",
-      "thumbnail": "https://i.ytimg.com/vi/X7gS0-Xjz2M/mqdefault.jpg",
-      "published": "2026-09-11",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Llama Loves Pirates — Tom McGrath",
-      "topics": [
-        "Open Source"
       ]
     },
     {
