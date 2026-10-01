@@ -1,18 +1,33 @@
 {
-  "last_updated": "2026-09-30 11:39 UTC",
+  "last_updated": "2026-10-01 12:08 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
-      "video_id": "ZpQFebTK75A",
-      "title": "AI Can Write the Proof. Who Checks It? — Leonardo de Moura",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=ZpQFebTK75A",
-      "thumbnail": "https://i.ytimg.com/vi/ZpQFebTK75A/mqdefault.jpg",
-      "published": "2026-09-29",
+      "video_id": "565mEnLKZuU",
+      "title": "Introducing CoreWeave Agent Lens",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=565mEnLKZuU",
+      "thumbnail": "https://i.ytimg.com/vi/565mEnLKZuU/mqdefault.jpg",
+      "published": "2026-09-30",
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "AI Can Write the Proof. Who Checks It? — Leonardo de Moura",
+      "summary": "Introducing CoreWeave Agent Lens",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "7CJuiStcrLA",
+      "title": "CoreWeave Forge: One Connected Environment for the AI Loop",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=7CJuiStcrLA",
+      "thumbnail": "https://i.ytimg.com/vi/7CJuiStcrLA/mqdefault.jpg",
+      "published": "2026-09-30",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave Forge: One Connected Environment for the AI Loop",
       "topics": [
         "General LLM"
       ]
