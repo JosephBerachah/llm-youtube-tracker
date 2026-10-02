@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-10-01 12:08 UTC",
+  "last_updated": "2026-10-02 11:39 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "_rtp1XzaP6Q",
+      "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+      "thumbnail": "https://i.ytimg.com/vi/_rtp1XzaP6Q/mqdefault.jpg",
+      "published": "2026-10-01",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "OpenAI Security: Controlling Models is Now ‘Hell’",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "MVRb03jb6Wg",
+      "title": "The most natural voice agent was a French voice speaking English",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=MVRb03jb6Wg",
+      "thumbnail": "https://i.ytimg.com/vi/MVRb03jb6Wg/mqdefault.jpg",
+      "published": "2026-10-01",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The most natural voice agent was a French voice speaking English",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "VoAPg8Fj6-c",
+      "title": "How a Voice Agent Learns the Rhythm of Conversation — Shawn Wen",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=VoAPg8Fj6-c",
+      "thumbnail": "https://i.ytimg.com/vi/VoAPg8Fj6-c/mqdefault.jpg",
+      "published": "2026-10-01",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How a Voice Agent Learns the Rhythm of Conversation — Shawn Wen",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "QQV_3kSLsaQ",
+      "title": "How to Get Started with Managed Inference in CoreWeave ARENA",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=QQV_3kSLsaQ",
+      "thumbnail": "https://i.ytimg.com/vi/QQV_3kSLsaQ/mqdefault.jpg",
+      "published": "2026-10-01",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How to Get Started with Managed Inference in CoreWeave ARENA",
+      "topics": [
+        "Inference"
+      ]
+    },
     {
       "video_id": "565mEnLKZuU",
       "title": "Introducing CoreWeave Agent Lens",
@@ -365,21 +425,6 @@
       ]
     },
     {
-      "video_id": "P4bYjTJvD28",
-      "title": "What Building an AI Scientist Actually Requires Beyond Intelligence — Edward Hughes",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=P4bYjTJvD28",
-      "thumbnail": "https://i.ytimg.com/vi/P4bYjTJvD28/mqdefault.jpg",
-      "published": "2026-09-11",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "What Building an AI Scientist Actually Requires Beyond Intelligence — Edward Hughes",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "eVBJIUxv8N8",
       "title": "GPT-6 Astra Changes Everything",
       "channel": "Two Minute Papers",
@@ -722,21 +767,6 @@
       "summary": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495",
       "topics": [
         "RAG"
-      ]
-    },
-    {
-      "video_id": "txx6ec6MLNY",
-      "title": "Claude Mythos: Highlights from 244-page Release",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
-      "thumbnail": "https://i.ytimg.com/vi/txx6ec6MLNY/mqdefault.jpg",
-      "published": "2026-04-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Claude Mythos: Highlights from 244-page Release",
-      "topics": [
-        "General LLM"
       ]
     },
     {
