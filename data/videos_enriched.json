@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-10-02 11:39 UTC",
+  "last_updated": "2026-10-03 10:53 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "OG9eva01RuI",
+      "title": "Watch an AI agent get found, fixed, and shipped in 2 minutes with CoreWeave Forge",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=OG9eva01RuI",
+      "thumbnail": "https://i.ytimg.com/vi/OG9eva01RuI/mqdefault.jpg",
+      "published": "2026-10-02",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Watch an AI agent get found, fixed, and shipped in 2 minutes with CoreWeave Forge",
+      "topics": [
+        "Agents"
+      ]
+    },
     {
       "video_id": "_rtp1XzaP6Q",
       "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
