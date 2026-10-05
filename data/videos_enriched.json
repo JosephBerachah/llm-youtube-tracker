@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-10-04 11:35 UTC",
+  "last_updated": "2026-10-05 13:06 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "ZHVNTTKu9fU",
+      "title": "The Billion Dollar AI Advantage Is Disappearing",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
+      "thumbnail": "https://i.ytimg.com/vi/ZHVNTTKu9fU/mqdefault.jpg",
+      "published": "2026-10-05",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Billion Dollar AI Advantage Is Disappearing",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "OG9eva01RuI",
       "title": "Watch an AI agent get found, fixed, and shipped in 2 minutes with CoreWeave Forge",
@@ -615,21 +630,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "How OpenAI Hacked HuggingFace",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "vO6SWG-jxvE",
-      "title": "DeepMind Just Changed How AI Sees The World",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
-      "thumbnail": "https://i.ytimg.com/vi/vO6SWG-jxvE/mqdefault.jpg",
-      "published": "2026-08-07",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "DeepMind Just Changed How AI Sees The World",
       "topics": [
         "General LLM"
       ]
