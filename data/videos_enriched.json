@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05 13:06 UTC",
+  "last_updated": "2026-10-06 12:29 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -272,21 +272,6 @@
       "topics": [
         "RAG",
         "Agents"
-      ]
-    },
-    {
-      "video_id": "o4fG8HblUFQ",
-      "title": "SUNK Anywhere: Unified AI training across Kubernetes (GKE, EKS, multi-cloud)",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=o4fG8HblUFQ",
-      "thumbnail": "https://i.ytimg.com/vi/o4fG8HblUFQ/mqdefault.jpg",
-      "published": "2026-09-28",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "SUNK Anywhere: Unified AI training across Kubernetes (GKE, EKS, multi-cloud)",
-      "topics": [
-        "Fine-tuning"
       ]
     },
     {
