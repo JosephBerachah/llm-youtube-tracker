@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06 12:29 UTC",
+  "last_updated": "2026-10-07 12:22 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -225,53 +225,6 @@
       "summary": "CoreWeave AI data centers: Closed-loop cooling at scale",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "M8MK4mxHGuI",
-      "title": "CoreWeave Sandboxes demo: RL, agent tool use, and model evaluation",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=M8MK4mxHGuI",
-      "thumbnail": "https://i.ytimg.com/vi/M8MK4mxHGuI/mqdefault.jpg",
-      "published": "2026-09-28",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "CoreWeave Sandboxes demo: RL, agent tool use, and model evaluation",
-      "topics": [
-        "Agents",
-        "Benchmarks"
-      ]
-    },
-    {
-      "video_id": "WE4JND6hC6M",
-      "title": "SUNK: production-ready AI training at massive scale",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=WE4JND6hC6M",
-      "thumbnail": "https://i.ytimg.com/vi/WE4JND6hC6M/mqdefault.jpg",
-      "published": "2026-09-28",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "SUNK: production-ready AI training at massive scale",
-      "topics": [
-        "Fine-tuning"
-      ]
-    },
-    {
-      "video_id": "47x06r_PElg",
-      "title": "CoreWeave ARENA: ARIA – AI research and iteration agent",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=47x06r_PElg",
-      "thumbnail": "https://i.ytimg.com/vi/47x06r_PElg/mqdefault.jpg",
-      "published": "2026-09-28",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "CoreWeave ARENA: ARIA – AI research and iteration agent",
-      "topics": [
-        "RAG",
-        "Agents"
       ]
     },
     {
