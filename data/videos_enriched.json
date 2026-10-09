@@ -1,7 +1,130 @@
 {
-  "last_updated": "2026-10-08 12:32 UTC",
+  "last_updated": "2026-10-09 12:21 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "4lMSHFnPENM",
+      "title": "How Standard Kernel uses compound AI systems to optimize code and extract maximum GPU performance",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=4lMSHFnPENM",
+      "thumbnail": "https://i.ytimg.com/vi/4lMSHFnPENM/mqdefault.jpg",
+      "published": "2026-10-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How Standard Kernel uses compound AI systems to optimize code and extract maximum GPU performance",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "rMNgd1AERm4",
+      "title": "Beyond the Benchmark: How Parallel Web Systems Builds Reliable Web Agents",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=rMNgd1AERm4",
+      "thumbnail": "https://i.ytimg.com/vi/rMNgd1AERm4/mqdefault.jpg",
+      "published": "2026-10-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Beyond the Benchmark: How Parallel Web Systems Builds Reliable Web Agents",
+      "topics": [
+        "Agents",
+        "Benchmarks"
+      ]
+    },
+    {
+      "video_id": "WIeUsZncpto",
+      "title": "How Cline Embraces an Open-Weights Model Ecosystem for AI Agents",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=WIeUsZncpto",
+      "thumbnail": "https://i.ytimg.com/vi/WIeUsZncpto/mqdefault.jpg",
+      "published": "2026-10-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How Cline Embraces an Open-Weights Model Ecosystem for AI Agents",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "guxXcUbKCac",
+      "title": "How Grammarly Scales Real-Time Inference with vLLM on CoreWeave",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=guxXcUbKCac",
+      "thumbnail": "https://i.ytimg.com/vi/guxXcUbKCac/mqdefault.jpg",
+      "published": "2026-10-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How Grammarly Scales Real-Time Inference with vLLM on CoreWeave",
+      "topics": [
+        "Inference"
+      ]
+    },
+    {
+      "video_id": "68ooxSVEnLw",
+      "title": "Data Architecture for AI: From Training Pipelines to Agent Memory",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=68ooxSVEnLw",
+      "thumbnail": "https://i.ytimg.com/vi/68ooxSVEnLw/mqdefault.jpg",
+      "published": "2026-10-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Data Architecture for AI: From Training Pipelines to Agent Memory",
+      "topics": [
+        "Agents",
+        "Fine-tuning",
+        "Architecture"
+      ]
+    },
+    {
+      "video_id": "T3K5H77ad18",
+      "title": "NVIDIA Vera CPU: The Foundation for Agentic AI",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=T3K5H77ad18",
+      "thumbnail": "https://i.ytimg.com/vi/T3K5H77ad18/mqdefault.jpg",
+      "published": "2026-10-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "NVIDIA Vera CPU: The Foundation for Agentic AI",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "6G7akdS99KY",
+      "title": "Expanding AI: Near and Far",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=6G7akdS99KY",
+      "thumbnail": "https://i.ytimg.com/vi/6G7akdS99KY/mqdefault.jpg",
+      "published": "2026-10-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Expanding AI: Near and Far",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "nuWb9JB1Eyk",
+      "title": "Built Together: Inside the Dell + CoreWeave Engineering Partnership Powering Next-Gen AI",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=nuWb9JB1Eyk",
+      "thumbnail": "https://i.ytimg.com/vi/nuWb9JB1Eyk/mqdefault.jpg",
+      "published": "2026-10-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Built Together: Inside the Dell + CoreWeave Engineering Partnership Powering Next-Gen AI",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "VlLd3PsQ7fc",
       "title": "AI Tokenomics Explained",
@@ -13,126 +136,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "AI Tokenomics Explained",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "p7yXYwEsEK8",
-      "title": "Building Blazing Fast AI-Native Apps: A Developer's Guide to the Database Underneath",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=p7yXYwEsEK8",
-      "thumbnail": "https://i.ytimg.com/vi/p7yXYwEsEK8/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Building Blazing Fast AI-Native Apps: A Developer's Guide to the Database Underneath",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "96IZdtX0N2s",
-      "title": "Securing AI at Scale: CoreWeave and CrowdStrike on What Comes Next",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=96IZdtX0N2s",
-      "thumbnail": "https://i.ytimg.com/vi/96IZdtX0N2s/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Securing AI at Scale: CoreWeave and CrowdStrike on What Comes Next",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "GgZnWDcDxvE",
-      "title": "Training Cognition SWE-1.7: Asynchronous RL at Global Scale",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=GgZnWDcDxvE",
-      "thumbnail": "https://i.ytimg.com/vi/GgZnWDcDxvE/mqdefault.jpg",
-      "published": "2026-10-07",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Training Cognition SWE-1.7: Asynchronous RL at Global Scale",
-      "topics": [
-        "Fine-tuning"
-      ]
-    },
-    {
-      "video_id": "FIOXn-oPvpA",
-      "title": "Building Reliable AI Infrastructure at Scale with Extreme Co-design",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=FIOXn-oPvpA",
-      "thumbnail": "https://i.ytimg.com/vi/FIOXn-oPvpA/mqdefault.jpg",
-      "published": "2026-10-07",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Building Reliable AI Infrastructure at Scale with Extreme Co-design",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "QzG7-2-b24g",
-      "title": "Scaling in the Agentic Era with NVIDIA Vera Rubin NVL72",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=QzG7-2-b24g",
-      "thumbnail": "https://i.ytimg.com/vi/QzG7-2-b24g/mqdefault.jpg",
-      "published": "2026-10-07",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Scaling in the Agentic Era with NVIDIA Vera Rubin NVL72",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "-AlMmbtrS30",
-      "title": "From World Models to Working Machines: Physical AI in the Real World",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=-AlMmbtrS30",
-      "thumbnail": "https://i.ytimg.com/vi/-AlMmbtrS30/mqdefault.jpg",
-      "published": "2026-10-07",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "From World Models to Working Machines: Physical AI in the Real World",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "Mva-kQayVck",
-      "title": "Fueling Innovation at Scale: Inside Pinterest’s Machine Learning Platform",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=Mva-kQayVck",
-      "thumbnail": "https://i.ytimg.com/vi/Mva-kQayVck/mqdefault.jpg",
-      "published": "2026-10-07",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Fueling Innovation at Scale: Inside Pinterest’s Machine Learning Platform",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "T3QiKNtUhKA",
-      "title": "Why Reflection AI Is Making the Open Intelligence Bet - and What It Means for Deploying Models",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=T3QiKNtUhKA",
-      "thumbnail": "https://i.ytimg.com/vi/T3QiKNtUhKA/mqdefault.jpg",
-      "published": "2026-10-07",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Why Reflection AI Is Making the Open Intelligence Bet - and What It Means for Deploying Models",
       "topics": [
         "General LLM"
       ]
