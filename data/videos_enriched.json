@@ -1,7 +1,54 @@
 {
-  "last_updated": "2026-10-09 12:21 UTC",
+  "last_updated": "2026-10-10 11:38 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "dmpmORvkI5g",
+      "title": "How MasterClass Builds Multi-Agent AI That Learners Can Trust",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=dmpmORvkI5g",
+      "thumbnail": "https://i.ytimg.com/vi/dmpmORvkI5g/mqdefault.jpg",
+      "published": "2026-10-09",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How MasterClass Builds Multi-Agent AI That Learners Can Trust",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "XhgkSk5DSJE",
+      "title": "Beyond Faster Simulation: Hitting NASA's 2030 CFD Benchmark and the Infrastructure for Physics AI",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=XhgkSk5DSJE",
+      "thumbnail": "https://i.ytimg.com/vi/XhgkSk5DSJE/mqdefault.jpg",
+      "published": "2026-10-09",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Beyond Faster Simulation: Hitting NASA's 2030 CFD Benchmark and the Infrastructure for Physics AI",
+      "topics": [
+        "Benchmarks"
+      ]
+    },
+    {
+      "video_id": "ObzZcszkdSs",
+      "title": "Post-Training at the Frontier: How You.com, NVIDIA, and CoreWeave Improved Nemotron’s Agentic Search",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=ObzZcszkdSs",
+      "thumbnail": "https://i.ytimg.com/vi/ObzZcszkdSs/mqdefault.jpg",
+      "published": "2026-10-09",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Post-Training at the Frontier: How You.com, NVIDIA, and CoreWeave Improved Nemotron’s Agentic Search",
+      "topics": [
+        "RAG",
+        "Agents",
+        "Fine-tuning"
+      ]
+    },
     {
       "video_id": "4lMSHFnPENM",
       "title": "How Standard Kernel uses compound AI systems to optimize code and extract maximum GPU performance",
@@ -46,98 +93,6 @@
       "summary": "How Cline Embraces an Open-Weights Model Ecosystem for AI Agents",
       "topics": [
         "Agents"
-      ]
-    },
-    {
-      "video_id": "guxXcUbKCac",
-      "title": "How Grammarly Scales Real-Time Inference with vLLM on CoreWeave",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=guxXcUbKCac",
-      "thumbnail": "https://i.ytimg.com/vi/guxXcUbKCac/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "How Grammarly Scales Real-Time Inference with vLLM on CoreWeave",
-      "topics": [
-        "Inference"
-      ]
-    },
-    {
-      "video_id": "68ooxSVEnLw",
-      "title": "Data Architecture for AI: From Training Pipelines to Agent Memory",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=68ooxSVEnLw",
-      "thumbnail": "https://i.ytimg.com/vi/68ooxSVEnLw/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Data Architecture for AI: From Training Pipelines to Agent Memory",
-      "topics": [
-        "Agents",
-        "Fine-tuning",
-        "Architecture"
-      ]
-    },
-    {
-      "video_id": "T3K5H77ad18",
-      "title": "NVIDIA Vera CPU: The Foundation for Agentic AI",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=T3K5H77ad18",
-      "thumbnail": "https://i.ytimg.com/vi/T3K5H77ad18/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "NVIDIA Vera CPU: The Foundation for Agentic AI",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "6G7akdS99KY",
-      "title": "Expanding AI: Near and Far",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=6G7akdS99KY",
-      "thumbnail": "https://i.ytimg.com/vi/6G7akdS99KY/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Expanding AI: Near and Far",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "nuWb9JB1Eyk",
-      "title": "Built Together: Inside the Dell + CoreWeave Engineering Partnership Powering Next-Gen AI",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=nuWb9JB1Eyk",
-      "thumbnail": "https://i.ytimg.com/vi/nuWb9JB1Eyk/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Built Together: Inside the Dell + CoreWeave Engineering Partnership Powering Next-Gen AI",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "VlLd3PsQ7fc",
-      "title": "AI Tokenomics Explained",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=VlLd3PsQ7fc",
-      "thumbnail": "https://i.ytimg.com/vi/VlLd3PsQ7fc/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Tokenomics Explained",
-      "topics": [
-        "General LLM"
       ]
     },
     {
@@ -348,21 +303,6 @@
       "summary": "How Physical AI Learns Across Language, Video and Action — Ming-Yu Liu",
       "topics": [
         "Multimodal"
-      ]
-    },
-    {
-      "video_id": "d1uja_aukM8",
-      "title": "Why Voice AI Still Needs a Screen | Pavan Muddireddy",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=d1uja_aukM8",
-      "thumbnail": "https://i.ytimg.com/vi/d1uja_aukM8/mqdefault.jpg",
-      "published": "2026-09-15",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Why Voice AI Still Needs a Screen | Pavan Muddireddy",
-      "topics": [
-        "General LLM"
       ]
     },
     {
