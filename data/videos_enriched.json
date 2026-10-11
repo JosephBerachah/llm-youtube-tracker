@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-10-10 11:38 UTC",
+  "last_updated": "2026-10-11 11:52 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "DVRMDoYhVBI",
+      "title": "AI Coding Is a Slot Machine: Loss Disguised as a Win | Jeremy Howard",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=DVRMDoYhVBI",
+      "thumbnail": "https://i.ytimg.com/vi/DVRMDoYhVBI/mqdefault.jpg",
+      "published": "2026-10-11",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Coding Is a Slot Machine: Loss Disguised as a Win | Jeremy Howard",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "dmpmORvkI5g",
       "title": "How MasterClass Builds Multi-Agent AI That Learners Can Trust",
@@ -91,6 +106,53 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "How Cline Embraces an Open-Weights Model Ecosystem for AI Agents",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "guxXcUbKCac",
+      "title": "How Grammarly Scales Real-Time Inference with vLLM on CoreWeave",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=guxXcUbKCac",
+      "thumbnail": "https://i.ytimg.com/vi/guxXcUbKCac/mqdefault.jpg",
+      "published": "2026-10-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How Grammarly Scales Real-Time Inference with vLLM on CoreWeave",
+      "topics": [
+        "Inference"
+      ]
+    },
+    {
+      "video_id": "68ooxSVEnLw",
+      "title": "Data Architecture for AI: From Training Pipelines to Agent Memory",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=68ooxSVEnLw",
+      "thumbnail": "https://i.ytimg.com/vi/68ooxSVEnLw/mqdefault.jpg",
+      "published": "2026-10-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Data Architecture for AI: From Training Pipelines to Agent Memory",
+      "topics": [
+        "Agents",
+        "Fine-tuning",
+        "Architecture"
+      ]
+    },
+    {
+      "video_id": "T3K5H77ad18",
+      "title": "NVIDIA Vera CPU: The Foundation for Agentic AI",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=T3K5H77ad18",
+      "thumbnail": "https://i.ytimg.com/vi/T3K5H77ad18/mqdefault.jpg",
+      "published": "2026-10-08",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "NVIDIA Vera CPU: The Foundation for Agentic AI",
       "topics": [
         "Agents"
       ]
@@ -288,21 +350,6 @@
       "summary": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
       "topics": [
         "RAG"
-      ]
-    },
-    {
-      "video_id": "L6tLBApQN-g",
-      "title": "How Physical AI Learns Across Language, Video and Action — Ming-Yu Liu",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=L6tLBApQN-g",
-      "thumbnail": "https://i.ytimg.com/vi/L6tLBApQN-g/mqdefault.jpg",
-      "published": "2026-09-15",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "How Physical AI Learns Across Language, Video and Action — Ming-Yu Liu",
-      "topics": [
-        "Multimodal"
       ]
     },
     {
