@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-12 13:57 UTC",
+  "last_updated": "2026-10-13 13:15 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "z_sXLlLVUls",
+      "title": "OpenAI Just Changed What It Means To Do Math",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+      "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/mqdefault.jpg",
+      "published": "2026-10-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "OpenAI Just Changed What It Means To Do Math",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "C4Sq3Rot8FU",
+      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "thumbnail": "https://i.ytimg.com/vi/C4Sq3Rot8FU/mqdefault.jpg",
+      "published": "2026-10-12",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "DVRMDoYhVBI",
       "title": "AI Coding Is a Slot Machine: Loss Disguised as a Win | Jeremy Howard",
@@ -518,21 +548,6 @@
       ]
     },
     {
-      "video_id": "kyYepbhe1g8",
-      "title": "DeepSeek Just Made Closed AI Look Ridiculous",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
-      "thumbnail": "https://i.ytimg.com/vi/kyYepbhe1g8/mqdefault.jpg",
-      "published": "2026-08-19",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "DeepSeek Just Made Closed AI Look Ridiculous",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "xGzseSSStnw",
       "title": "AI is getting a little out of control",
       "channel": "AI Explained",
@@ -648,21 +663,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "QVJcdfkRpH8",
-      "title": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
-      "thumbnail": "https://i.ytimg.com/vi/QVJcdfkRpH8/mqdefault.jpg",
-      "published": "2026-04-17",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Claude Opus 4.7 - A New Frontier, in Performance … and Drama",
       "topics": [
         "General LLM"
       ]
