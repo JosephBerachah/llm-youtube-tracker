@@ -1,10 +1,116 @@
 {
-  "last_updated": "2026-10-13 13:15 UTC",
+  "last_updated": "2026-10-14 10:55 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
+      "video_id": "FGCP2F_7rQk",
+      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+      "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/mqdefault.jpg",
+      "published": "2026-10-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "JY4dgvc0hfA",
+      "title": "Automating document work with Long-Horizon AI Agents at LlamaIndex",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=JY4dgvc0hfA",
+      "thumbnail": "https://i.ytimg.com/vi/JY4dgvc0hfA/mqdefault.jpg",
+      "published": "2026-10-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Automating document work with Long-Horizon AI Agents at LlamaIndex",
+      "topics": [
+        "Agents",
+        "Open Source"
+      ]
+    },
+    {
+      "video_id": "Heh03F9qYhs",
+      "title": "Beyond the Harness: How LiquidAI Is solving the real frontier problems in on-device Agents",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=Heh03F9qYhs",
+      "thumbnail": "https://i.ytimg.com/vi/Heh03F9qYhs/mqdefault.jpg",
+      "published": "2026-10-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Beyond the Harness: How LiquidAI Is solving the real frontier problems in on-device Agents",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "nG08FxMOrnU",
+      "title": "Scaling in the Agentic Era with NVIDIA Vera Rubin NVL72",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=nG08FxMOrnU",
+      "thumbnail": "https://i.ytimg.com/vi/nG08FxMOrnU/mqdefault.jpg",
+      "published": "2026-10-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Scaling in the Agentic Era with NVIDIA Vera Rubin NVL72",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "dTDFuDqJTvc",
+      "title": "Why Reflection AI is making the Open Intelligence bet",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=dTDFuDqJTvc",
+      "thumbnail": "https://i.ytimg.com/vi/dTDFuDqJTvc/mqdefault.jpg",
+      "published": "2026-10-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Why Reflection AI is making the Open Intelligence bet",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "N-JT-xyVbQ8",
+      "title": "Securing AI at Scale with CrowdStrike",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=N-JT-xyVbQ8",
+      "thumbnail": "https://i.ytimg.com/vi/N-JT-xyVbQ8/mqdefault.jpg",
+      "published": "2026-10-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Securing AI at Scale with CrowdStrike",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "vOhl0uwpBgc",
+      "title": "Inside the Dell + CoreWeave engineering partnership powering next-Gen AI",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=vOhl0uwpBgc",
+      "thumbnail": "https://i.ytimg.com/vi/vOhl0uwpBgc/mqdefault.jpg",
+      "published": "2026-10-13",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Inside the Dell + CoreWeave engineering partnership powering next-Gen AI",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
       "video_id": "z_sXLlLVUls",
-      "title": "OpenAI Just Changed What It Means To Do Math",
+      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
       "thumbnail": "https://i.ytimg.com/vi/z_sXLlLVUls/mqdefault.jpg",
@@ -12,7 +118,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "OpenAI Just Changed What It Means To Do Math",
+      "summary": "OpenAI’s New AI Is Doing Things We Barely Understand",
       "topics": [
         "General LLM"
       ]
@@ -60,146 +166,6 @@
       "summary": "DeepSeek Solved AI’s Memory Problem",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "dmpmORvkI5g",
-      "title": "How MasterClass Builds Multi-Agent AI That Learners Can Trust",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=dmpmORvkI5g",
-      "thumbnail": "https://i.ytimg.com/vi/dmpmORvkI5g/mqdefault.jpg",
-      "published": "2026-10-09",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "How MasterClass Builds Multi-Agent AI That Learners Can Trust",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "XhgkSk5DSJE",
-      "title": "Beyond Faster Simulation: Hitting NASA's 2030 CFD Benchmark and the Infrastructure for Physics AI",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=XhgkSk5DSJE",
-      "thumbnail": "https://i.ytimg.com/vi/XhgkSk5DSJE/mqdefault.jpg",
-      "published": "2026-10-09",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Beyond Faster Simulation: Hitting NASA's 2030 CFD Benchmark and the Infrastructure for Physics AI",
-      "topics": [
-        "Benchmarks"
-      ]
-    },
-    {
-      "video_id": "ObzZcszkdSs",
-      "title": "Post-Training at the Frontier: How You.com, NVIDIA, and CoreWeave Improved Nemotron’s Agentic Search",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=ObzZcszkdSs",
-      "thumbnail": "https://i.ytimg.com/vi/ObzZcszkdSs/mqdefault.jpg",
-      "published": "2026-10-09",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Post-Training at the Frontier: How You.com, NVIDIA, and CoreWeave Improved Nemotron’s Agentic Search",
-      "topics": [
-        "RAG",
-        "Agents",
-        "Fine-tuning"
-      ]
-    },
-    {
-      "video_id": "4lMSHFnPENM",
-      "title": "How Standard Kernel uses compound AI systems to optimize code and extract maximum GPU performance",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=4lMSHFnPENM",
-      "thumbnail": "https://i.ytimg.com/vi/4lMSHFnPENM/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "How Standard Kernel uses compound AI systems to optimize code and extract maximum GPU performance",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "rMNgd1AERm4",
-      "title": "Beyond the Benchmark: How Parallel Web Systems Builds Reliable Web Agents",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=rMNgd1AERm4",
-      "thumbnail": "https://i.ytimg.com/vi/rMNgd1AERm4/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Beyond the Benchmark: How Parallel Web Systems Builds Reliable Web Agents",
-      "topics": [
-        "Agents",
-        "Benchmarks"
-      ]
-    },
-    {
-      "video_id": "WIeUsZncpto",
-      "title": "How Cline Embraces an Open-Weights Model Ecosystem for AI Agents",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=WIeUsZncpto",
-      "thumbnail": "https://i.ytimg.com/vi/WIeUsZncpto/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "How Cline Embraces an Open-Weights Model Ecosystem for AI Agents",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "guxXcUbKCac",
-      "title": "How Grammarly Scales Real-Time Inference with vLLM on CoreWeave",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=guxXcUbKCac",
-      "thumbnail": "https://i.ytimg.com/vi/guxXcUbKCac/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "How Grammarly Scales Real-Time Inference with vLLM on CoreWeave",
-      "topics": [
-        "Inference"
-      ]
-    },
-    {
-      "video_id": "68ooxSVEnLw",
-      "title": "Data Architecture for AI: From Training Pipelines to Agent Memory",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=68ooxSVEnLw",
-      "thumbnail": "https://i.ytimg.com/vi/68ooxSVEnLw/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Data Architecture for AI: From Training Pipelines to Agent Memory",
-      "topics": [
-        "Agents",
-        "Fine-tuning",
-        "Architecture"
-      ]
-    },
-    {
-      "video_id": "T3K5H77ad18",
-      "title": "NVIDIA Vera CPU: The Foundation for Agentic AI",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=T3K5H77ad18",
-      "thumbnail": "https://i.ytimg.com/vi/T3K5H77ad18/mqdefault.jpg",
-      "published": "2026-10-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "NVIDIA Vera CPU: The Foundation for Agentic AI",
-      "topics": [
-        "Agents"
       ]
     },
     {
@@ -753,21 +719,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "EV7WhVT270Q",
-      "title": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=EV7WhVT270Q",
-      "thumbnail": "https://i.ytimg.com/vi/EV7WhVT270Q/mqdefault.jpg",
-      "published": "2026-01-31",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast #490",
       "topics": [
         "Agents"
       ]
