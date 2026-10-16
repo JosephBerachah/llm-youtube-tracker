@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-15 10:37 UTC",
+  "last_updated": "2026-10-16 10:24 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "MKEaHFtrjuw",
+      "title": "One Cloud, Built End to End for Production AI",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=MKEaHFtrjuw",
+      "thumbnail": "https://i.ytimg.com/vi/MKEaHFtrjuw/mqdefault.jpg",
+      "published": "2026-10-15",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "One Cloud, Built End to End for Production AI",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "uHf-gKuyp_w",
+      "title": "Fully Connected 2026 Day 2: Mike Intrator on Hot Ones, Parag Agrawal, Dylan Patel, and Jenson Button",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=uHf-gKuyp_w",
+      "thumbnail": "https://i.ytimg.com/vi/uHf-gKuyp_w/mqdefault.jpg",
+      "published": "2026-10-15",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Fully Connected 2026 Day 2: Mike Intrator on Hot Ones, Parag Agrawal, Dylan Patel, and Jenson Button",
+      "topics": [
+        "RAG"
+      ]
+    },
     {
       "video_id": "FGCP2F_7rQk",
       "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
@@ -49,23 +79,8 @@
       ]
     },
     {
-      "video_id": "nG08FxMOrnU",
-      "title": "Scaling in the Agentic Era with NVIDIA Vera Rubin NVL72",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=nG08FxMOrnU",
-      "thumbnail": "https://i.ytimg.com/vi/nG08FxMOrnU/mqdefault.jpg",
-      "published": "2026-10-13",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Scaling in the Agentic Era with NVIDIA Vera Rubin NVL72",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
       "video_id": "dTDFuDqJTvc",
-      "title": "Why Reflection AI is making the Open Intelligence bet",
+      "title": "AI Safety Is Now Existential, and Open Source Must Own It",
       "channel": "Weights & Biases",
       "url": "https://www.youtube.com/watch?v=dTDFuDqJTvc",
       "thumbnail": "https://i.ytimg.com/vi/dTDFuDqJTvc/mqdefault.jpg",
@@ -73,14 +88,15 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Why Reflection AI is making the Open Intelligence bet",
+      "summary": "AI Safety Is Now Existential, and Open Source Must Own It",
       "topics": [
-        "General LLM"
+        "Safety",
+        "Open Source"
       ]
     },
     {
       "video_id": "N-JT-xyVbQ8",
-      "title": "Securing AI at Scale with CrowdStrike",
+      "title": "AI Security Has No Magic, Only Layers",
       "channel": "Weights & Biases",
       "url": "https://www.youtube.com/watch?v=N-JT-xyVbQ8",
       "thumbnail": "https://i.ytimg.com/vi/N-JT-xyVbQ8/mqdefault.jpg",
@@ -88,24 +104,9 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Securing AI at Scale with CrowdStrike",
+      "summary": "AI Security Has No Magic, Only Layers",
       "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "vOhl0uwpBgc",
-      "title": "Inside the Dell + CoreWeave engineering partnership powering next-Gen AI",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=vOhl0uwpBgc",
-      "thumbnail": "https://i.ytimg.com/vi/vOhl0uwpBgc/mqdefault.jpg",
-      "published": "2026-10-13",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Inside the Dell + CoreWeave engineering partnership powering next-Gen AI",
-      "topics": [
-        "General LLM"
+        "Architecture"
       ]
     },
     {
