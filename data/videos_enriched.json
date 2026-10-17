@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-10-16 10:24 UTC",
+  "last_updated": "2026-10-17 09:57 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "BmukOP97iys",
+      "title": "Parag Agrawal: The Web Is Moving From Pull to Push",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=BmukOP97iys",
+      "thumbnail": "https://i.ytimg.com/vi/BmukOP97iys/mqdefault.jpg",
+      "published": "2026-10-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Parag Agrawal: The Web Is Moving From Pull to Push",
+      "topics": [
+        "RAG"
+      ]
+    },
+    {
+      "video_id": "3AqAP_ICUY0",
+      "title": "Every F1 Car Is Becoming an AI Car",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=3AqAP_ICUY0",
+      "thumbnail": "https://i.ytimg.com/vi/3AqAP_ICUY0/mqdefault.jpg",
+      "published": "2026-10-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Every F1 Car Is Becoming an AI Car",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "FKVE5PrYabo",
+      "title": "The Next Wave of AI Businesses Hasn't Been Invented Yet",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=FKVE5PrYabo",
+      "thumbnail": "https://i.ytimg.com/vi/FKVE5PrYabo/mqdefault.jpg",
+      "published": "2026-10-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Next Wave of AI Businesses Hasn't Been Invented Yet",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "MKEaHFtrjuw",
       "title": "One Cloud, Built End to End for Production AI",
