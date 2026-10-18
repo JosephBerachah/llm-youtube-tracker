@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-10-17 09:57 UTC",
+  "last_updated": "2026-10-18 10:09 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "j5ULZ-mFXAE",
+      "title": "How Do You Actually Get AI Compute? Dylan Patel Asks",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=j5ULZ-mFXAE",
+      "thumbnail": "https://i.ytimg.com/vi/j5ULZ-mFXAE/mqdefault.jpg",
+      "published": "2026-10-17",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How Do You Actually Get AI Compute? Dylan Patel Asks",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "BmukOP97iys",
       "title": "Parag Agrawal: The Web Is Moving From Pull to Push",
@@ -121,37 +136,6 @@
       "summary": "Beyond the Harness: How LiquidAI Is solving the real frontier problems in on-device Agents",
       "topics": [
         "Agents"
-      ]
-    },
-    {
-      "video_id": "dTDFuDqJTvc",
-      "title": "AI Safety Is Now Existential, and Open Source Must Own It",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=dTDFuDqJTvc",
-      "thumbnail": "https://i.ytimg.com/vi/dTDFuDqJTvc/mqdefault.jpg",
-      "published": "2026-10-13",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Safety Is Now Existential, and Open Source Must Own It",
-      "topics": [
-        "Safety",
-        "Open Source"
-      ]
-    },
-    {
-      "video_id": "N-JT-xyVbQ8",
-      "title": "AI Security Has No Magic, Only Layers",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=N-JT-xyVbQ8",
-      "thumbnail": "https://i.ytimg.com/vi/N-JT-xyVbQ8/mqdefault.jpg",
-      "published": "2026-10-13",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Security Has No Magic, Only Layers",
-      "topics": [
-        "Architecture"
       ]
     },
     {
