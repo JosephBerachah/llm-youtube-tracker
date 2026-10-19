@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-18 10:09 UTC",
+  "last_updated": "2026-10-19 11:38 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "LWxX6vvHfrc",
+      "title": "Gemini 4 Argon Really Surprised Me",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/mqdefault.jpg",
+      "published": "2026-10-19",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Gemini 4 Argon Really Surprised Me",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "-_1IlMuvFdw",
+      "title": "AI Can Be a True Equalizer: Firebird's Bottom-Up Bet in Armenia",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=-_1IlMuvFdw",
+      "thumbnail": "https://i.ytimg.com/vi/-_1IlMuvFdw/mqdefault.jpg",
+      "published": "2026-10-18",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Can Be a True Equalizer: Firebird's Bottom-Up Bet in Armenia",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "j5ULZ-mFXAE",
       "title": "How Do You Actually Get AI Compute? Dylan Patel Asks",
@@ -121,21 +151,6 @@
       "topics": [
         "Agents",
         "Open Source"
-      ]
-    },
-    {
-      "video_id": "Heh03F9qYhs",
-      "title": "Beyond the Harness: How LiquidAI Is solving the real frontier problems in on-device Agents",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=Heh03F9qYhs",
-      "thumbnail": "https://i.ytimg.com/vi/Heh03F9qYhs/mqdefault.jpg",
-      "published": "2026-10-13",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Beyond the Harness: How LiquidAI Is solving the real frontier problems in on-device Agents",
-      "topics": [
-        "Agents"
       ]
     },
     {
@@ -524,21 +539,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "DeepSeek’s New AI System Shouldn’t Be Possible",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "wMl6c_r0ubw",
-      "title": "This Small AI Will Change Everything",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
-      "thumbnail": "https://i.ytimg.com/vi/wMl6c_r0ubw/mqdefault.jpg",
-      "published": "2026-08-24",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "This Small AI Will Change Everything",
       "topics": [
         "General LLM"
       ]
