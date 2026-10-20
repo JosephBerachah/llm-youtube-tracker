@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-19 11:38 UTC",
+  "last_updated": "2026-10-20 10:43 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
       "video_id": "LWxX6vvHfrc",
-      "title": "Gemini 4 Argon Really Surprised Me",
+      "title": "Gemini 4 Argon Is Not What I Expected",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
       "thumbnail": "https://i.ytimg.com/vi/LWxX6vvHfrc/mqdefault.jpg",
@@ -12,7 +12,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Gemini 4 Argon Really Surprised Me",
+      "summary": "Gemini 4 Argon Is Not What I Expected",
       "topics": [
         "General LLM"
       ]
@@ -135,22 +135,6 @@
       "summary": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "JY4dgvc0hfA",
-      "title": "Automating document work with Long-Horizon AI Agents at LlamaIndex",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=JY4dgvc0hfA",
-      "thumbnail": "https://i.ytimg.com/vi/JY4dgvc0hfA/mqdefault.jpg",
-      "published": "2026-10-13",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Automating document work with Long-Horizon AI Agents at LlamaIndex",
-      "topics": [
-        "Agents",
-        "Open Source"
       ]
     },
     {
