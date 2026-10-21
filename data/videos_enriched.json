@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-20 10:43 UTC",
+  "last_updated": "2026-10-21 10:54 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "wlG2PNHtcaI",
+      "title": "AI Just Turned 100-Year Math Problems Into Hours of Work",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=wlG2PNHtcaI",
+      "thumbnail": "https://i.ytimg.com/vi/wlG2PNHtcaI/mqdefault.jpg",
+      "published": "2026-10-20",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Just Turned 100-Year Math Problems Into Hours of Work",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "lkQuBRWnOaA",
+      "title": "\"The Pace Has Been Relentless\": CoreWeave's CEO on AI Speed",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=lkQuBRWnOaA",
+      "thumbnail": "https://i.ytimg.com/vi/lkQuBRWnOaA/mqdefault.jpg",
+      "published": "2026-10-20",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "\"The Pace Has Been Relentless\": CoreWeave's CEO on AI Speed",
+      "topics": [
+        "Inference"
+      ]
+    },
     {
       "video_id": "LWxX6vvHfrc",
       "title": "Gemini 4 Argon Is Not What I Expected",
@@ -105,21 +135,6 @@
       "summary": "One Cloud, Built End to End for Production AI",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "uHf-gKuyp_w",
-      "title": "Fully Connected 2026 Day 2: Mike Intrator on Hot Ones, Parag Agrawal, Dylan Patel, and Jenson Button",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=uHf-gKuyp_w",
-      "thumbnail": "https://i.ytimg.com/vi/uHf-gKuyp_w/mqdefault.jpg",
-      "published": "2026-10-15",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Fully Connected 2026 Day 2: Mike Intrator on Hot Ones, Parag Agrawal, Dylan Patel, and Jenson Button",
-      "topics": [
-        "RAG"
       ]
     },
     {
