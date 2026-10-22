@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21 10:54 UTC",
+  "last_updated": "2026-10-22 10:54 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -103,36 +103,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Every F1 Car Is Becoming an AI Car",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "FKVE5PrYabo",
-      "title": "The Next Wave of AI Businesses Hasn't Been Invented Yet",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=FKVE5PrYabo",
-      "thumbnail": "https://i.ytimg.com/vi/FKVE5PrYabo/mqdefault.jpg",
-      "published": "2026-10-16",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The Next Wave of AI Businesses Hasn't Been Invented Yet",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "MKEaHFtrjuw",
-      "title": "One Cloud, Built End to End for Production AI",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=MKEaHFtrjuw",
-      "thumbnail": "https://i.ytimg.com/vi/MKEaHFtrjuw/mqdefault.jpg",
-      "published": "2026-10-15",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "One Cloud, Built End to End for Production AI",
       "topics": [
         "General LLM"
       ]
@@ -656,10 +626,15 @@
       "published": "2026-04-24",
       "views": "N/A",
       "transcript": null,
-      "transcript_source": "none",
-      "summary": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "transcript_source": "yt-dlp",
+      "summary": "In the last 20 hours in AI, we have gotten two new models that could influence how a billion people use AI. In my mind, GPT-5.5 is OpenAI's all-out attempt to keep the AI crown from slipping to Anthro",
       "topics": [
-        "General LLM"
+        "RAG",
+        "Agents",
+        "Benchmarks",
+        "Multimodal",
+        "Inference",
+        "Reasoning"
       ]
     },
     {
