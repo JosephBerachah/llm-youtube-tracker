@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-22 10:54 UTC",
+  "last_updated": "2026-10-23 10:46 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "qCvTEzQ86Gc",
+      "title": "Introducing CoreWeave Physical AI Launchables",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=qCvTEzQ86Gc",
+      "thumbnail": "https://i.ytimg.com/vi/qCvTEzQ86Gc/mqdefault.jpg",
+      "published": "2026-10-22",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Introducing CoreWeave Physical AI Launchables",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "tEYA-M30u0E",
+      "title": "AI Can Now Predict 85%+ of What You’ll Do Next | Simile Co-founder & CEO, Joon Sung Park",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=tEYA-M30u0E",
+      "thumbnail": "https://i.ytimg.com/vi/tEYA-M30u0E/mqdefault.jpg",
+      "published": "2026-10-22",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Can Now Predict 85%+ of What You’ll Do Next | Simile Co-founder & CEO, Joon Sung Park",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "wlG2PNHtcaI",
       "title": "AI Just Turned 100-Year Math Problems Into Hours of Work",
@@ -90,21 +120,6 @@
       "summary": "Parag Agrawal: The Web Is Moving From Pull to Push",
       "topics": [
         "RAG"
-      ]
-    },
-    {
-      "video_id": "3AqAP_ICUY0",
-      "title": "Every F1 Car Is Becoming an AI Car",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=3AqAP_ICUY0",
-      "thumbnail": "https://i.ytimg.com/vi/3AqAP_ICUY0/mqdefault.jpg",
-      "published": "2026-10-16",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Every F1 Car Is Becoming an AI Car",
-      "topics": [
-        "General LLM"
       ]
     },
     {
