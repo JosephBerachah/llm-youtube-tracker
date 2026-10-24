@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-10-23 10:46 UTC",
+  "last_updated": "2026-10-24 10:02 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "z8lBbtEqbL0",
+      "title": "CoreWeave Agent Lens: Intelligent agent observability at enterprise scale",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=z8lBbtEqbL0",
+      "thumbnail": "https://i.ytimg.com/vi/z8lBbtEqbL0/mqdefault.jpg",
+      "published": "2026-10-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave Agent Lens: Intelligent agent observability at enterprise scale",
+      "topics": [
+        "Agents"
+      ]
+    },
     {
       "video_id": "qCvTEzQ86Gc",
       "title": "Introducing CoreWeave Physical AI Launchables",
@@ -90,36 +105,6 @@
       "summary": "AI Can Be a True Equalizer: Firebird's Bottom-Up Bet in Armenia",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "j5ULZ-mFXAE",
-      "title": "How Do You Actually Get AI Compute? Dylan Patel Asks",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=j5ULZ-mFXAE",
-      "thumbnail": "https://i.ytimg.com/vi/j5ULZ-mFXAE/mqdefault.jpg",
-      "published": "2026-10-17",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "How Do You Actually Get AI Compute? Dylan Patel Asks",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "BmukOP97iys",
-      "title": "Parag Agrawal: The Web Is Moving From Pull to Push",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=BmukOP97iys",
-      "thumbnail": "https://i.ytimg.com/vi/BmukOP97iys/mqdefault.jpg",
-      "published": "2026-10-16",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Parag Agrawal: The Web Is Moving From Pull to Push",
-      "topics": [
-        "RAG"
       ]
     },
     {
