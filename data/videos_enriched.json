@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25 10:27 UTC",
+  "last_updated": "2026-10-26 11:56 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -109,7 +109,7 @@
     },
     {
       "video_id": "FGCP2F_7rQk",
-      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "title": "The FULL Taiwan Experience w/ Jensen Huang | Lex Fridman",
       "channel": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/mqdefault.jpg",
@@ -117,7 +117,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "summary": "The FULL Taiwan Experience w/ Jensen Huang | Lex Fridman",
       "topics": [
         "General LLM"
       ]
