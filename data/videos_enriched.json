@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-10-26 11:56 UTC",
+  "last_updated": "2026-10-27 11:19 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "ZAzWPE9CItg",
+      "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=ZAzWPE9CItg",
+      "thumbnail": "https://i.ytimg.com/vi/ZAzWPE9CItg/mqdefault.jpg",
+      "published": "2026-10-26",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "z8lBbtEqbL0",
       "title": "CoreWeave Agent Lens: Intelligent agent observability at enterprise scale",
@@ -93,23 +108,8 @@
       ]
     },
     {
-      "video_id": "-_1IlMuvFdw",
-      "title": "AI Can Be a True Equalizer: Firebird's Bottom-Up Bet in Armenia",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=-_1IlMuvFdw",
-      "thumbnail": "https://i.ytimg.com/vi/-_1IlMuvFdw/mqdefault.jpg",
-      "published": "2026-10-18",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Can Be a True Equalizer: Firebird's Bottom-Up Bet in Armenia",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "FGCP2F_7rQk",
-      "title": "The FULL Taiwan Experience w/ Jensen Huang | Lex Fridman",
+      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
       "channel": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/mqdefault.jpg",
@@ -117,7 +117,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "The FULL Taiwan Experience w/ Jensen Huang | Lex Fridman",
+      "summary": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
       "topics": [
         "General LLM"
       ]
@@ -710,21 +710,6 @@
       "summary": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
       "topics": [
         "Fine-tuning"
-      ]
-    },
-    {
-      "video_id": "YFjfBk8HI5o",
-      "title": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=YFjfBk8HI5o",
-      "thumbnail": "https://i.ytimg.com/vi/YFjfBk8HI5o/mqdefault.jpg",
-      "published": "2026-02-12",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "OpenClaw: The Viral AI Agent that Broke the Internet - Peter Steinberger | Lex Fridman Podcast #491",
-      "topics": [
-        "Agents"
       ]
     },
     {
