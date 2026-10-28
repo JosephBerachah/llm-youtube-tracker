@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-10-27 11:19 UTC",
+  "last_updated": "2026-10-28 11:53 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "unwUjyA52tM",
+      "title": "The Trojan Horse in AI-Written Mathematics",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=unwUjyA52tM",
+      "thumbnail": "https://i.ytimg.com/vi/unwUjyA52tM/mqdefault.jpg",
+      "published": "2026-10-27",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Trojan Horse in AI-Written Mathematics",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "ZAzWPE9CItg",
       "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
@@ -258,36 +273,6 @@
       ]
     },
     {
-      "video_id": "tQ3nMI-anxU",
-      "title": "Why Deep Learning Failed on Tables for a Decade - Frank Hutter",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=tQ3nMI-anxU",
-      "thumbnail": "https://i.ytimg.com/vi/tQ3nMI-anxU/mqdefault.jpg",
-      "published": "2026-09-29",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Why Deep Learning Failed on Tables for a Decade - Frank Hutter",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "yB6_iFGTq9k",
-      "title": "Can Rewriting an AI Agent Bend the Intelligence Curve? - Zhengyao Jiang",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=yB6_iFGTq9k",
-      "thumbnail": "https://i.ytimg.com/vi/yB6_iFGTq9k/mqdefault.jpg",
-      "published": "2026-09-26",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Can Rewriting an AI Agent Bend the Intelligence Curve? - Zhengyao Jiang",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
       "video_id": "R9momwXV9w4",
       "title": "Opus 5.5: How Close Are We to Automated AI Research?",
       "channel": "AI Explained",
@@ -313,21 +298,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "72Im-Mm5JKs",
-      "title": "The AI That Replaces Hours of Model Tuning - Frank Hutter",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=72Im-Mm5JKs",
-      "thumbnail": "https://i.ytimg.com/vi/72Im-Mm5JKs/mqdefault.jpg",
-      "published": "2026-09-23",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The AI That Replaces Hours of Model Tuning - Frank Hutter",
       "topics": [
         "General LLM"
       ]
