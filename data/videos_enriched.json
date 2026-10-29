@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-28 11:53 UTC",
+  "last_updated": "2026-10-29 12:01 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "eFTsJ413h7I",
+      "title": "Beating ChatGPT and Claude at Predicting People",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=eFTsJ413h7I",
+      "thumbnail": "https://i.ytimg.com/vi/eFTsJ413h7I/mqdefault.jpg",
+      "published": "2026-10-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Beating ChatGPT and Claude at Predicting People",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "pryCaGv8wuo",
+      "title": "DeepSeek's New AI Is An Absolute Monster",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+      "thumbnail": "https://i.ytimg.com/vi/pryCaGv8wuo/mqdefault.jpg",
+      "published": "2026-10-28",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "DeepSeek's New AI Is An Absolute Monster",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "unwUjyA52tM",
       "title": "The Trojan Horse in AI-Written Mathematics",
@@ -124,7 +154,7 @@
     },
     {
       "video_id": "FGCP2F_7rQk",
-      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
+      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
       "channel": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/mqdefault.jpg",
@@ -132,7 +162,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
+      "summary": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
       "topics": [
         "General LLM"
       ]
@@ -465,21 +495,6 @@
       "summary": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
       "topics": [
         "Agents"
-      ]
-    },
-    {
-      "video_id": "L9mMfAFwbl4",
-      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
-      "thumbnail": "https://i.ytimg.com/vi/L9mMfAFwbl4/mqdefault.jpg",
-      "published": "2026-08-26",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "DeepSeek’s New AI System Shouldn’t Be Possible",
-      "topics": [
-        "General LLM"
       ]
     },
     {
