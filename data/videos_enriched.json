@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29 12:01 UTC",
+  "last_updated": "2026-10-30 11:55 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -154,7 +154,7 @@
     },
     {
       "video_id": "FGCP2F_7rQk",
-      "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
       "channel": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/mqdefault.jpg",
@@ -162,7 +162,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "summary": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
       "topics": [
         "General LLM"
       ]
