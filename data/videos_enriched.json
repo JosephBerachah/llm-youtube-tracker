@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-30 11:55 UTC",
+  "last_updated": "2026-10-31 11:28 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "kwG5RIg1s98",
+      "title": "AI Simulation Is One Point From Human Parity",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=kwG5RIg1s98",
+      "thumbnail": "https://i.ytimg.com/vi/kwG5RIg1s98/mqdefault.jpg",
+      "published": "2026-10-30",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Simulation Is One Point From Human Parity",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "CWdTBLsbaQs",
+      "title": "OpenAI Claims It Just Did The Impossible",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+      "thumbnail": "https://i.ytimg.com/vi/CWdTBLsbaQs/mqdefault.jpg",
+      "published": "2026-10-30",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "OpenAI Claims It Just Did The Impossible",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "eFTsJ413h7I",
       "title": "Beating ChatGPT and Claude at Predicting People",
@@ -448,21 +478,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "GLM 5.3: Powerful AI Is Becoming Almost Free",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "LBiNcdGNgrg",
-      "title": "The Billion Dollar AI Gap Is Collapsing",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-      "thumbnail": "https://i.ytimg.com/vi/LBiNcdGNgrg/mqdefault.jpg",
-      "published": "2026-08-28",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The Billion Dollar AI Gap Is Collapsing",
       "topics": [
         "General LLM"
       ]
