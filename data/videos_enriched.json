@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-11-02 14:17 UTC",
+  "last_updated": "2026-11-03 13:19 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "0Kw6_DTZPrY",
+      "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+      "thumbnail": "https://i.ytimg.com/vi/0Kw6_DTZPrY/mqdefault.jpg",
+      "published": "2026-11-02",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "kwG5RIg1s98",
       "title": "AI Simulation Is One Point From Human Parity",
@@ -615,26 +630,6 @@
       "summary": "New Claude Opus 4.8: 15 Things You May’ve Missed",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "jz0rNhfAKo8",
-      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
-      "thumbnail": "https://i.ytimg.com/vi/jz0rNhfAKo8/mqdefault.jpg",
-      "published": "2026-04-24",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "In the last 20 hours in AI, we have gotten two new models that could influence how a billion people use AI. In my mind, GPT-5.5 is OpenAI's all-out attempt to keep the AI crown from slipping to Anthro",
-      "topics": [
-        "RAG",
-        "Agents",
-        "Benchmarks",
-        "Multimodal",
-        "Inference",
-        "Reasoning"
       ]
     },
     {
