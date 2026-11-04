@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-11-03 13:19 UTC",
+  "last_updated": "2026-11-04 13:32 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "Ev9ttz0DyME",
+      "title": "AI Innovators in Action: Mistral AI x CoreWeave",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=Ev9ttz0DyME",
+      "thumbnail": "https://i.ytimg.com/vi/Ev9ttz0DyME/mqdefault.jpg",
+      "published": "2026-11-03",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Innovators in Action: Mistral AI x CoreWeave",
+      "topics": [
+        "Open Source"
+      ]
+    },
     {
       "video_id": "0Kw6_DTZPrY",
       "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
@@ -315,36 +330,6 @@
       "summary": "OpenAI Security: Controlling Models is Now ‘Hell’",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "MVRb03jb6Wg",
-      "title": "The most natural voice agent was a French voice speaking English",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=MVRb03jb6Wg",
-      "thumbnail": "https://i.ytimg.com/vi/MVRb03jb6Wg/mqdefault.jpg",
-      "published": "2026-10-01",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The most natural voice agent was a French voice speaking English",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "VoAPg8Fj6-c",
-      "title": "How a Voice Agent Learns the Rhythm of Conversation — Shawn Wen",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=VoAPg8Fj6-c",
-      "thumbnail": "https://i.ytimg.com/vi/VoAPg8Fj6-c/mqdefault.jpg",
-      "published": "2026-10-01",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "How a Voice Agent Learns the Rhythm of Conversation — Shawn Wen",
-      "topics": [
-        "Agents"
       ]
     },
     {
