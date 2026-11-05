@@ -1,7 +1,38 @@
 {
-  "last_updated": "2026-11-04 13:32 UTC",
+  "last_updated": "2026-11-05 13:46 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "YmhPkT8CyRQ",
+      "title": "Inference Optimization with CoreWeave Mission Control Agent",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=YmhPkT8CyRQ",
+      "thumbnail": "https://i.ytimg.com/vi/YmhPkT8CyRQ/mqdefault.jpg",
+      "published": "2026-11-04",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Inference Optimization with CoreWeave Mission Control Agent",
+      "topics": [
+        "Agents",
+        "Inference"
+      ]
+    },
+    {
+      "video_id": "IumZxFbwQ3E",
+      "title": "How Rime Trains Voice AI Faster with CoreWeave",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=IumZxFbwQ3E",
+      "thumbnail": "https://i.ytimg.com/vi/IumZxFbwQ3E/mqdefault.jpg",
+      "published": "2026-11-04",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "How Rime Trains Voice AI Faster with CoreWeave",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "Ev9ttz0DyME",
       "title": "AI Innovators in Action: Mistral AI x CoreWeave",
