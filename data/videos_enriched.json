@@ -1,20 +1,49 @@
 {
-  "last_updated": "2026-11-05 13:46 UTC",
+  "last_updated": "2026-11-06 13:30 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
-      "video_id": "YmhPkT8CyRQ",
-      "title": "Inference Optimization with CoreWeave Mission Control Agent",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=YmhPkT8CyRQ",
-      "thumbnail": "https://i.ytimg.com/vi/YmhPkT8CyRQ/mqdefault.jpg",
-      "published": "2026-11-04",
+      "video_id": "XgC1QTs6A2U",
+      "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+      "thumbnail": "https://i.ytimg.com/vi/XgC1QTs6A2U/mqdefault.jpg",
+      "published": "2026-11-06",
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Inference Optimization with CoreWeave Mission Control Agent",
+      "summary": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
       "topics": [
-        "Agents",
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "aj-Yene1dyM",
+      "title": "CoreWeave Registry: The System of Record for Enterprise AI Assets",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=aj-Yene1dyM",
+      "thumbnail": "https://i.ytimg.com/vi/aj-Yene1dyM/mqdefault.jpg",
+      "published": "2026-11-05",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave Registry: The System of Record for Enterprise AI Assets",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "nsRbSIc4X38",
+      "title": "Using CoreWeave Mission Control to Diagnose and Fix Slow Inference",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=nsRbSIc4X38",
+      "thumbnail": "https://i.ytimg.com/vi/nsRbSIc4X38/mqdefault.jpg",
+      "published": "2026-11-05",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Using CoreWeave Mission Control to Diagnose and Fix Slow Inference",
+      "topics": [
         "Inference"
       ]
     },
@@ -196,36 +225,6 @@
       "summary": "AI Can Now Predict 85%+ of What You’ll Do Next | Simile Co-founder & CEO, Joon Sung Park",
       "topics": [
         "General LLM"
-      ]
-    },
-    {
-      "video_id": "wlG2PNHtcaI",
-      "title": "AI Just Turned 100-Year Math Problems Into Hours of Work",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=wlG2PNHtcaI",
-      "thumbnail": "https://i.ytimg.com/vi/wlG2PNHtcaI/mqdefault.jpg",
-      "published": "2026-10-20",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Just Turned 100-Year Math Problems Into Hours of Work",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "lkQuBRWnOaA",
-      "title": "\"The Pace Has Been Relentless\": CoreWeave's CEO on AI Speed",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=lkQuBRWnOaA",
-      "thumbnail": "https://i.ytimg.com/vi/lkQuBRWnOaA/mqdefault.jpg",
-      "published": "2026-10-20",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "\"The Pace Has Been Relentless\": CoreWeave's CEO on AI Speed",
-      "topics": [
-        "Inference"
       ]
     },
     {
@@ -494,21 +493,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "w9RDunJACkc",
-      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
-      "thumbnail": "https://i.ytimg.com/vi/w9RDunJACkc/mqdefault.jpg",
-      "published": "2026-09-01",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "GLM 5.3: Powerful AI Is Becoming Almost Free",
       "topics": [
         "General LLM"
       ]
