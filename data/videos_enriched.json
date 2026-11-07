@@ -1,7 +1,83 @@
 {
-  "last_updated": "2026-11-06 13:30 UTC",
+  "last_updated": "2026-11-07 12:09 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "187QjWfps8s",
+      "title": "CoreWeave AI Training:  Built for Training at Scale with Confidence",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=187QjWfps8s",
+      "thumbnail": "https://i.ytimg.com/vi/187QjWfps8s/mqdefault.jpg",
+      "published": "2026-11-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave AI Training:  Built for Training at Scale with Confidence",
+      "topics": [
+        "Fine-tuning"
+      ]
+    },
+    {
+      "video_id": "fRxCjVCC5MA",
+      "title": "CoreWeave ARIA: AI Research and Iteration Agent for Continuous Improvement",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=fRxCjVCC5MA",
+      "thumbnail": "https://i.ytimg.com/vi/fRxCjVCC5MA/mqdefault.jpg",
+      "published": "2026-11-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave ARIA: AI Research and Iteration Agent for Continuous Improvement",
+      "topics": [
+        "RAG",
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "YS1aIx-CYqs",
+      "title": "CoreWeave Agent Lens: Intelligent Agent Observability at Enterprise Scale",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=YS1aIx-CYqs",
+      "thumbnail": "https://i.ytimg.com/vi/YS1aIx-CYqs/mqdefault.jpg",
+      "published": "2026-11-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave Agent Lens: Intelligent Agent Observability at Enterprise Scale",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "jzVIb-9WvdY",
+      "title": "CoreWeave Serverless Inference: Start building in CoreWeave Forge",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=jzVIb-9WvdY",
+      "thumbnail": "https://i.ytimg.com/vi/jzVIb-9WvdY/mqdefault.jpg",
+      "published": "2026-11-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave Serverless Inference: Start building in CoreWeave Forge",
+      "topics": [
+        "Inference"
+      ]
+    },
+    {
+      "video_id": "Y__cz06FeXI",
+      "title": "CoreWeave Dedicated Inference: Built for predictable inference at scale",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=Y__cz06FeXI",
+      "thumbnail": "https://i.ytimg.com/vi/Y__cz06FeXI/mqdefault.jpg",
+      "published": "2026-11-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave Dedicated Inference: Built for predictable inference at scale",
+      "topics": [
+        "Inference"
+      ]
+    },
     {
       "video_id": "XgC1QTs6A2U",
       "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
@@ -44,6 +120,22 @@
       "transcript_source": "none",
       "summary": "Using CoreWeave Mission Control to Diagnose and Fix Slow Inference",
       "topics": [
+        "Inference"
+      ]
+    },
+    {
+      "video_id": "YmhPkT8CyRQ",
+      "title": "Inference Optimization with CoreWeave Mission Control Agent",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=YmhPkT8CyRQ",
+      "thumbnail": "https://i.ytimg.com/vi/YmhPkT8CyRQ/mqdefault.jpg",
+      "published": "2026-11-04",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Inference Optimization with CoreWeave Mission Control Agent",
+      "topics": [
+        "Agents",
         "Inference"
       ]
     },
@@ -178,51 +270,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "z8lBbtEqbL0",
-      "title": "CoreWeave Agent Lens: Intelligent agent observability at enterprise scale",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=z8lBbtEqbL0",
-      "thumbnail": "https://i.ytimg.com/vi/z8lBbtEqbL0/mqdefault.jpg",
-      "published": "2026-10-23",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "CoreWeave Agent Lens: Intelligent agent observability at enterprise scale",
-      "topics": [
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "qCvTEzQ86Gc",
-      "title": "Introducing CoreWeave Physical AI Launchables",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=qCvTEzQ86Gc",
-      "thumbnail": "https://i.ytimg.com/vi/qCvTEzQ86Gc/mqdefault.jpg",
-      "published": "2026-10-22",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Introducing CoreWeave Physical AI Launchables",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "tEYA-M30u0E",
-      "title": "AI Can Now Predict 85%+ of What You’ll Do Next | Simile Co-founder & CEO, Joon Sung Park",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=tEYA-M30u0E",
-      "thumbnail": "https://i.ytimg.com/vi/tEYA-M30u0E/mqdefault.jpg",
-      "published": "2026-10-22",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Can Now Predict 85%+ of What You’ll Do Next | Simile Co-founder & CEO, Joon Sung Park",
       "topics": [
         "General LLM"
       ]
