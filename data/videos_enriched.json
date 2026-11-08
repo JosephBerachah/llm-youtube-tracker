@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-11-07 12:09 UTC",
+  "last_updated": "2026-11-08 12:30 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "GJ6PMUm5oTA",
+      "title": "OpenAI's Astra Just Opened The Black Box Of AI",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+      "thumbnail": "https://i.ytimg.com/vi/GJ6PMUm5oTA/mqdefault.jpg",
+      "published": "2026-11-07",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "OpenAI's Astra Just Opened The Black Box Of AI",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "187QjWfps8s",
       "title": "CoreWeave AI Training:  Built for Training at Scale with Confidence",
@@ -525,21 +540,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "GPT 6 Astra, so good even OpenAI are worried",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "B3LXEW4Pc-w",
-      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-      "thumbnail": "https://i.ytimg.com/vi/B3LXEW4Pc-w/mqdefault.jpg",
-      "published": "2026-09-03",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
       "topics": [
         "General LLM"
       ]
