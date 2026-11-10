@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09 14:46 UTC",
+  "last_updated": "2026-11-10 14:01 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -102,10 +102,14 @@
       "published": "2026-11-06",
       "views": "N/A",
       "transcript": null,
-      "transcript_source": "none",
-      "summary": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+      "transcript_source": "yt-dlp",
+      "summary": "When I was at the NVIDIA headquarters, I heard about a robot that was going around handing out popcorn to people. I haven't seen it, but is that true? >> Yeah. >> Yeah. >> Too much pressure on the kne",
       "topics": [
-        "General LLM"
+        "RAG",
+        "Agents",
+        "Fine-tuning",
+        "Multimodal",
+        "Reasoning"
       ]
     },
     {
@@ -223,10 +227,15 @@
       "published": "2026-10-30",
       "views": "N/A",
       "transcript": null,
-      "transcript_source": "none",
-      "summary": "OpenAI Claims It Just Did The Impossible",
+      "transcript_source": "yt-dlp",
+      "summary": "I did not think this would happen in my lifetime. Let me try to explain. For many decades now, computer scientists have been thinking up devilishly difficult problems and found that trying to solve so",
       "topics": [
-        "General LLM"
+        "RAG",
+        "Agents",
+        "Fine-tuning",
+        "Multimodal",
+        "Inference",
+        "Reasoning"
       ]
     },
     {
@@ -515,21 +524,6 @@
       ]
     },
     {
-      "video_id": "eVBJIUxv8N8",
-      "title": "GPT-6 Astra Changes Everything",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-      "thumbnail": "https://i.ytimg.com/vi/eVBJIUxv8N8/mqdefault.jpg",
-      "published": "2026-09-08",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "GPT-6 Astra Changes Everything",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "Spuza-KwTJ4",
       "title": "GPT 6 Astra, so good even OpenAI are worried",
       "channel": "AI Explained",
@@ -568,10 +562,13 @@
       "published": "2026-08-26",
       "views": "N/A",
       "transcript": null,
-      "transcript_source": "none",
-      "summary": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501",
+      "transcript_source": "yt-dlp",
+      "summary": "- There are decades where nothing happens\nand weeks where decades happen. And we have seen decades of progress happen in the last nine months.\nIf you're not recognizing the gravity of the moment, that",
       "topics": [
-        "Agents"
+        "RAG",
+        "Agents",
+        "Multimodal",
+        "Inference"
       ]
     },
     {
@@ -733,10 +730,10 @@
       "published": "2026-03-03",
       "views": "N/A",
       "transcript": null,
-      "transcript_source": "none",
-      "summary": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI",
+      "transcript_source": "yt-dlp",
+      "summary": "All right, we're training with Khabib today. One of the greatest fighters of all time, a great human being. It's honestly unbelievable that I have the honor to be able to train with these guys today. ",
       "topics": [
-        "General LLM"
+        "Fine-tuning"
       ]
     },
     {
@@ -853,10 +850,11 @@
       "published": "2025-05-05",
       "views": "N/A",
       "transcript": null,
-      "transcript_source": "none",
-      "summary": "Archie: an engineering AGI for Dyson Spheres | P-1 AI | $23 million seed round",
+      "transcript_source": "yt-dlp",
+      "summary": "Hey guys, in this video I want to tell you more about what I've been up to since late last summer. Uh I co-ounded an AI startup called P1 AI together with Paul and Adam. Uh Paul on the left hand side ",
       "topics": [
-        "General LLM"
+        "Agents",
+        "Multimodal"
       ]
     },
     {
@@ -1078,10 +1076,14 @@
       "published": "2024-03-07",
       "views": "N/A",
       "transcript": null,
-      "transcript_source": "none",
-      "summary": "GPT-Fast - blazingly fast inference with PyTorch (w/ Horace He)",
+      "transcript_source": "yt-dlp",
+      "summary": "let me quickly introduce Horus we already had him as I think second or third speaker ever since we started this last year um Horus is part of the pytorch team um basically working at meta um previousl",
       "topics": [
-        "Inference"
+        "Fine-tuning",
+        "Multimodal",
+        "Architecture",
+        "Inference",
+        "Open Source"
       ]
     },
     {
