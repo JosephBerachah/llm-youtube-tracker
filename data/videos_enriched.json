@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-11-10 14:01 UTC",
+  "last_updated": "2026-11-11 13:16 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "qD3FrUgkVII",
+      "title": "Claude's \"Clean-Room\" Compiler Copied LLVM's Mistakes (Jeremy Howard)",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=qD3FrUgkVII",
+      "thumbnail": "https://i.ytimg.com/vi/qD3FrUgkVII/mqdefault.jpg",
+      "published": "2026-11-11",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude's \"Clean-Room\" Compiler Copied LLVM's Mistakes (Jeremy Howard)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "WyHxyBrKhaQ",
+      "title": "Random Code Starts Copying Itself (Blaise Agüera y Arcas)",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=WyHxyBrKhaQ",
+      "thumbnail": "https://i.ytimg.com/vi/WyHxyBrKhaQ/mqdefault.jpg",
+      "published": "2026-11-11",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Random Code Starts Copying Itself (Blaise Agüera y Arcas)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "583ThJIqQ7k",
+      "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "thumbnail": "https://i.ytimg.com/vi/583ThJIqQ7k/mqdefault.jpg",
+      "published": "2026-11-10",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "2hJkprFnzhY",
+      "title": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
+      "thumbnail": "https://i.ytimg.com/vi/2hJkprFnzhY/mqdefault.jpg",
+      "published": "2026-11-10",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "GJ6PMUm5oTA",
       "title": "OpenAI's Astra Just Opened The Black Box Of AI",
@@ -15,6 +75,25 @@
       "summary": "OpenAI's Astra Just Opened The Black Box Of AI",
       "topics": [
         "General LLM"
+      ]
+    },
+    {
+      "video_id": "XgC1QTs6A2U",
+      "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+      "thumbnail": "https://i.ytimg.com/vi/XgC1QTs6A2U/mqdefault.jpg",
+      "published": "2026-11-06",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "yt-dlp",
+      "summary": "When I was at the NVIDIA headquarters, I heard about a robot that was going around handing out popcorn to people. I haven't seen it, but is that true? >> Yeah. >> Yeah. >> Too much pressure on the kne",
+      "topics": [
+        "RAG",
+        "Agents",
+        "Fine-tuning",
+        "Multimodal",
+        "Reasoning"
       ]
     },
     {
@@ -91,25 +170,6 @@
       "summary": "CoreWeave Dedicated Inference: Built for predictable inference at scale",
       "topics": [
         "Inference"
-      ]
-    },
-    {
-      "video_id": "XgC1QTs6A2U",
-      "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
-      "thumbnail": "https://i.ytimg.com/vi/XgC1QTs6A2U/mqdefault.jpg",
-      "published": "2026-11-06",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "yt-dlp",
-      "summary": "When I was at the NVIDIA headquarters, I heard about a robot that was going around handing out popcorn to people. I haven't seen it, but is that true? >> Yeah. >> Yeah. >> Too much pressure on the kne",
-      "topics": [
-        "RAG",
-        "Agents",
-        "Fine-tuning",
-        "Multimodal",
-        "Reasoning"
       ]
     },
     {
@@ -204,21 +264,6 @@
       ]
     },
     {
-      "video_id": "kwG5RIg1s98",
-      "title": "AI Simulation Is One Point From Human Parity",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=kwG5RIg1s98",
-      "thumbnail": "https://i.ytimg.com/vi/kwG5RIg1s98/mqdefault.jpg",
-      "published": "2026-10-30",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Simulation Is One Point From Human Parity",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "CWdTBLsbaQs",
       "title": "OpenAI Claims It Just Did The Impossible",
       "channel": "Two Minute Papers",
@@ -236,6 +281,21 @@
         "Multimodal",
         "Inference",
         "Reasoning"
+      ]
+    },
+    {
+      "video_id": "kwG5RIg1s98",
+      "title": "AI Simulation Is One Point From Human Parity",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=kwG5RIg1s98",
+      "thumbnail": "https://i.ytimg.com/vi/kwG5RIg1s98/mqdefault.jpg",
+      "published": "2026-10-30",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Simulation Is One Point From Human Parity",
+      "topics": [
+        "General LLM"
       ]
     },
     {
@@ -354,21 +414,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "AI Labs Warn Race Makes Breach ‘Inevitable’",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "DVRMDoYhVBI",
-      "title": "AI Coding Is a Slot Machine: Loss Disguised as a Win | Jeremy Howard",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=DVRMDoYhVBI",
-      "thumbnail": "https://i.ytimg.com/vi/DVRMDoYhVBI/mqdefault.jpg",
-      "published": "2026-10-11",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Coding Is a Slot Machine: Loss Disguised as a Win | Jeremy Howard",
       "topics": [
         "General LLM"
       ]
@@ -732,21 +777,6 @@
       "transcript": null,
       "transcript_source": "yt-dlp",
       "summary": "All right, we're training with Khabib today. One of the greatest fighters of all time, a great human being. It's honestly unbelievable that I have the honor to be able to train with these guys today. ",
-      "topics": [
-        "Fine-tuning"
-      ]
-    },
-    {
-      "video_id": "KGVpKPNUdzA",
-      "title": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=KGVpKPNUdzA",
-      "thumbnail": "https://i.ytimg.com/vi/KGVpKPNUdzA/mqdefault.jpg",
-      "published": "2026-02-25",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Khabib vs Lex: Training with Khabib | FULL EXCLUSIVE FOOTAGE",
       "topics": [
         "Fine-tuning"
       ]
