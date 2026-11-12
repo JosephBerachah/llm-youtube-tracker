@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-11-11 13:16 UTC",
+  "last_updated": "2026-11-12 14:20 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "gPNiuyYirfw",
+      "title": "DeepMind’s AI Just Did The Impossible",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+      "thumbnail": "https://i.ytimg.com/vi/gPNiuyYirfw/mqdefault.jpg",
+      "published": "2026-11-12",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "DeepMind’s AI Just Did The Impossible",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "BnA4i_vjcV4",
+      "title": "LLMs Cosplay Understanding (Jeremy Howard)",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=BnA4i_vjcV4",
+      "thumbnail": "https://i.ytimg.com/vi/BnA4i_vjcV4/mqdefault.jpg",
+      "published": "2026-11-11",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "LLMs Cosplay Understanding (Jeremy Howard)",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "qD3FrUgkVII",
       "title": "Claude's \"Clean-Room\" Compiler Copied LLVM's Mistakes (Jeremy Howard)",
@@ -324,21 +354,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "DeepSeek's New AI Is An Absolute Monster",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "unwUjyA52tM",
-      "title": "The Trojan Horse in AI-Written Mathematics",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=unwUjyA52tM",
-      "thumbnail": "https://i.ytimg.com/vi/unwUjyA52tM/mqdefault.jpg",
-      "published": "2026-10-27",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The Trojan Horse in AI-Written Mathematics",
       "topics": [
         "General LLM"
       ]
