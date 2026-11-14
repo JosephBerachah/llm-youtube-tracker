@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13 13:42 UTC",
+  "last_updated": "2026-11-14 12:46 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -79,7 +79,7 @@
     },
     {
       "video_id": "2hJkprFnzhY",
-      "title": "Russia-Ukraine War: Putin, Zelenskyy, Trump and the Future of Warfare | Lex Fridman Podcast #504",
+      "title": "Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504",
       "channel": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
       "thumbnail": "https://i.ytimg.com/vi/2hJkprFnzhY/mqdefault.jpg",
@@ -87,7 +87,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Russia-Ukraine War: Putin, Zelenskyy, Trump and the Future of Warfare | Lex Fridman Podcast #504",
+      "summary": "Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504",
       "topics": [
         "General LLM"
       ]
@@ -566,21 +566,6 @@
       "summary": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
       "topics": [
         "RAG"
-      ]
-    },
-    {
-      "video_id": "YoEWjZSwoys",
-      "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-      "thumbnail": "https://i.ytimg.com/vi/YoEWjZSwoys/mqdefault.jpg",
-      "published": "2026-09-15",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-      "topics": [
-        "General LLM"
       ]
     },
     {
