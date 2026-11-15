@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-11-14 12:46 UTC",
+  "last_updated": "2026-11-15 13:13 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "x7iwI6WfWS0",
+      "title": "AI Can Do Everything…Except This",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
+      "thumbnail": "https://i.ytimg.com/vi/x7iwI6WfWS0/mqdefault.jpg",
+      "published": "2026-11-14",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Can Do Everything…Except This",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "gPNiuyYirfw",
       "title": "DeepMind’s AI Just Did The Impossible",
@@ -79,7 +94,7 @@
     },
     {
       "video_id": "2hJkprFnzhY",
-      "title": "Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504",
+      "title": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504",
       "channel": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=2hJkprFnzhY",
       "thumbnail": "https://i.ytimg.com/vi/2hJkprFnzhY/mqdefault.jpg",
@@ -87,7 +102,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Ukraine War: Putin, Zelenskyy, Trump, Drones and the Future of Warfare | Lex Fridman Podcast #504",
+      "summary": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504",
       "topics": [
         "General LLM"
       ]
@@ -390,7 +405,7 @@
     },
     {
       "video_id": "FGCP2F_7rQk",
-      "title": "Taiwan Night Market Food Tour w/ Jensen Huang | Lex Fridman",
+      "title": "Lex & Jensen Huang visit Taiwan",
       "channel": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/mqdefault.jpg",
@@ -398,7 +413,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Taiwan Night Market Food Tour w/ Jensen Huang | Lex Fridman",
+      "summary": "Lex & Jensen Huang visit Taiwan",
       "topics": [
         "General LLM"
       ]
