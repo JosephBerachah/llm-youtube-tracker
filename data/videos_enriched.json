@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15 13:13 UTC",
+  "last_updated": "2026-11-16 14:31 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -405,7 +405,7 @@
     },
     {
       "video_id": "FGCP2F_7rQk",
-      "title": "Lex & Jensen Huang visit Taiwan",
+      "title": "Jensen Huang & Lex visit Taiwan's Night Markets and Computex",
       "channel": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/mqdefault.jpg",
@@ -413,7 +413,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Lex & Jensen Huang visit Taiwan",
+      "summary": "Jensen Huang & Lex visit Taiwan's Night Markets and Computex",
       "topics": [
         "General LLM"
       ]
