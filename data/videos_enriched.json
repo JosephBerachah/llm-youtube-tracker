@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-11-16 14:31 UTC",
+  "last_updated": "2026-11-17 15:14 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "ulnkfr6E5z4",
+      "title": "The Quiet $1B+ Company Shaping AI’s Behavior | Nick Heiner, Surge AI",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=ulnkfr6E5z4",
+      "thumbnail": "https://i.ytimg.com/vi/ulnkfr6E5z4/mqdefault.jpg",
+      "published": "2026-11-17",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Quiet $1B+ Company Shaping AI’s Behavior | Nick Heiner, Surge AI",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "gl2U4fGTr6g",
+      "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+      "thumbnail": "https://i.ytimg.com/vi/gl2U4fGTr6g/mqdefault.jpg",
+      "published": "2026-11-17",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "OpenAI's New Breakthrough Is... Utter Chaos",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "8av-P18HH4w",
+      "title": "CoreWeave ARENA: AI Founders Who Chose the Hardest Problems",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=8av-P18HH4w",
+      "thumbnail": "https://i.ytimg.com/vi/8av-P18HH4w/mqdefault.jpg",
+      "published": "2026-11-16",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave ARENA: AI Founders Who Chose the Hardest Problems",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "x7iwI6WfWS0",
       "title": "AI Can Do Everything…Except This",
@@ -329,36 +374,6 @@
       ]
     },
     {
-      "video_id": "kwG5RIg1s98",
-      "title": "AI Simulation Is One Point From Human Parity",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=kwG5RIg1s98",
-      "thumbnail": "https://i.ytimg.com/vi/kwG5RIg1s98/mqdefault.jpg",
-      "published": "2026-10-30",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Simulation Is One Point From Human Parity",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "eFTsJ413h7I",
-      "title": "Beating ChatGPT and Claude at Predicting People",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=eFTsJ413h7I",
-      "thumbnail": "https://i.ytimg.com/vi/eFTsJ413h7I/mqdefault.jpg",
-      "published": "2026-10-28",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Beating ChatGPT and Claude at Predicting People",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "pryCaGv8wuo",
       "title": "DeepSeek's New AI Is An Absolute Monster",
       "channel": "Two Minute Papers",
@@ -405,7 +420,7 @@
     },
     {
       "video_id": "FGCP2F_7rQk",
-      "title": "Jensen Huang & Lex visit Taiwan's Night Markets and Computex",
+      "title": "Jensen Huang visits Taiwan w/ Lex Fridman",
       "channel": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/mqdefault.jpg",
@@ -413,7 +428,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Jensen Huang & Lex visit Taiwan's Night Markets and Computex",
+      "summary": "Jensen Huang visits Taiwan w/ Lex Fridman",
       "topics": [
         "General LLM"
       ]
