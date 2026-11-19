@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-11-18 14:52 UTC",
+  "last_updated": "2026-11-19 14:58 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "io7qhEjJoik",
+      "title": "What a Squirrel Knows That Language Models Skip (Michael Tomasello)",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=io7qhEjJoik",
+      "thumbnail": "https://i.ytimg.com/vi/io7qhEjJoik/mqdefault.jpg",
+      "published": "2026-11-19",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "What a Squirrel Knows That Language Models Skip (Michael Tomasello)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "HTUVov9UY10",
+      "title": "We Built Our Own F1 Race Engineer With Local AI (Vegas Grand Prix)",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=HTUVov9UY10",
+      "thumbnail": "https://i.ytimg.com/vi/HTUVov9UY10/mqdefault.jpg",
+      "published": "2026-11-19",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "We Built Our Own F1 Race Engineer With Local AI (Vegas Grand Prix)",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "ulnkfr6E5z4",
       "title": "The Quiet $1B+ Company Shaping AI’s Behavior | Nick Heiner, Surge AI",
@@ -309,36 +339,6 @@
       ]
     },
     {
-      "video_id": "IumZxFbwQ3E",
-      "title": "How Rime Trains Voice AI Faster with CoreWeave",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=IumZxFbwQ3E",
-      "thumbnail": "https://i.ytimg.com/vi/IumZxFbwQ3E/mqdefault.jpg",
-      "published": "2026-11-04",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "How Rime Trains Voice AI Faster with CoreWeave",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "Ev9ttz0DyME",
-      "title": "AI Innovators in Action: Mistral AI x CoreWeave",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=Ev9ttz0DyME",
-      "thumbnail": "https://i.ytimg.com/vi/Ev9ttz0DyME/mqdefault.jpg",
-      "published": "2026-11-03",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "AI Innovators in Action: Mistral AI x CoreWeave",
-      "topics": [
-        "Open Source"
-      ]
-    },
-    {
       "video_id": "0Kw6_DTZPrY",
       "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
       "channel": "AI Explained",
@@ -420,7 +420,7 @@
     },
     {
       "video_id": "FGCP2F_7rQk",
-      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
+      "title": "Jensen & Lex in Taiwan",
       "channel": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/mqdefault.jpg",
@@ -428,7 +428,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
+      "summary": "Jensen & Lex in Taiwan",
       "topics": [
         "General LLM"
       ]
