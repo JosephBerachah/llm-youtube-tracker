@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-11-19 14:58 UTC",
+  "last_updated": "2026-11-20 14:40 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "2QcPx7rZ4ug",
+      "title": "I Tracked Every Mistake My AI Race Engineer Made (Agent Lens) | Part 2",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=2QcPx7rZ4ug",
+      "thumbnail": "https://i.ytimg.com/vi/2QcPx7rZ4ug/mqdefault.jpg",
+      "published": "2026-11-20",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "I Tracked Every Mistake My AI Race Engineer Made (Agent Lens) | Part 2",
+      "topics": [
+        "Agents"
+      ]
+    },
+    {
+      "video_id": "KGA7B_c_S4s",
+      "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+      "thumbnail": "https://i.ytimg.com/vi/KGA7B_c_S4s/mqdefault.jpg",
+      "published": "2026-11-19",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "io7qhEjJoik",
       "title": "What a Squirrel Knows That Language Models Skip (Michael Tomasello)",
@@ -18,8 +48,38 @@
       ]
     },
     {
+      "video_id": "112Bv0O1n3k",
+      "title": "CoreWeave Forge | Your AI Loop, Connected",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=112Bv0O1n3k",
+      "thumbnail": "https://i.ytimg.com/vi/112Bv0O1n3k/mqdefault.jpg",
+      "published": "2026-11-19",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "CoreWeave Forge | Your AI Loop, Connected",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "5DowGQwqSoY",
+      "title": "Fully Connected 2026 East Coast: Launches, Roadmap, and Scaling AI Infrastructure",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=5DowGQwqSoY",
+      "thumbnail": "https://i.ytimg.com/vi/5DowGQwqSoY/mqdefault.jpg",
+      "published": "2026-11-19",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Fully Connected 2026 East Coast: Launches, Roadmap, and Scaling AI Infrastructure",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
       "video_id": "HTUVov9UY10",
-      "title": "We Built Our Own F1 Race Engineer With Local AI (Vegas Grand Prix)",
+      "title": "I Built My Own F1 Race Engineer With Local AI (Vegas Grand Prix)",
       "channel": "Weights & Biases",
       "url": "https://www.youtube.com/watch?v=HTUVov9UY10",
       "thumbnail": "https://i.ytimg.com/vi/HTUVov9UY10/mqdefault.jpg",
@@ -27,7 +87,22 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "We Built Our Own F1 Race Engineer With Local AI (Vegas Grand Prix)",
+      "summary": "I Built My Own F1 Race Engineer With Local AI (Vegas Grand Prix)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "Cy7Wz6Z4TWU",
+      "title": "DeepMind Just Released The Best Thing AI Ever Did",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
+      "thumbnail": "https://i.ytimg.com/vi/Cy7Wz6Z4TWU/mqdefault.jpg",
+      "published": "2026-11-19",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "DeepMind Just Released The Best Thing AI Ever Did",
       "topics": [
         "General LLM"
       ]
@@ -308,37 +383,6 @@
       ]
     },
     {
-      "video_id": "nsRbSIc4X38",
-      "title": "Using CoreWeave Mission Control to Diagnose and Fix Slow Inference",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=nsRbSIc4X38",
-      "thumbnail": "https://i.ytimg.com/vi/nsRbSIc4X38/mqdefault.jpg",
-      "published": "2026-11-05",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Using CoreWeave Mission Control to Diagnose and Fix Slow Inference",
-      "topics": [
-        "Inference"
-      ]
-    },
-    {
-      "video_id": "YmhPkT8CyRQ",
-      "title": "Inference Optimization with CoreWeave Mission Control Agent",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=YmhPkT8CyRQ",
-      "thumbnail": "https://i.ytimg.com/vi/YmhPkT8CyRQ/mqdefault.jpg",
-      "published": "2026-11-04",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Inference Optimization with CoreWeave Mission Control Agent",
-      "topics": [
-        "Agents",
-        "Inference"
-      ]
-    },
-    {
       "video_id": "0Kw6_DTZPrY",
       "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
       "channel": "AI Explained",
@@ -420,7 +464,7 @@
     },
     {
       "video_id": "FGCP2F_7rQk",
-      "title": "Jensen & Lex in Taiwan",
+      "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
       "channel": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
       "thumbnail": "https://i.ytimg.com/vi/FGCP2F_7rQk/mqdefault.jpg",
@@ -428,7 +472,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Jensen & Lex in Taiwan",
+      "summary": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman",
       "topics": [
         "General LLM"
       ]
@@ -732,21 +776,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "Claude Fable 5 - Full 319 page Breakdown",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "aJvP3nXWkwM",
-      "title": "New Claude Opus 4.8: 15 Things You May’ve Missed",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
-      "thumbnail": "https://i.ytimg.com/vi/aJvP3nXWkwM/mqdefault.jpg",
-      "published": "2026-05-29",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "New Claude Opus 4.8: 15 Things You May’ve Missed",
       "topics": [
         "General LLM"
       ]
