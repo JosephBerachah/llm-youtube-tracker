@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-11-21 13:57 UTC",
+  "last_updated": "2026-11-22 13:50 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "zqzk43bSdDI",
+      "title": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+      "channel": "3Blue1Brown",
+      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "thumbnail": "https://i.ytimg.com/vi/zqzk43bSdDI/mqdefault.jpg",
+      "published": "2026-11-22",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "INeNb0wwErg",
+      "title": "Chimps Quit When Paid (Michael Tomasello)",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=INeNb0wwErg",
+      "thumbnail": "https://i.ytimg.com/vi/INeNb0wwErg/mqdefault.jpg",
+      "published": "2026-11-21",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Chimps Quit When Paid (Michael Tomasello)",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "2QcPx7rZ4ug",
       "title": "I Tracked Every Mistake My AI Race Engineer Made (Agent Lens) | Part 2",
@@ -34,7 +64,7 @@
     },
     {
       "video_id": "io7qhEjJoik",
-      "title": "What a Squirrel Knows That Language Models Skip (Michael Tomasello)",
+      "title": "What a Squirrel Does That LLMs Don't (Michael Tomasello)",
       "channel": "Machine Learning Street Talk",
       "url": "https://www.youtube.com/watch?v=io7qhEjJoik",
       "thumbnail": "https://i.ytimg.com/vi/io7qhEjJoik/mqdefault.jpg",
@@ -42,7 +72,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "What a Squirrel Knows That Language Models Skip (Michael Tomasello)",
+      "summary": "What a Squirrel Does That LLMs Don't (Michael Tomasello)",
       "topics": [
         "General LLM"
       ]
