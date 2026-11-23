@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-11-22 13:50 UTC",
+  "last_updated": "2026-11-23 16:55 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "IUcrxIM0K-Y",
+      "title": "AI Just Pours Tokens Into the Problem (Kevin Buzzard)",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=IUcrxIM0K-Y",
+      "thumbnail": "https://i.ytimg.com/vi/IUcrxIM0K-Y/mqdefault.jpg",
+      "published": "2026-11-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Just Pours Tokens Into the Problem (Kevin Buzzard)",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "1jPdehG3Hms",
+      "title": "Claude AI Solved The Secret Of Black Holes",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+      "thumbnail": "https://i.ytimg.com/vi/1jPdehG3Hms/mqdefault.jpg",
+      "published": "2026-11-23",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude AI Solved The Secret Of Black Holes",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "zqzk43bSdDI",
       "title": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
@@ -610,21 +640,6 @@
       "summary": "Opus 5.5: How Close Are We to Automated AI Research?",
       "topics": [
         "RAG"
-      ]
-    },
-    {
-      "video_id": "SA9kdAX2Zj0",
-      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "thumbnail": "https://i.ytimg.com/vi/SA9kdAX2Zj0/mqdefault.jpg",
-      "published": "2026-09-24",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "topics": [
-        "General LLM"
       ]
     },
     {
