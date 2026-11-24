@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23 16:55 UTC",
+  "last_updated": "2026-11-24 16:46 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -34,7 +34,7 @@
     },
     {
       "video_id": "zqzk43bSdDI",
-      "title": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+      "title": "We've been asking: “What if AI solved the Riemann Hypothesis?”",
       "channel": "3Blue1Brown",
       "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
       "thumbnail": "https://i.ytimg.com/vi/zqzk43bSdDI/mqdefault.jpg",
@@ -42,7 +42,7 @@
       "views": "N/A",
       "transcript": null,
       "transcript_source": "none",
-      "summary": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+      "summary": "We've been asking: “What if AI solved the Riemann Hypothesis?”",
       "topics": [
         "General LLM"
       ]
@@ -425,21 +425,6 @@
       "summary": "CoreWeave Dedicated Inference: Built for predictable inference at scale",
       "topics": [
         "Inference"
-      ]
-    },
-    {
-      "video_id": "aj-Yene1dyM",
-      "title": "CoreWeave Registry: The System of Record for Enterprise AI Assets",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=aj-Yene1dyM",
-      "thumbnail": "https://i.ytimg.com/vi/aj-Yene1dyM/mqdefault.jpg",
-      "published": "2026-11-05",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "CoreWeave Registry: The System of Record for Enterprise AI Assets",
-      "topics": [
-        "General LLM"
       ]
     },
     {
