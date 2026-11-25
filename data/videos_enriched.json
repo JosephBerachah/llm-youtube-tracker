@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-11-24 16:46 UTC",
+  "last_updated": "2026-11-25 16:31 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "KaraiGjLJAQ",
+      "title": "The Billion-Dollar Blind Spot of AI Benchmarks #shorts",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=KaraiGjLJAQ",
+      "thumbnail": "https://i.ytimg.com/vi/KaraiGjLJAQ/mqdefault.jpg",
+      "published": "2026-11-25",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "The Billion-Dollar Blind Spot of AI Benchmarks #shorts",
+      "topics": [
+        "Benchmarks"
+      ]
+    },
+    {
+      "video_id": "ZeplNfEg0WQ",
+      "title": "One Giant AI vs. A Million Specialists: The $1 Quadrillion Problem #shorts",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=ZeplNfEg0WQ",
+      "thumbnail": "https://i.ytimg.com/vi/ZeplNfEg0WQ/mqdefault.jpg",
+      "published": "2026-11-25",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "One Giant AI vs. A Million Specialists: The $1 Quadrillion Problem #shorts",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "hwWlEuI359w",
+      "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=hwWlEuI359w",
+      "thumbnail": "https://i.ytimg.com/vi/hwWlEuI359w/mqdefault.jpg",
+      "published": "2026-11-25",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "IUcrxIM0K-Y",
       "title": "AI Just Pours Tokens Into the Problem (Kevin Buzzard)",
@@ -273,21 +318,6 @@
       ]
     },
     {
-      "video_id": "WyHxyBrKhaQ",
-      "title": "Random Code Starts Copying Itself (Blaise Agüera y Arcas)",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=WyHxyBrKhaQ",
-      "thumbnail": "https://i.ytimg.com/vi/WyHxyBrKhaQ/mqdefault.jpg",
-      "published": "2026-11-11",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Random Code Starts Copying Itself (Blaise Agüera y Arcas)",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "583ThJIqQ7k",
       "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
       "channel": "AI Explained",
@@ -395,36 +425,6 @@
       "summary": "CoreWeave Agent Lens: Intelligent Agent Observability at Enterprise Scale",
       "topics": [
         "Agents"
-      ]
-    },
-    {
-      "video_id": "jzVIb-9WvdY",
-      "title": "CoreWeave Serverless Inference: Start building in CoreWeave Forge",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=jzVIb-9WvdY",
-      "thumbnail": "https://i.ytimg.com/vi/jzVIb-9WvdY/mqdefault.jpg",
-      "published": "2026-11-06",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "CoreWeave Serverless Inference: Start building in CoreWeave Forge",
-      "topics": [
-        "Inference"
-      ]
-    },
-    {
-      "video_id": "Y__cz06FeXI",
-      "title": "CoreWeave Dedicated Inference: Built for predictable inference at scale",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=Y__cz06FeXI",
-      "thumbnail": "https://i.ytimg.com/vi/Y__cz06FeXI/mqdefault.jpg",
-      "published": "2026-11-06",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "CoreWeave Dedicated Inference: Built for predictable inference at scale",
-      "topics": [
-        "Inference"
       ]
     },
     {
@@ -578,21 +578,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "DeepMind's New AI Just Cracked The Code Of Life",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "ZHVNTTKu9fU",
-      "title": "The Billion Dollar AI Advantage Is Disappearing",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "thumbnail": "https://i.ytimg.com/vi/ZHVNTTKu9fU/mqdefault.jpg",
-      "published": "2026-10-05",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "The Billion Dollar AI Advantage Is Disappearing",
       "topics": [
         "General LLM"
       ]
