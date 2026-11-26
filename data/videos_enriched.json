@@ -1,7 +1,52 @@
 {
-  "last_updated": "2026-11-25 16:31 UTC",
+  "last_updated": "2026-11-26 16:05 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "vDDRbEOyEVc",
+      "title": "AI Engineering Is a Decade Ahead of the Maths #shorts",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=vDDRbEOyEVc",
+      "thumbnail": "https://i.ytimg.com/vi/vDDRbEOyEVc/mqdefault.jpg",
+      "published": "2026-11-26",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "AI Engineering Is a Decade Ahead of the Maths #shorts",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "nD1X9iYsHT4",
+      "title": "Why Rewarding AI for Creativity Causes Mode Collapse #shorts",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=nD1X9iYsHT4",
+      "thumbnail": "https://i.ytimg.com/vi/nD1X9iYsHT4/mqdefault.jpg",
+      "published": "2026-11-26",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Why Rewarding AI for Creativity Causes Mode Collapse #shorts",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "cgveN7Hc8bE",
+      "title": "Why Naive PhD Students Beat Entrenched Experts in AI #Shorts",
+      "channel": "Machine Learning Street Talk",
+      "url": "https://www.youtube.com/watch?v=cgveN7Hc8bE",
+      "thumbnail": "https://i.ytimg.com/vi/cgveN7Hc8bE/mqdefault.jpg",
+      "published": "2026-11-26",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Why Naive PhD Students Beat Entrenched Experts in AI #Shorts",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "KaraiGjLJAQ",
       "title": "The Billion-Dollar Blind Spot of AI Benchmarks #shorts",
@@ -28,6 +73,21 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "One Giant AI vs. A Million Specialists: The $1 Quadrillion Problem #shorts",
+      "topics": [
+        "General LLM"
+      ]
+    },
+    {
+      "video_id": "3A5UzMQY1OU",
+      "title": "Train Task-Specific Models with CoreWeave Model Distillation",
+      "channel": "Weights & Biases",
+      "url": "https://www.youtube.com/watch?v=3A5UzMQY1OU",
+      "thumbnail": "https://i.ytimg.com/vi/3A5UzMQY1OU/mqdefault.jpg",
+      "published": "2026-11-25",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "Train Task-Specific Models with CoreWeave Model Distillation",
       "topics": [
         "General LLM"
       ]
@@ -288,36 +348,6 @@
       ]
     },
     {
-      "video_id": "BnA4i_vjcV4",
-      "title": "LLMs Cosplay Understanding (Jeremy Howard)",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=BnA4i_vjcV4",
-      "thumbnail": "https://i.ytimg.com/vi/BnA4i_vjcV4/mqdefault.jpg",
-      "published": "2026-11-11",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "LLMs Cosplay Understanding (Jeremy Howard)",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "qD3FrUgkVII",
-      "title": "Claude's \"Clean-Room\" Compiler Copied LLVM's Mistakes (Jeremy Howard)",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=qD3FrUgkVII",
-      "thumbnail": "https://i.ytimg.com/vi/qD3FrUgkVII/mqdefault.jpg",
-      "published": "2026-11-11",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "Claude's \"Clean-Room\" Compiler Copied LLVM's Mistakes (Jeremy Howard)",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
       "video_id": "583ThJIqQ7k",
       "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
       "channel": "AI Explained",
@@ -409,21 +439,6 @@
       "summary": "CoreWeave ARIA: AI Research and Iteration Agent for Continuous Improvement",
       "topics": [
         "RAG",
-        "Agents"
-      ]
-    },
-    {
-      "video_id": "YS1aIx-CYqs",
-      "title": "CoreWeave Agent Lens: Intelligent Agent Observability at Enterprise Scale",
-      "channel": "Weights & Biases",
-      "url": "https://www.youtube.com/watch?v=YS1aIx-CYqs",
-      "thumbnail": "https://i.ytimg.com/vi/YS1aIx-CYqs/mqdefault.jpg",
-      "published": "2026-11-06",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "CoreWeave Agent Lens: Intelligent Agent Observability at Enterprise Scale",
-      "topics": [
         "Agents"
       ]
     },
