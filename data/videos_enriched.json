@@ -1,7 +1,22 @@
 {
-  "last_updated": "2026-11-26 16:05 UTC",
+  "last_updated": "2026-11-27 15:54 UTC",
   "model": "gpt-4o-mini",
   "videos": [
+    {
+      "video_id": "u6UYsl-KEoc",
+      "title": "DeepMind’s New AI Just Changed The AI Race",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+      "thumbnail": "https://i.ytimg.com/vi/u6UYsl-KEoc/mqdefault.jpg",
+      "published": "2026-11-27",
+      "views": "N/A",
+      "transcript": null,
+      "transcript_source": "none",
+      "summary": "DeepMind’s New AI Just Changed The AI Race",
+      "topics": [
+        "General LLM"
+      ]
+    },
     {
       "video_id": "vDDRbEOyEVc",
       "title": "AI Engineering Is a Decade Ahead of the Maths #shorts",
@@ -578,21 +593,6 @@
       "transcript": null,
       "transcript_source": "none",
       "summary": "DeepSeek Solved AI’s Memory Problem",
-      "topics": [
-        "General LLM"
-      ]
-    },
-    {
-      "video_id": "Wkaw03p3BrM",
-      "title": "DeepMind's New AI Just Cracked The Code Of Life",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
-      "thumbnail": "https://i.ytimg.com/vi/Wkaw03p3BrM/mqdefault.jpg",
-      "published": "2026-10-07",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "DeepMind's New AI Just Cracked The Code Of Life",
       "topics": [
         "General LLM"
       ]
