@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27 15:54 UTC",
+  "last_updated": "2026-11-28 14:48 UTC",
   "model": "gpt-4o-mini",
   "videos": [
     {
@@ -75,21 +75,6 @@
       "summary": "The Billion-Dollar Blind Spot of AI Benchmarks #shorts",
       "topics": [
         "Benchmarks"
-      ]
-    },
-    {
-      "video_id": "ZeplNfEg0WQ",
-      "title": "One Giant AI vs. A Million Specialists: The $1 Quadrillion Problem #shorts",
-      "channel": "Machine Learning Street Talk",
-      "url": "https://www.youtube.com/watch?v=ZeplNfEg0WQ",
-      "thumbnail": "https://i.ytimg.com/vi/ZeplNfEg0WQ/mqdefault.jpg",
-      "published": "2026-11-25",
-      "views": "N/A",
-      "transcript": null,
-      "transcript_source": "none",
-      "summary": "One Giant AI vs. A Million Specialists: The $1 Quadrillion Problem #shorts",
-      "topics": [
-        "General LLM"
       ]
     },
     {
